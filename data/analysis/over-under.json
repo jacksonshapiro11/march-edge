@@ -1,0 +1,122 @@
+[
+  {
+    "round": "S16",
+    "game": "Duke vs Kansas",
+    "projTotal": "~138",
+    "ouLean": "UNDER",
+    "confidence": "High",
+    "reasoning": "Both top-10 defenses. Bidunga vs Boozer = contested shots. Neither team plays fast pace. Defensive grind."
+  },
+  {
+    "round": "S16",
+    "game": "Michigan State vs UConn",
+    "projTotal": "~135",
+    "ouLean": "UNDER",
+    "confidence": "High",
+    "reasoning": "Two top-13 KenPom defenses. Izzo + Hurley both grind pace. Coaching masterclass results in 66-63 defensive battle."
+  },
+  {
+    "round": "S16",
+    "game": "Arizona vs Wisconsin",
+    "projTotal": "~143",
+    "ouLean": "SLIGHT OVER",
+    "confidence": "Med",
+    "reasoning": "Arizona 7 scorers raises offensive floor to 75+. Boyd/Blackwell can get Wisconsin to 80+. But Arizona elite D keeps total controlled. Slight edge to OVER."
+  },
+  {
+    "round": "S16",
+    "game": "BYU vs Purdue",
+    "projTotal": "~155",
+    "ouLean": "OVER",
+    "confidence": "High",
+    "reasoning": "BYU 177th defense can't stop Purdue #2 offense (Smith 14.9/8.7 APG, Loyer 42% 3PT). Dybantsa 25+ PPG regardless. Rare S16 OVER. Track meet mentality."
+  },
+  {
+    "round": "S16",
+    "game": "Michigan vs Akron",
+    "projTotal": "~138",
+    "ouLean": "UNDER",
+    "confidence": "High",
+    "reasoning": "#1 defense in America vs #1 scoring (Akron can't score). Michigan imposes defensive identity. Akron's 91.7 PPG drops to ~62 vs best D in country. Lendeborg 1.4 BPG dominance."
+  },
+  {
+    "round": "S16",
+    "game": "Virginia vs Iowa State",
+    "projTotal": "~132",
+    "ouLean": "STRONG UNDER",
+    "confidence": "V. High",
+    "reasoning": "UVA 297th tempo (glacial) + Iowa State top-10 defense = sub-65 possessions projected. Chess match in molasses. STRONGEST UNDER in entire S16 round."
+  },
+  {
+    "round": "S16",
+    "game": "Florida vs Vanderbilt",
+    "projTotal": "~148",
+    "ouLean": "SLIGHT OVER",
+    "confidence": "Med",
+    "reasoning": "SEC rematch. Familiarity breeds offensive efficiency. Both can score (UF #9 O, Vandy #11 KenPom). Defensive intensity less pronounced in rematch."
+  },
+  {
+    "round": "S16",
+    "game": "Illinois vs Houston",
+    "projTotal": "~130",
+    "ouLean": "STRONG UNDER",
+    "confidence": "V. High",
+    "reasoning": "Houston 62.9 PPG allowed (top-5 D) vs Illinois #1 offense in KenPom HISTORY (131.3/100). Sampson defensive architecture built for exactly this game. LOWEST S16 total."
+  },
+  {
+    "round": "E8",
+    "game": "Duke vs UConn",
+    "projTotal": "~137",
+    "ouLean": "UNDER",
+    "confidence": "High",
+    "reasoning": "Championship DNA on both sides. Both top-11 KenPom defenses. Hurley elite tournament coaching. 72-71 type game. Defensive intensity ratchets."
+  },
+  {
+    "round": "E8",
+    "game": "Arizona vs Purdue",
+    "projTotal": "~147",
+    "ouLean": "SLIGHT OVER",
+    "confidence": "Med",
+    "reasoning": "Arizona balance (7 scorers) + Purdue #2 offense (Smith's assists) = highest-scoring E8 game. Arizona D is elite but Purdue precision penetration beats it."
+  },
+  {
+    "round": "E8",
+    "game": "Michigan vs Iowa State",
+    "projTotal": "~133",
+    "ouLean": "UNDER",
+    "confidence": "High",
+    "reasoning": "Michigan held Big Ten opponents <30% 3PT. Even Momcilovic's 50% 3PT rate drops vs #1 D. Lendeborg/Mara own paint. Defensive grind."
+  },
+  {
+    "round": "E8",
+    "game": "Florida vs Houston",
+    "projTotal": "~127",
+    "ouLean": "STRONG UNDER",
+    "confidence": "V. High",
+    "reasoning": "2025 title game rematch played IN HOUSTON. Sampson held Florida to 65 PPG in title game. Home court + defensive mastery. LOWEST E8 total. Flemings vs Haugh isolation play decides."
+  },
+  {
+    "round": "F4",
+    "game": "UConn vs Arizona",
+    "projTotal": "~141",
+    "ouLean": "UNDER",
+    "confidence": "Med",
+    "reasoning": "Arizona depth vs UConn (gassed from Elite 8 war vs Duke). Both offenses slightly depleted. Low 70s projected both teams."
+  },
+  {
+    "round": "F4",
+    "game": "Michigan vs Houston",
+    "projTotal": "~130",
+    "ouLean": "STRONG UNDER",
+    "confidence": "High",
+    "reasoning": "Best two defenses left (#1 D + top-5 D). Michigan size neutralizes Sampson's scheme. Lendeborg (6-9, 1.4 BPG) + Mara (7-3) dominate interior. 68-61 type defensive slugfest."
+  },
+  {
+    "round": "CHAMP",
+    "game": "Arizona vs Michigan",
+    "projTotal": "~138",
+    "ouLean": "UNDER",
+    "confidence": "Med",
+    "reasoning": "Championship defense always ratchets up. Both top-3 defenses in field. Michigan glass dominance (Lendeborg 19/11/3 projected MOP). Possession-by-possession grind. 72-68."
+  }
+]

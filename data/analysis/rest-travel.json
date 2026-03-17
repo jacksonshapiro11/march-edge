@@ -1,0 +1,145 @@
+[
+  {
+    "team": "Arkansas",
+    "seed": "4 (W)",
+    "confTourneyGames": "4 games (won SEC)",
+    "lastGame": "Sun 3/15",
+    "daysRest": "4 days (Thu)",
+    "travel": "Fayetteville\u2192Portland",
+    "distance": "~1800",
+    "fatigueLevel": "\u26a0\ufe0f HIGH",
+    "impact": "Supports Wisconsin over Arkansas in R32. Acuff logged 37+ min in all 4 games."
+  },
+  {
+    "team": "Purdue",
+    "seed": "2 (W)",
+    "confTourneyGames": "4 games (won Big Ten)",
+    "lastGame": "Sun 3/15",
+    "daysRest": "5 days (Fri)",
+    "travel": "Indianapolis\u2192San Diego",
+    "distance": "~1850",
+    "fatigueLevel": "\u26a0\ufe0f HIGH",
+    "impact": "Supports Arizona over Purdue in E8. Late-season 6-7 + 4 tourney games = compounding fatigue."
+  },
+  {
+    "team": "Akron",
+    "seed": "12 (MW)",
+    "confTourneyGames": "3 games (won MAC)",
+    "lastGame": "Thu 3/13",
+    "daysRest": "7 days (Fri)",
+    "travel": "Akron\u2192Tampa",
+    "distance": "~970",
+    "fatigueLevel": "\u2705 FRESH",
+    "impact": "Max rest in field. Reinforces Akron upset of fatigued TTU."
+  },
+  {
+    "team": "Duke",
+    "seed": "1 (E)",
+    "confTourneyGames": "3 games (won ACC)",
+    "lastGame": "Fri 3/14",
+    "daysRest": "5 days (Thu)",
+    "travel": "Charlotte\u2192Greenville",
+    "distance": "~250",
+    "fatigueLevel": "MODERATE",
+    "impact": "Short travel but thin 7-man rotation gets worse each game. Supports UConn in E8."
+  },
+  {
+    "team": "Arizona",
+    "seed": "1 (W)",
+    "confTourneyGames": "3 games (won Big 12)",
+    "lastGame": "Sat 3/14",
+    "daysRest": "6 days (Fri)",
+    "travel": "Kansas City\u2192San Diego",
+    "distance": "~1500",
+    "fatigueLevel": "LOW",
+    "impact": "Extra day rest + won in 3 games. Healthy + fresh = safest 1-seed."
+  },
+  {
+    "team": "Michigan",
+    "seed": "1 (MW)",
+    "confTourneyGames": "3 games (lost final)",
+    "lastGame": "Sun 3/15",
+    "daysRest": "4 days (Thu)",
+    "travel": "Indianapolis\u2192OKC",
+    "distance": "~800",
+    "fatigueLevel": "MODERATE",
+    "impact": "Lost B10 final to Purdue. Moderate rest. But only played 3 games."
+  },
+  {
+    "team": "Florida",
+    "seed": "1 (S)",
+    "confTourneyGames": "2 games (lost semis)",
+    "lastGame": "Sat 3/14",
+    "daysRest": "6 days (Fri)",
+    "travel": "Nashville\u2192Tampa",
+    "distance": "~660",
+    "fatigueLevel": "LOW",
+    "impact": "Early SEC exit = extra rest + prep time. Advantage in S16 vs Vandy."
+  },
+  {
+    "team": "Houston",
+    "seed": "2 (S)",
+    "confTourneyGames": "3 games (lost final)",
+    "lastGame": "Sat 3/14",
+    "daysRest": "5 days (Thu)",
+    "travel": "Kansas City\u2192OKC",
+    "distance": "~340",
+    "fatigueLevel": "LOW",
+    "impact": "Short travel. S16/E8 in Houston = 0 miles travel for 2nd weekend. Massive edge."
+  },
+  {
+    "team": "VCU",
+    "seed": "11 (S)",
+    "confTourneyGames": "4 games (won A-10)",
+    "lastGame": "Sun 3/15",
+    "daysRest": "5 days (Fri)",
+    "travel": "Washington DC\u2192Tampa",
+    "distance": "~860",
+    "fatigueLevel": "MODERATE",
+    "impact": "4 A-10 games but plays Friday. Adequate rest for upset of UNC."
+  },
+  {
+    "team": "Wisconsin",
+    "seed": "5 (W)",
+    "confTourneyGames": "2 games (lost QF)",
+    "lastGame": "Fri 3/14",
+    "daysRest": "6 days (Thu)",
+    "travel": "Indianapolis\u2192Portland",
+    "distance": "~2080",
+    "fatigueLevel": "LOW",
+    "impact": "Only 2 conf tourney games. Fresh. Long travel but 6 days rest offsets."
+  },
+  {
+    "team": "NC State/Texas",
+    "seed": "11 (W)",
+    "confTourneyGames": "First Four Tue 3/17",
+    "lastGame": "Tue 3/17",
+    "daysRest": "2 days (Thu)",
+    "travel": "Dayton\u2192Portland",
+    "distance": "~2100",
+    "fatigueLevel": "\u26a0\ufe0f HIGH",
+    "impact": "Cross-country red-eye after First Four. Worst travel path in field. Favors BYU."
+  },
+  {
+    "team": "Iowa State",
+    "seed": "2 (MW)",
+    "confTourneyGames": "3 games (lost semis)",
+    "lastGame": "Fri 3/14",
+    "daysRest": "6 days (Fri)",
+    "travel": "Kansas City\u2192St. Louis",
+    "distance": "~250",
+    "fatigueLevel": "LOW",
+    "impact": "Short travel. 6 days rest. Very fresh for 2-seed."
+  },
+  {
+    "team": "St. John's",
+    "seed": "5 (E)",
+    "confTourneyGames": "3 games (won Big East)",
+    "lastGame": "Sat 3/14",
+    "daysRest": "6 days (Fri)",
+    "travel": "NYC\u2192San Diego",
+    "distance": "~2400",
+    "fatigueLevel": "MODERATE",
+    "impact": "Long travel but 6 days rest and Big East title momentum."
+  }
+]

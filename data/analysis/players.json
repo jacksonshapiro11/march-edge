@@ -1,0 +1,155 @@
+[
+  {
+    "player": "Cameron Boozer",
+    "team": "Duke (1)",
+    "stats": "22.7/10.2/41% 3PT",
+    "archetype": "NPOY. Highest KenPom O rating in history. Pure scorer.",
+    "impact": "Can single-handedly win any game through S16. But rotation fatigue (Foster OUT) makes him unsustainable by E8.",
+    "bestMatchup": "Any single defender or weak interior D",
+    "worstMatchup": "UConn's Reed Jr. (2.1 BPG rim protection) + team depth when Boozer fatigued after 37+ min games"
+  },
+  {
+    "player": "Yaxel Lendeborg",
+    "team": "Michigan (1)",
+    "stats": "14.3/7.3/1.4 BPG, lottery pick, 6-9",
+    "archetype": "Two-way lottery talent. Size/athleticism mismatch at forward.",
+    "impact": "Size creates mismatches every round. PROJECTED MOP: 19/11/3 blocks in championship. Lendeborg/Mara frontcourt compounds through tournament.",
+    "bestMatchup": "Any frontcourt under 6-9 (MAC teams, mid-majors)",
+    "worstMatchup": "Elite perimeter teams (Iowa State, Purdue) that pull him from paint and tire legs"
+  },
+  {
+    "player": "Jaden Bradley",
+    "team": "Arizona (1)",
+    "stats": "13.4/4.6 APG, Big 12 POY, elite point-of-attack D",
+    "archetype": "Floor general + defensive stopper. Makes 6 teammates better.",
+    "impact": "Controls tempo and pace. Defensive switchability erases guards. Bradley vs guards is nearly unwinnable matchup.",
+    "bestMatchup": "Smaller PGs without ball creation (pace-bound guards)",
+    "worstMatchup": "Elite scorers who can get to rim unassisted (Acuff Jr., Dybantsa isolation scorers)"
+  },
+  {
+    "player": "Kingston Flemings",
+    "team": "Houston (2)",
+    "stats": "16.5/5.4 APG/38% 3PT, lottery, best frosh Sampson coached",
+    "archetype": "Shot-creator. Isolation scorer. Creates dimension Houston historically lacked.",
+    "impact": "Gives Houston offensive flexibility (first time under Sampson). Lottery pick trajectory.",
+    "bestMatchup": "Slow-footed bigs (can attack in isolation)",
+    "worstMatchup": "Michigan's length + team defense (switching scheme erases isolation space)"
+  },
+  {
+    "player": "Darius Acuff Jr.",
+    "team": "Arkansas (4)",
+    "stats": "22.7/6.4 APG/44% 3PT, best frosh PG since Trae Young",
+    "archetype": "Kemba Walker comp. Transition scorer. High usage rate.",
+    "impact": "Can carry team to F4 alone. 30/11 in SEC tournament final. Instant offense bucket.",
+    "bestMatchup": "Teams that play uptempo (transition offense advantage)",
+    "worstMatchup": "Wisconsin ball security (3rd fewest TOs nationally) denies transition. Forces half-court grinding."
+  },
+  {
+    "player": "AJ Dybantsa",
+    "team": "BYU (6)",
+    "stats": "25.3 PPG (#1 nationally), 93 pts in 3 Big 12 tourney games, proj #1 pick",
+    "archetype": "Historically elite high-volume scorer. Only weapon on team.",
+    "impact": "Highest individual ceiling in field (35+ PPG games possible). But no help defensively (177th D).",
+    "bestMatchup": "Bad defenses (177th BYU D means he needs shootouts where he wins 1v1)",
+    "worstMatchup": "Elite team defenses (Purdue, Michigan) that force ball out of his hands and win 50-48"
+  },
+  {
+    "player": "Milan Momcilovic",
+    "team": "Iowa State (2)",
+    "stats": "17.0 PPG/50% from 3 (!) — historically elite single-season shooter",
+    "archetype": "Pure 3PT marksman. Creates unsolvable math problem.",
+    "impact": "Can't leave him open (50% 3PT is elite). Can't shade help (loses inside). Unsolvable.",
+    "bestMatchup": "Zone defenses that leave him open 3s",
+    "worstMatchup": "Michigan perimeter defense (held Big Ten opponents <30% 3PT)"
+  },
+  {
+    "player": "Zuby Ejiofor",
+    "team": "St. John's (5)",
+    "stats": "16.3/7.1/3.5/2.1 BPG, Big East POY+DPOY",
+    "archetype": "First Big East POY+DPOY sweep since Okafor 2004. Two-way anchor.",
+    "impact": "20+ PPG in 3 straight Big East tourney games. Defensive presence erases offensive schemes.",
+    "bestMatchup": "Undersized frontcourts (overpowers inside)",
+    "worstMatchup": "Kansas Bidunga (DPOY candidate, matches length) in R32"
+  },
+  {
+    "player": "Dan Hurley",
+    "team": "UConn (2)",
+    "stats": "3 of last 4 national championship games (coach)",
+    "archetype": "Dynasty builder. Ultimate tournament DNA.",
+    "impact": "Coaching edge GROWS each round. 9-man rotation (deepest in field). Schematic adjustments are elite.",
+    "bestMatchup": "Teams with thin rotations and injuries (Duke, Gonzaga w/o Huff)",
+    "worstMatchup": "Fresh, deep rosters with no injuries (Arizona's 7 scorers in F4)"
+  },
+  {
+    "player": "Kelvin Sampson",
+    "team": "Houston (2)",
+    "stats": "2025 title game win vs Florida, HoF trajectory",
+    "archetype": "Defensive architect. System > talent philosophy.",
+    "impact": "Prep time advantage GROWS with each round (scouting improves D). Home court in Houston S16/E8.",
+    "bestMatchup": "One-dimensional offenses (A&M, Illinois feed ball inside)",
+    "worstMatchup": "Michigan's size neutralizes his defensive scheme (can't switch onto guards effectively)"
+  },
+  {
+    "player": "Robbie Avila",
+    "team": "Saint Louis (9)",
+    "stats": "6-10 C, 40.1% 3PT on 143 attempts",
+    "archetype": "'Cream Abdul-Jabbar'. Stretches D at center position.",
+    "impact": "Pulls shot-blockers from rim, creates space, forces defensive adjustment.",
+    "bestMatchup": "Traditional bigs who can't chase to perimeter",
+    "worstMatchup": "Michigan's switching defense (erases his 3PT advantage)"
+  },
+  {
+    "player": "Tavari Johnson",
+    "team": "Akron (12)",
+    "stats": "20.1 PPG, MAC scoring leader, 3 seniors all 37%+ 3PT",
+    "archetype": "3-peat MAC champion. Senior-laden team. Threat in R32.",
+    "impact": "37%+ from 3 means he can get hot. TTU has no Toppin rim protection (87th D). Cinderella threat.",
+    "bestMatchup": "TTU's collapsed defense (87th w/o Toppin), Alabama's weakened team (Holloway removed)",
+    "worstMatchup": "Michigan's elite defense (shuts down 3PT shooters)"
+  },
+  {
+    "player": "Walter Haugh",
+    "team": "Florida (1)",
+    "stats": "17.2 PPG, lottery pick, SEC POY, defending champ",
+    "archetype": "SEC POY. Goes-to scorer for defending champs.",
+    "impact": "Championship experience + elite scoring creates floor. 5 double-figure scorers makes team deep.",
+    "bestMatchup": "Defensive teams without elite interior D (can attack 1v1)",
+    "worstMatchup": "Houston's interior defense (Sampson scheme from 2025 title game)"
+  },
+  {
+    "player": "Kareem Chinyelu",
+    "team": "Florida (1)",
+    "stats": "11.4/11.7 RPG/1.1 BPG, DPOY candidate",
+    "archetype": "Elite rebounder + shot-blocker. Defensive anchor.",
+    "impact": "1.1 BPG (elite) + 11.7 RPG controls glass. Transforms paint defense.",
+    "bestMatchup": "Teams that rely on offensive rebounding",
+    "worstMatchup": "Houston's Sampson scheme (designed to neutralize interior D)"
+  },
+  {
+    "player": "Reed Jr.",
+    "team": "UConn (2)",
+    "stats": "13.8/8.0 PPG/2.1 BPG, championship holdover",
+    "archetype": "Rim protector. 9-man deep rotation player.",
+    "impact": "2.1 BPG provides rim protection on limited minutes. Hurley's rotation depth.",
+    "bestMatchup": "Interior-heavy offenses (neutralizes their game)",
+    "worstMatchup": "Spread offenses (can't switch onto guards)"
+  },
+  {
+    "player": "Caleb Smith",
+    "team": "Purdue (2)",
+    "stats": "14.9/8.7 APG, chasing NCAA assists record (one behind Hurley)",
+    "archetype": "Facilitator. All-time great assist rate for D1.",
+    "impact": "Assists record pursuit = motivated. KenPom #2 offense (best in field besides Illinois)",
+    "bestMatchup": "Defenses that can't keep up with pace",
+    "worstMatchup": "Arizona's balanced defense (slows pace + denies easy buckets)"
+  },
+  {
+    "player": "Quentin Johnston",
+    "team": "Purdue (2)",
+    "stats": "13.6/42% 3PT (Loyer)",
+    "archetype": "Elite 3PT shooter. Spacing threat.",
+    "impact": "Opens lanes for Smith assists. Purdue's offensive fluidity depends on Loyer 3PT volume.",
+    "bestMatchup": "Defenses that leave him open (zone D)",
+    "worstMatchup": "Arizona's elite perimeter D (tight defense erases spacing)"
+  }
+]

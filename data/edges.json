@@ -1,0 +1,138 @@
+[
+  {
+    "play": "VCU +2.5 vs UNC",
+    "line": "UNC -2.5",
+    "edge": "VCU covers/wins ML",
+    "type": "Spread+ML",
+    "confidence": "★★★★★",
+    "reasoning": "Armando Wilson (19.8/9.4, UNC's best interior anchor) OUT with broken thumb. UNC 1 road win without him all season. VCU 16-1 since Jan 10, A-10 championship. Lewis (A-10 ROY) + Jennings (57 steals, elite perimeter D). Near-universal expert pick. UNC can't defend without Wilson."
+  },
+  {
+    "play": "Akron +7 vs Texas Tech",
+    "line": "TTU -8.5",
+    "edge": "Akron covers/wins ML",
+    "type": "Spread+ML",
+    "confidence": "★★★★★",
+    "reasoning": "Jahmir Toppin (21.8/10.8 PPG, Texas Tech's #1 scorer) OUT with torn ACL. TTU defense collapsed from 31st→87th after Toppin injury news. Akron 29-5 record, 10-game winning streak, 3-peat MAC champions. Tavari Johnson 20.1 PPG + three senior guards all shoot 37%+ from 3. 7 DAYS REST = freshest team in entire field. Consensus 12/5 upset pick."
+  },
+  {
+    "play": "Iowa -1.5 vs Clemson",
+    "line": "Iowa -1.5",
+    "edge": "Iowa wins",
+    "type": "ML",
+    "confidence": "★★★★",
+    "reasoning": "Iowa 11 KenPom spots ahead of Clemson (#25 vs #36). Only lower seed favored in entire bracket. Clemson lost Welling (ACL) removes wing depth. Stirtz (20.2/50%/38% 3PT) dominates on both ends. Lowest total in R64 (130.5) reflects defensive mismatch."
+  },
+  {
+    "play": "Michigan title +325",
+    "line": "Mich +325",
+    "edge": "Best value favorite",
+    "type": "Future",
+    "confidence": "★★★★★",
+    "reasoning": "Michigan #1 defense in America + #8 offense = analytically most complete team. Lendeborg (14.3/7.3/1.4 BPG, lottery pick) + Mara (7-3! center) + Johnson Jr (6-9) = tallest frontcourt in America, size compounds in tournament. Easiest path of any 1-seed: Akron (MAC) → Iowa State (not focused on D) → Houston (but at neutral court). Midwest region most favorable."
+  },
+  {
+    "play": "Houston title +1000",
+    "line": "Hou +1000",
+    "edge": "Best longshot",
+    "type": "Future",
+    "confidence": "★★★★★",
+    "reasoning": "S16/E8 games played IN HOUSTON (home court = 3+ points structural edge). Kelvin Sampson (Hall of Fame trajectory) defensive architect. Kingston Flemings (16.5/5.4/38% 3PT, lottery pick, best freshman Sampson ever coached). Sampson beat UF in 2025 title game (held them to 65 PPG). 3 CBS experts have them in F4. Prep time advantage grows each round (defensive coaching edge)."
+  },
+  {
+    "play": "FADE Duke title +330",
+    "line": "nan",
+    "edge": "Overvalued",
+    "type": "Fade",
+    "confidence": "★★★★",
+    "reasoning": "Caleb Foster (fractured foot) OUT indefinitely. Ngongba game-time decision. Duke forced into 7-man rotation, Boozer logs 37+ min/game by E8. Hardest path of any 1-seed: must beat Ohio State → Kansas → UConn (9-man deep, Hurley DNA) → Duke E8 matchup means only 2 days rest before Final Four. 23% of public brackets = negative leverage. Public perception inflates Duke."
+  },
+  {
+    "play": "Arizona title +425",
+    "line": "AZ +425",
+    "edge": "Safest 1-seed",
+    "type": "Future",
+    "confidence": "★★★★",
+    "reasoning": "No injuries to key players. Seven players average 8.7+ PPG (deepest roster in field). Jaden Bradley (13.4/4.6 APG, Big 12 POY). Top-5 offense, top-3 defense. Only 2 losses all season. Most balanced team. Won Big 12 championship in 3 games (freshest 1-seed)."
+  },
+  {
+    "play": "USF +6.5 vs Louisville",
+    "line": "Lou -6.5",
+    "edge": "USF covers",
+    "type": "Spread",
+    "confidence": "★★★",
+    "reasoning": "Jamaree Brown Jr. (secondary facilitator) OUT with back injury. USF riding 11-game winning streak. Daylan Nelson (15.8/9.8/60% FG) won AAC triple-crown (POY, DPOY, All-Conference). Line too wide given injury context."
+  },
+  {
+    "play": "UCF +5.5 vs UCLA",
+    "line": "UCLA -6.5",
+    "edge": "UCF covers/live ML",
+    "type": "Spread+ML",
+    "confidence": "★★★",
+    "reasoning": "UCLA's Bilodeau (knee) + Dent (calf) both banged up — durability concerns in tournament. UCF's Fulks (14.1/6.7/40.8% 3PT) + Stillwell (3rd in Big 12 OREB rate) can exploit interior. UCLA injury situation not fully priced into line."
+  },
+  {
+    "play": "Santa Clara +3.5 vs Kentucky",
+    "line": "UK -3.5",
+    "edge": "SC covers/wins ML",
+    "type": "Spread+ML",
+    "confidence": "★★★",
+    "reasoning": "Only 7 KenPom spots separate them. Kentucky lost 5 of last 7 games heading into tournament. No true point guard. Quaintance doubtful. Santa Clara shoots 56.5% inside (interior dominance). Pope coaches 5-0 UNDER in tournament games (defensive preference). CBS, NBC, BettingPros all project Santa Clara."
+  },
+  {
+    "play": "Texas A&M +2.5 vs St. Mary's",
+    "line": "SMC -2.5",
+    "edge": "A&M covers/wins",
+    "type": "Spread+ML",
+    "confidence": "★★★",
+    "reasoning": "A&M 87.7 PPG (#9 nationally). Six double-figure scorers. St. Mary's 1-4 in Q1 games, 361st away rating (road disaster). SportsLine model projects A&M upset. Tempo favors A&M's high-scoring team."
+  },
+  {
+    "play": "Georgia-SLU UNDER 170.5",
+    "line": "O/U 170.5",
+    "edge": "UNDER",
+    "type": "Total",
+    "confidence": "★★★★",
+    "reasoning": "Only 5 tournament games since 1998 have gone over 170 points. Both Georgia and Saint Louis' recent offensive efficiency dropped. Saint Louis shooting profile (Avila 3PT volume) creates pace concerns vs Georgia defense. Historical UNDER trend in R64."
+  },
+  {
+    "play": "Illinois-Houston S16 UNDER ~130",
+    "line": "TBD",
+    "edge": "UNDER",
+    "type": "Total",
+    "confidence": "★★★★",
+    "reasoning": "Houston allows 62.9 PPG (top-5 D). Illinois #1 offense in KenPom HISTORY meets one of best defenses tournament has to offer. Sampson's defensive architecture built specifically for high-octane offenses. Game played in Houston (home court allows max prep). Lowest S16 game projected across bracket."
+  },
+  {
+    "play": "Virginia-Iowa State S16 UNDER ~132",
+    "line": "TBD",
+    "edge": "UNDER",
+    "type": "Total",
+    "confidence": "★★★★",
+    "reasoning": "UVA 297th tempo (glacial pace). Iowa State top-10 defense (contains Momcilovic). Sub-65 possessions predicted. Chess match in molasses. One of two STRONGEST UNDERs in S16 round."
+  },
+  {
+    "play": "First Round UNDERs (broadly)",
+    "line": "Various",
+    "edge": "Unders",
+    "type": "Totals",
+    "confidence": "★★★",
+    "reasoning": "Tournament R64 unders historically hit 53-54% of time. Heightened defensive intensity + tighter officiating (tournament fouls called differently). Generic tournament undervalue on totals."
+  },
+  {
+    "play": "Hofstra +11.5 vs Alabama",
+    "line": "Bama -11.5",
+    "edge": "Hofstra covers",
+    "type": "Spread",
+    "confidence": "★★★★",
+    "reasoning": "Aden Holloway (16.8 PPG, 43.8% 3PT, Alabama's best shooter) arrested on felony marijuana charge. Removed from campus immediately. Spread dropped from -14.5 to -11.5 (3-point correction). Championship odds doubled. Alabama now has 9 scholarship players with zero secondary scorers. Only Cruz Davis (20.2 PPG) can create offense. Hofstra still 13-seed but now live."
+  },
+  {
+    "play": "Akron to reach Sweet 16",
+    "line": "TBD",
+    "edge": "Akron R32 ML vs Alabama",
+    "type": "ML",
+    "confidence": "★★★★",
+    "reasoning": "Holloway's arrest makes Alabama beatable in R32. Akron 7 DAYS REST (maximum in field), 10-game winning streak, 37.9% 3PT shooting, Tavari Johnson heating up. Alabama now has 9 scholarship players with no secondary scorer besides Philon. Easiest R32 matchup for Akron possible given Holloway circumstances. Path then opens: beat fatigued Arkansas in S16 (cross-country red-eye)."
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "team": "Michigan",
+    "styleAdvantage": "Size + #1 defense",
+    "growsOrShrinks": "GROWS \u2191",
+    "why": "Size advantage compounds as fatigue makes rebounding more decisive. Defense is scheme-proof vs any style.",
+    "peakRound": "Championship",
+    "vulnerability": "PG depth (Cason OUT). If Cadeau gets in foul trouble, playmaking suffers."
+  },
+  {
+    "team": "Arizona",
+    "styleAdvantage": "7-man scoring depth",
+    "growsOrShrinks": "GROWS \u2191",
+    "why": "Depth insulates vs variance over 6 games. Self-correcting offense. If Bradley struggles, Burries/Peat take over.",
+    "peakRound": "Championship",
+    "vulnerability": "No single transcendent scorer. In a single do-or-die possession, who takes the shot?"
+  },
+  {
+    "team": "Houston",
+    "styleAdvantage": "Sampson defensive scheme",
+    "growsOrShrinks": "GROWS \u2191",
+    "why": "Defense IMPROVES with scouting time. Week between rounds = max preparation advantage. Home court for S16/E8.",
+    "peakRound": "Elite 8 (in Houston)",
+    "vulnerability": "Offense (KenPom #14) may not be dynamic enough vs truly elite D (Michigan)."
+  },
+  {
+    "team": "UConn",
+    "styleAdvantage": "Hurley tournament DNA",
+    "growsOrShrinks": "GROWS \u2191",
+    "why": "3 of last 4 title games. 9-man rotation outlasts thinner teams. Karaban championship experience is real.",
+    "peakRound": "Elite 8",
+    "vulnerability": "Recent losses (Creighton, Marquette) show inconsistency. Gassed after Duke E8 war."
+  },
+  {
+    "team": "Iowa State",
+    "styleAdvantage": "Momcilovic 50% 3PT",
+    "growsOrShrinks": "GROWS \u2191",
+    "why": "Unsolvable math problem that gets WORSE for opponents with prep time. Can't leave him open AND protect paint.",
+    "peakRound": "Sweet 16",
+    "vulnerability": "4-4 late-season slide shows offensive inconsistency. When ISU goes cold, they're beatable."
+  },
+  {
+    "team": "Duke",
+    "styleAdvantage": "Boozer individual dominance",
+    "growsOrShrinks": "SHRINKS \u2193",
+    "why": "7-man rotation fatigues by game 5. Boozer 37+ min/game unsustainable. Predictable without Foster.",
+    "peakRound": "Sweet 16",
+    "vulnerability": "Injuries (Foster OUT, Ngongba ?) thin depth. By E8, fatigue erodes transcendent talent."
+  },
+  {
+    "team": "Alabama",
+    "styleAdvantage": "91.7 PPG #1 scoring",
+    "growsOrShrinks": "SHRINKS \u2193",
+    "why": "3PT-dependent O becomes less reliable vs better D + more prep time. #68 D can't win low-scoring games.",
+    "peakRound": "Round of 32",
+    "vulnerability": "Holloway arrested (felony). Loses 16.8 PPG + best shooter. Down to 9 scholarship players. Now the most vulnerable high seed in the tournament. Ceiling = R64."
+  },
+  {
+    "team": "Purdue",
+    "styleAdvantage": "#2 offense (Smith + Loyer)",
+    "growsOrShrinks": "SHRINKS \u2193",
+    "why": "Late-season D collapse (6-7, D dropped #20\u2192#88) was BEFORE 4 B10 tourney games. Fatigue compounds.",
+    "peakRound": "Sweet 16",
+    "vulnerability": "Can they defend at E8 level? Evidence says no. Arizona's balance exposes one-dimensional O approach."
+  },
+  {
+    "team": "BYU",
+    "styleAdvantage": "Dybantsa (#1 scorer nationally)",
+    "growsOrShrinks": "SHRINKS \u2193",
+    "why": "Eventually a D figures out how to force ball out of his hands. Without Saunders, BYU is predictable by S16.",
+    "peakRound": "Round of 32",
+    "vulnerability": "177th D means they lose any game Dybantsa doesn't score 30+. Ceiling = S16."
+  },
+  {
+    "team": "Wisconsin",
+    "styleAdvantage": "Elite wins + ball security",
+    "growsOrShrinks": "STABLE \u2192",
+    "why": "Beaten Michigan, Illinois, MSU, Purdue. Style doesn't change by round. Ball security travels.",
+    "peakRound": "Sweet 16",
+    "vulnerability": "62nd D is a vulnerability vs Arizona's balanced attack. Ceiling limited by defensive floor."
+  },
+  {
+    "team": "VCU",
+    "styleAdvantage": "Suffocating defense",
+    "growsOrShrinks": "STABLE \u2192",
+    "why": "Defense that hasn't lost since Jan 10 travels. But limited ceiling without a go-to scorer.",
+    "peakRound": "Round of 32",
+    "vulnerability": "Can't outscore Illinois #1 O even with elite D. Offensive ceiling caps at 65 in big games."
+  }
+]
