@@ -8,6 +8,7 @@ const NAV_ITEMS = [
   { href: "/edges", label: "EDGE BOARD", icon: "📊" },
   { href: "/brief", label: "THE BRIEF", icon: "📡" },
   { href: "/analysis", label: "DEEP ANALYSIS", icon: "🔬" },
+  { href: "/survivor", label: "SURVIVOR", icon: "🎯" },
 ];
 
 export default function Nav() {

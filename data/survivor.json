@@ -1,0 +1,192 @@
+{
+  "burnFormula": "Burn Score = Safety × (10 − Future Value) / 10",
+  "burnExplanation": "A team that's 95% safe with zero future value (dead next round) scores 8.6. That same team as a Final Four contender scores 0.95. Same safety, wildly different burn value.",
+  "oneRule": "Every time you pick a team, ask: Will I wish I had this team later? Yes → find someone else. No → burn them.",
+  "untouchables": [
+    { "team": "Michigan", "seed": "1-MW", "projectedExit": "CHAMPION", "reason": "Our title pick. Must be saved for the absolute latest possible moment." },
+    { "team": "Arizona", "seed": "1-W", "projectedExit": "Championship game", "reason": "Runner-up. Safest 1-seed, no injuries, 7 deep. Save for F4 or Final." },
+    { "team": "Houston", "seed": "2-S", "projectedExit": "Final Four", "reason": "Home court for S16/E8 in Houston. Save for E8 or F4." },
+    { "team": "UConn", "seed": "2-E", "projectedExit": "Final Four", "reason": "Hurley's tournament DNA. 14-0 ATS. Save for S16 or E8." }
+  ],
+  "rounds": [
+    {
+      "id": "r64-thu",
+      "name": "ROUND OF 64 — THURSDAY",
+      "date": "March 19 (Day 1)",
+      "verdict": "Gonzaga (highest burn score), Nebraska (highest raw burn), Michigan State (safest play)",
+      "candidates": [
+        { "rank": 1, "team": "Gonzaga", "seed": "3-W", "opponent": "Kennesaw St (14)", "line": "-15.5", "safety": 9.0, "fv": 1, "burn": 8.1, "analysis": "Highest burn score in the entire tournament. Huff OUT = offense dropped 14th→68th. Still enough to smother KSU (KenPom 163, missing Cottle). Ike (19.7/69% inside) handles it. Dies to BYU in R32. Burn and forget.", "tipTime": "~10:00 PM ET" },
+        { "rank": 2, "team": "Nebraska", "seed": "4-S", "opponent": "Troy (13)", "line": "-12.5", "safety": 9.0, "fv": 1, "burn": 8.1, "analysis": "Highest raw burn score — Nebraska has ZERO future value (0-8 all-time in March, dies to Vanderbilt in R32). Best D in Big Ten, opponents shoot 30% from 3. Troy is weakest 13-seed.", "tipTime": "12:40 PM ET" },
+        { "rank": 3, "team": "Illinois", "seed": "3-S", "opponent": "Penn (14)", "line": "-18", "safety": 9.5, "fv": 2, "burn": 7.4, "analysis": "#1 offense in KenPom history vs Penn (KenPom 159, Roberts likely OUT with concussion). Highest win probability of any R64 game. Dies in S16 vs Houston. Contrarian play — less popular than MSU.", "tipTime": "9:25 PM ET" },
+        { "rank": 4, "team": "Michigan State", "seed": "3-E", "opponent": "NDSU (14)", "line": "-18.5", "safety": 9.5, "fv": 3, "burn": 6.7, "analysis": "NDSU is 282nd SOS with 11th-percentile transition D. Fears (15.5/9.1) feasts. MSU dies in S16 (UConn). Gold standard R64 burn.", "tipTime": "4:05 PM ET" },
+        { "rank": 5, "team": "Arkansas", "seed": "4-W", "opponent": "Hawaii (13)", "line": "-10.5", "safety": 8.0, "fv": 2, "burn": 6.4, "analysis": "Acuff (22.2/6.4/44% 3PT) best PG season under Calipari. Hawaii's unique D is interesting but outmatched. FATIGUE WARNING: 4 SEC games + cross-country travel. Dies to Wisconsin in R32.", "tipTime": "4:25 PM ET" },
+        { "rank": 6, "team": "Wisconsin", "seed": "5-W", "opponent": "High Point (12)", "line": "-10.5", "safety": 8.0, "fv": 3, "burn": 5.6, "analysis": "Boyd (20.6, FAU Final Four experience) + 3rd-fewest TOs nationally neutralizes HP's #1-ranked steal rate. Dies to Arizona in S16. Solid burn.", "tipTime": "1:50 PM ET" },
+        { "rank": 7, "team": "BYU", "seed": "6-W", "opponent": "NC St/Texas", "line": "-4", "safety": 7.0, "fv": 2, "burn": 5.6, "analysis": "Dybantsa (25.3 PPG) can single-handedly win. But 177th D means he can also single-handedly lose. Too volatile.", "tipTime": "7:25 PM ET" },
+        { "rank": 8, "team": "Vanderbilt", "seed": "5-S", "opponent": "McNeese (12)", "line": "-6.5", "safety": 7.5, "fv": 4, "burn": 4.5, "analysis": "KenPom #11 as a 5-seed. But McNeese beat Clemson last year as 12-seed, has #1 steal rate. Too risky for survivor.", "tipTime": "3:15 PM ET" },
+        { "rank": null, "team": "Duke", "seed": "1-E", "opponent": "Siena (16)", "line": "-29.5", "safety": 10, "fv": 8, "burn": 2.0, "analysis": "WASTE. Duke is still a massive favorite in R32/S16. DO NOT USE.", "avoid": true },
+        { "rank": null, "team": "Michigan", "seed": "1-MW", "opponent": "UMBC (16)", "line": "-28+", "safety": 10, "fv": 10, "burn": 0, "analysis": "Our CHAMPION. NEVER.", "avoid": true },
+        { "rank": null, "team": "Houston", "seed": "2-S", "opponent": "Idaho (15)", "line": "-24+", "safety": 9.8, "fv": 8, "burn": 2.0, "analysis": "Save for E8. Home court advantage in Houston makes them invaluable later.", "avoid": true }
+      ]
+    },
+    {
+      "id": "r64-fri",
+      "name": "ROUND OF 64 — FRIDAY",
+      "date": "March 20 (Day 2)",
+      "verdict": "Virginia (safest play), Alabama (highest burn), St. John's (backup)",
+      "candidates": [
+        { "rank": 1, "team": "Virginia", "seed": "3-MW", "opponent": "Wright St (14)", "line": "-18.5", "safety": 9.5, "fv": 2, "burn": 7.4, "analysis": "Onyenso (7-0, 2.97 BPG) erases Wright State's rim attacks. Elite D + OREB. Dies in S16 vs Iowa State." },
+        { "rank": 2, "team": "Alabama", "seed": "4-MW", "opponent": "Hofstra (13)", "line": "-11.5", "safety": 8.0, "fv": 1, "burn": 7.2, "analysis": "Holloway arrested = zero future value (dies in R32 to Akron). Philon (21.5 PPG) still scores enough. Risk: Bama's chaos factor. Hofstra's Davis (20.2) is dangerous. But line is still -11.5." },
+        { "rank": 3, "team": "St. John's", "seed": "5-E", "opponent": "N. Iowa (12)", "line": "-10.5", "safety": 8.0, "fv": 3, "burn": 5.6, "analysis": "Ejiofor swept Big East POY + DPOY. UNI's 363rd tempo won't score enough. SJU dies in R32 (Kansas). Risk: UNI's D is legit (#24 KenPom)." },
+        { "rank": 4, "team": "Kansas", "seed": "4-E", "opponent": "Cal Baptist (13)", "line": "-15.5", "safety": 9.0, "fv": 4, "burn": 5.4, "analysis": "Bidunga + Peterson overwhelm CBU. But KU has moderate FV (could win R32). Better saved if you want a R32 option." },
+        { "rank": 5, "team": "Tennessee", "seed": "6-MW", "opponent": "SMU/Miami OH", "line": "-6", "safety": 7.5, "fv": 3, "burn": 5.3, "analysis": "Ament (22.4 when healthy) + Gillespie (18.0/5.6) + #1 OREB team. The 11-seed opponent isn't a pushover. Moderate risk. Dies to Virginia in R32." },
+        { "rank": null, "team": "Iowa State", "seed": "2-MW", "opponent": "Tenn. State (15)", "line": "-24.5", "safety": 9.8, "fv": 6, "burn": 3.9, "analysis": "Safest game in tournament but ISU has real S16 value. Only use if format forces a Friday pick and you're saving all 1-seeds.", "avoid": true },
+        { "rank": null, "team": "Kentucky", "seed": "7-MW", "opponent": "Santa Clara (10)", "line": "-2.5", "safety": 6.0, "fv": 1, "burn": 5.4, "analysis": "THIS IS AN UPSET ALERT. Only 7 KenPom spots apart, UK lost 5/7. Pope is 5-0 UNDER in tourney. Avoid.", "avoid": true },
+        { "rank": null, "team": "Arizona", "seed": "1-W", "opponent": "LIU (16)", "line": "-28+", "safety": 10, "fv": 10, "burn": 0, "analysis": "Our championship runner-up. NEVER burn early.", "avoid": true },
+        { "rank": null, "team": "UConn", "seed": "2-E", "opponent": "Furman (15)", "line": "-24+", "safety": 9.8, "fv": 8, "burn": 2.0, "analysis": "Save for S16 or E8. Has real Final Four value.", "avoid": true },
+        { "rank": null, "team": "Purdue", "seed": "2-W", "opponent": "Queens (15)", "line": "-24+", "safety": 9.8, "fv": 5, "burn": 4.9, "analysis": "Save for R32 or S16. Better value later.", "avoid": true }
+      ]
+    },
+    {
+      "id": "r32-sat",
+      "name": "ROUND OF 32 — SATURDAY",
+      "date": "March 21 (Day 3) — Thursday winners",
+      "verdict": "Duke (primary), Vanderbilt (alternative)",
+      "candidates": [
+        { "rank": 1, "team": "Duke", "seed": "1-E", "opponent": "Ohio State/TCU", "line": null, "safety": 8.5, "fv": 4, "burn": 5.1, "analysis": "Boozer (22.7/10.2/41% 3PT) dominates any 8/9. ACC champs peaking. 7-man rotation breaks in E8 vs UConn's depth. Premier R32 burn — 1-seed guaranteed to die in 2 weeks." },
+        { "rank": 2, "team": "Vanderbilt", "seed": "5-S", "opponent": "Nebraska/Troy", "line": null, "safety": 7.5, "fv": 3, "burn": 5.3, "analysis": "KenPom #11 as 5-seed. Beat Florida by 17 in SEC tourney. Nebraska 0-8 in March history. Dies to Florida in S16." },
+        { "rank": 3, "team": "Wisconsin", "seed": "5-W", "opponent": "Arkansas (4)", "line": null, "safety": 6.0, "fv": 2, "burn": 4.8, "analysis": "We pick the upset (fatigue thesis). But picking 5 over 4 in survivor is aggressive. Only for bold entries." },
+        { "rank": null, "team": "Houston", "seed": "2-S", "opponent": "StMary's/TexA&M", "line": null, "safety": 8.5, "fv": 8, "burn": 1.7, "analysis": "Save for E8. Houston still has massive future value.", "avoid": true },
+        { "rank": null, "team": "Michigan", "seed": "1-MW", "opponent": "Georgia/SLU", "line": null, "safety": 9.0, "fv": 10, "burn": 0, "analysis": "CHAMPION. Never.", "avoid": true }
+      ]
+    },
+    {
+      "id": "r32-sun",
+      "name": "ROUND OF 32 — SUNDAY",
+      "date": "March 22 (Day 4) — Friday winners",
+      "verdict": "Florida (primary), Purdue (highest burn if available), Kansas (aggressive)",
+      "candidates": [
+        { "rank": 1, "team": "Florida", "seed": "1-S", "opponent": "Clemson/Iowa", "line": null, "safety": 8.5, "fv": 5, "burn": 4.3, "analysis": "Defending champs handle a 9-seed. Dies in E8 vs Houston. Good burn if you used Duke on Saturday." },
+        { "rank": 2, "team": "Purdue", "seed": "2-W", "opponent": "Utah St/Villanova", "line": null, "safety": 8.0, "fv": 3, "burn": 5.6, "analysis": "Smith (14.9/8.7 APG) + Loyer (42% 3PT) + Big Ten title momentum. Dies to Arizona in E8 (fatigued, D collapsed). Risk: 6-7 down stretch. Utah State sharp money is real." },
+        { "rank": 3, "team": "Kansas", "seed": "4-E", "opponent": "SJU/N. Iowa", "line": null, "safety": 7.0, "fv": 2, "burn": 5.6, "analysis": "High burn efficiency if you trust Peterson's body. Dies to Duke in S16. But Peterson cramp history = volatile. Boom/bust burn." },
+        { "rank": null, "team": "Iowa State", "seed": "2-MW", "opponent": "Tennessee/SMU", "line": null, "safety": 8.0, "fv": 6, "burn": 3.2, "analysis": "Momcilovic handles mid-seeds, but ISU has real S16 value. Only burn if you have no other Sunday option.", "avoid": true },
+        { "rank": null, "team": "UConn", "seed": "2-E", "opponent": "UCLA/UCF", "line": null, "safety": 8.0, "fv": 8, "burn": 1.6, "analysis": "Save for S16 or E8. Real Final Four contender.", "avoid": true }
+      ]
+    },
+    {
+      "id": "s16",
+      "name": "SWEET 16",
+      "date": "~March 26-27",
+      "verdict": "Iowa State (primary), Purdue (highest burn score if available), UConn (backup)",
+      "candidates": [
+        { "rank": 1, "team": "Iowa State", "seed": "2-MW", "opponent": "Virginia (3)", "line": null, "safety": 7.5, "fv": 3, "burn": 5.3, "analysis": "Momcilovic's 50% from 3 is unsolvable for UVA's packline. ISU's last game as clear favorite — dies to Michigan's #1 D in E8. Optimal S16 burn." },
+        { "rank": 2, "team": "Purdue", "seed": "2-W", "opponent": "BYU (6)", "line": null, "safety": 7.5, "fv": 2, "burn": 6.0, "analysis": "Highest burn score if still available. Purdue's #2 O torches BYU's 177th D. Dybantsa scores 30 and still loses by 8. Dies to Arizona in E8." },
+        { "rank": 3, "team": "UConn", "seed": "2-E", "opponent": "Michigan State (3)", "line": null, "safety": 7.0, "fv": 5, "burn": 3.5, "analysis": "Hurley's 9-deep rotation vs Izzo's physicality. 14-0 ATS. Dies in F4 vs Arizona. Solid burn but FV is moderate." },
+        { "rank": 4, "team": "Duke", "seed": "1-E", "opponent": "Kansas (4)", "line": null, "safety": 7.5, "fv": 4, "burn": 4.5, "analysis": "If you SAVED Duke from R32. Boozer vs Bidunga is epic. Duke's talent carries. Dies in E8 vs UConn." },
+        { "rank": 5, "team": "Florida", "seed": "1-S", "opponent": "Vanderbilt (5)", "line": null, "safety": 7.0, "fv": 4, "burn": 4.2, "analysis": "SEC rematch with adjustments. Dies in E8 vs Houston." },
+        { "rank": 6, "team": "Houston", "seed": "2-S", "opponent": "Illinois (3)", "line": null, "safety": 7.5, "fv": 7, "burn": 2.3, "analysis": "Houston D vs #1 O at HOME. But Houston has real F4 value — save for E8.", "avoid": true }
+      ]
+    },
+    {
+      "id": "e8",
+      "name": "ELITE 8",
+      "date": "~March 28-29",
+      "verdict": "Houston (primary — home court + dies in F4), UConn (riskier alternative)",
+      "candidates": [
+        { "rank": 1, "team": "Houston", "seed": "2-S", "opponent": "Florida (1)", "line": null, "safety": 7.0, "fv": 4, "burn": 4.2, "analysis": "2025 title rematch IN HOUSTON. Sampson's home court = 3+ points. Flemings is a lottery pick. Dies in F4 vs Michigan (size mismatch). Optimal E8 burn." },
+        { "rank": 2, "team": "UConn", "seed": "2-E", "opponent": "Duke (1)", "line": null, "safety": 6.0, "fv": 3, "burn": 4.2, "analysis": "Hurley's depth exhausts Duke's 7-man rotation in game 5. 72-71 type game. Risk: this IS a coin flip. Dies in F4 vs Arizona." },
+        { "rank": 3, "team": "Arizona", "seed": "1-W", "opponent": "Purdue (2)", "line": null, "safety": 7.0, "fv": 8, "burn": 1.4, "analysis": "Arizona is favored but save for F4 — need them later. Only use if Houston/UConn are burned.", "avoid": true }
+      ]
+    },
+    {
+      "id": "f4",
+      "name": "FINAL FOUR",
+      "date": "Saturday April 4",
+      "verdict": "Arizona (beats UConn, then loses to Michigan in Final)",
+      "candidates": [
+        { "rank": 1, "team": "Arizona", "seed": "1-W", "opponent": "UConn (2)", "line": null, "safety": 6.5, "fv": 7, "burn": 2.0, "analysis": "Depth wears down UConn after grueling Duke E8. Bradley controls tempo. Burries hits clutch shots. Arizona 75-70. Deploy Arizona here — their last win before the Final." },
+        { "rank": 2, "team": "Michigan", "seed": "1-MW", "opponent": "Houston (2)", "line": null, "safety": 6.5, "fv": 10, "burn": 0.0, "analysis": "If your format requires a semifinal pick on this day, you COULD use Michigan here. But then you can't use them in the Final. Only if your pool ends at F4.", "avoid": true }
+      ]
+    },
+    {
+      "id": "champ",
+      "name": "CHAMPIONSHIP",
+      "date": "Monday April 6",
+      "verdict": "Deploy your champion.",
+      "candidates": [
+        { "rank": 1, "team": "Michigan", "seed": "1-MW", "opponent": "Arizona (1)", "line": null, "safety": 5.5, "fv": 10, "burn": null, "analysis": "Deploy your champion. Lendeborg (14.3/7.3/1.4 BPG) + tallest frontcourt + #1 defense. Michigan's size compounds through 6 games of tournament attrition. Michigan 72, Arizona 68." }
+      ]
+    }
+  ],
+  "primaryPath": [
+    { "round": "R64 Thu", "pick": "Gonzaga (3)", "opponent": "Kennesaw St (14)", "winPct": "92%", "burnReason": "Dead in R32 vs BYU (no Huff). Highest burn score in entire tournament." },
+    { "round": "R64 Fri", "pick": "Virginia (3)", "opponent": "Wright St (14)", "winPct": "94%", "burnReason": "Dead in S16 vs Iowa State. Safest Friday play with low future value." },
+    { "round": "R32 Sat", "pick": "Duke (1)", "opponent": "OSU/TCU winner", "winPct": "85%", "burnReason": "Dead in E8 vs UConn. 7-man rotation breaks in 2 weeks." },
+    { "round": "R32 Sun", "pick": "Florida (1)", "opponent": "Clemson/Iowa winner", "winPct": "83%", "burnReason": "Dead in E8 vs Houston. Defending champs cruise." },
+    { "round": "S16", "pick": "Iowa State (2)", "opponent": "Virginia (3)", "winPct": "72%", "burnReason": "Dead in E8 vs Michigan. Optimal S16 burn." },
+    { "round": "E8", "pick": "Houston (2)", "opponent": "Florida (1)", "winPct": "65%", "burnReason": "Dead in F4 vs Michigan. Home court = 3+ points." },
+    { "round": "F4", "pick": "Arizona (1)", "opponent": "UConn (2)", "winPct": "60%", "burnReason": "Dead in Final vs Michigan." },
+    { "round": "Final", "pick": "Michigan (1)", "opponent": "Arizona (1)", "winPct": "55%", "burnReason": "CHAMPION. Deploy your champion." }
+  ],
+  "cumulativeSurvival": "~10.8%",
+  "alternatePaths": [
+    {
+      "name": "Path B: Save Duke, Burn Purdue",
+      "description": "Swap Duke R32 for Purdue on Sunday, use Duke in S16 instead.",
+      "cumulative": "~8.2%",
+      "picks": [
+        { "round": "R64 Thu", "pick": "Michigan State", "winPct": "94%" },
+        { "round": "R64 Fri", "pick": "Alabama", "winPct": "85%" },
+        { "round": "R32 Sat", "pick": "Vanderbilt", "winPct": "75%" },
+        { "round": "R32 Sun", "pick": "Purdue", "winPct": "80%" },
+        { "round": "S16", "pick": "Duke", "winPct": "75%" },
+        { "round": "E8", "pick": "UConn", "winPct": "55%" },
+        { "round": "F4", "pick": "Arizona", "winPct": "60%" },
+        { "round": "Final", "pick": "Michigan", "winPct": "55%" }
+      ]
+    },
+    {
+      "name": "Path C: Maximum Contrarian",
+      "description": "For large pools. Lower survival but massive leverage if chalk busts early.",
+      "cumulative": "~6.4%",
+      "picks": [
+        { "round": "R64 Thu", "pick": "Nebraska", "winPct": "90%" },
+        { "round": "R64 Fri", "pick": "St. John's", "winPct": "80%" },
+        { "round": "R32 Sat", "pick": "Wisconsin", "winPct": "60%" },
+        { "round": "R32 Sun", "pick": "Kansas", "winPct": "70%" },
+        { "round": "S16", "pick": "Iowa State", "winPct": "72%" },
+        { "round": "E8", "pick": "Houston", "winPct": "65%" },
+        { "round": "F4", "pick": "Arizona", "winPct": "60%" },
+        { "round": "Final", "pick": "Michigan", "winPct": "55%" }
+      ]
+    },
+    {
+      "name": "Path D: Hedge Michigan",
+      "description": "If you don't trust our champion. Uses Arizona as champion instead.",
+      "cumulative": "~10.8%",
+      "picks": [
+        { "round": "R64 Thu", "pick": "Gonzaga", "winPct": "92%" },
+        { "round": "R64 Fri", "pick": "Virginia", "winPct": "94%" },
+        { "round": "R32 Sat", "pick": "Duke", "winPct": "85%" },
+        { "round": "R32 Sun", "pick": "Purdue", "winPct": "80%" },
+        { "round": "S16", "pick": "Iowa State", "winPct": "72%" },
+        { "round": "E8", "pick": "Houston", "winPct": "65%" },
+        { "round": "F4", "pick": "Michigan", "winPct": "60%" },
+        { "round": "Final", "pick": "Arizona", "winPct": "55%" }
+      ]
+    }
+  ],
+  "dangerZones": [
+    { "game": "Kentucky (-2.5) vs Santa Clara", "reason": "UK lost 5/7. Only 7 KenPom spots apart. Pope is 5-0 UNDER in tourney. Coin flip.", "day": "Friday" },
+    { "game": "Louisville (-6.5) vs South Florida", "reason": "Brown Jr. day-to-day (back). USF swept AAC awards. Bilas picks USF.", "day": "Thursday" },
+    { "game": "Alabama (-11.5) vs Hofstra", "reason": "Holloway arrested. 9 scholarship players. Spread dropped 3 pts. Trap city.", "day": "Friday" },
+    { "game": "Texas Tech (-7) vs Akron", "reason": "Toppin ACL OUT. D collapsed to 119th. Akron 7 days rest. Most popular upset pick.", "day": "Friday" },
+    { "game": "UNC (-2.5) vs VCU", "reason": "Wilson OUT (19.8/9.4 gone). VCU 16-1 since Jan 10. Near-universal upset pick.", "day": "Thursday" },
+    { "game": "BYU (-4) vs NC St/Texas", "reason": "177th defense. NC State shoots 38.8% from 3. Volatile.", "day": "Thursday" },
+    { "game": "Arkansas (-10.5) vs Hawaii", "reason": "4 SEC tourney games + cross-country travel. Hawaii's unique D causes problems.", "day": "Thursday" }
+  ],
+  "formatGuides": [
+    { "format": "1 Pick Per Day (DraftKings $1M)", "strategy": "Thu: Gonzaga → Fri: Virginia → Sat: Duke → Sun: Florida → S16: Iowa State → E8: Houston → F4: Arizona → Final: Michigan" },
+    { "format": "1 Pick Per Round", "strategy": "R64: Gonzaga → R32: Duke → S16: Iowa State → E8: Houston → F4: Arizona → Final: Michigan" },
+    { "format": "3-2-2-1-1 (Splash Sports)", "strategy": "R64: Gonzaga + MSU + Virginia · R32: Duke + Florida · S16: Iowa State + Purdue · E8: Houston · F4: Arizona → Final: Michigan" }
+  ]
+}
