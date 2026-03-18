@@ -1,366 +1,2090 @@
 [
   {
-    "team": "Michigan",
-    "seed": "1 (Midwest)",
-    "record": "31-3",
-    "kenpom": "#2 overall, #1 D, #8 O",
-    "coach": "Dusty May",
+    "team": "Akron",
+    "seed": "12",
+    "region": "Midwest",
+    "record": "29-5 (10-game streak)",
+    "kenpom": "MAC champion",
+    "coach": "MAC tournament champion",
     "keyPlayers": [
       {
-        "name": "Yaxel Lendeborg",
-        "stats": "14.3/7.3/1.4 BPG",
-        "note": "Lottery pick. Projected MOP (19/11/3 blocks in championship)."
+        "name": "Tavari Johnson",
+        "position": "G",
+        "stats": "20.1 PPG",
+        "note": "MAC scoring leader."
       },
       {
-        "name": "Tre Johnson Jr.",
-        "stats": "6-9 forward",
-        "note": "Part of tallest frontcourt in America."
-      },
-      {
-        "name": "Mara (center)",
-        "stats": "7-3 center",
-        "note": "Historic height. Uncoverable on both ends."
+        "name": "Senior guards",
+        "position": "Guards",
+        "stats": "All 37%+ 3PT",
+        "note": "Experience core."
       }
     ],
-    "strengths": "#1 defense in America (scheme-proof). Tallest frontcourt in college basketball. Size compounds in tournament play. Two losses all year by combined 8 pts.",
-    "weaknesses": "Point guard depth (Cadeau OUT). Limited ball-handling besides Lendeborg. Perimeter 3PT volume below elite teams.",
-    "ourPick": "CHAMPION (beats Arizona 72-68 in title game)",
-    "narrative": "Dusty May's defensive masterpiece. Size advantage grows exponentially in tournament. Elite defense + tallest roster = championship formula. Championship DNA: 1 seed with easiest path (Akron MAC team, ISU not focused on D, Houston neutral court)."
-  },
-  {
-    "team": "Duke",
-    "seed": "1 (East)",
-    "record": "32-2",
-    "kenpom": "#1 overall, #4 O, #2 D",
-    "coach": "Jon Scheyer",
-    "keyPlayers": [
-      {
-        "name": "Cameron Boozer",
-        "stats": "22.7/10.2/41% 3PT",
-        "note": "NPOY. Highest KenPom O rating in history."
-      },
-      {
-        "name": "Caleb Foster",
-        "stats": "OUT (fractured foot)",
-        "note": "OUT indefinitely. Second scoring option gone."
-      },
-      {
-        "name": "Ngongba",
-        "stats": "Game-time decision",
-        "note": "Trending positive but uncertainty remains."
-      }
+    "strengths": [
+      "10-game winning streak",
+      "3-peat MAC champions",
+      "All senior core (37%+ 3PT)",
+      "7 DAYS REST (max in field)",
+      "Opponents imploding (Toppin ACL, Holloway arrest)"
     ],
-    "strengths": "Boozer is historically transcendent scorer (22.7/10.2). Top-4 offense. Top-2 defense. Conference tournament momentum (ACC champ).",
-    "weaknesses": "7-man rotation fatigues by E8. Foster OUT = depth crisis. Boozer 37+ min/game unsustainable. Hardest path (UConn #9 KenPom + MSU Izzo expertise). No secondary scorer after Foster injury.",
-    "ourPick": "Elite 8 (loses to UConn 72-71, UConn's 9-man rotation grinds Duke down)",
-    "narrative": "Boozer is generational talent but can't carry thin rotation deep. Fatigue + injuries + UConn's depth = upset in E8. By game 5 (E8), rotation has played 80+ minutes on short rest."
+    "weaknesses": [
+      "MAC competition level",
+      "Will face elite defense in S16",
+      "Limited offensive diversity",
+      "3PT-dependent"
+    ],
+    "narrative": "Perfect storm Cinderella: 7 days rest + two injured opponents. Hits Michigan's elite D wall.",
+    "ourPick": "Sweet 16"
   },
   {
     "team": "Arizona",
-    "seed": "1 (West)",
+    "seed": "1",
+    "region": "West",
     "record": "32-2",
     "kenpom": "#3 overall, #5 O, #3 D",
     "coach": "Kevin Sumlin",
     "keyPlayers": [
       {
         "name": "Jaden Bradley",
-        "stats": "13.4/4.6 APG",
-        "note": "Big 12 POY. Defensive stopper. Makes 6 teammates better."
+        "position": "PG",
+        "stats": "13.4/4.6 APG, Big 12 POY",
+        "note": "Defensive stopper."
       },
       {
-        "name": "Burries",
+        "name": "Brayden Burries",
+        "position": "SG",
         "stats": "16.0/37% 3PT",
-        "note": "Elite 3PT shooting. Creates floor spacing."
+        "note": "Elite shooter."
       },
       {
-        "name": "Peat",
-        "stats": "13.8/5.3 RPG (back healthy)",
-        "note": "Interior presence. Back from injury = fresh."
+        "name": "Koa Peat",
+        "position": "PF",
+        "stats": "13.8 PPG",
+        "note": "Back from injury."
       }
     ],
-    "strengths": "7 players average 8.7+ PPG (deepest roster). No injuries. Top-5 O, top-3 D. Only 2 losses all year. Won Big 12 in 3 games (freshest 1-seed). Safest, most balanced team.",
-    "weaknesses": "No single transcendent scorer (if Bradley struggles, who takes final shot?). Depth can be unpredictable variance. One less day rest vs Michigan coming in.",
-    "ourPick": "Runner-up (loses to Michigan 72-68 in championship game)",
-    "narrative": "Safest 1-seed. Depth insulates vs variance. Self-correcting offense. Makes final Four as deepest team but Michigan's size advantage in championship too much."
-  },
-  {
-    "team": "Florida",
-    "seed": "1 (South)",
-    "record": "26-7",
-    "kenpom": "#4 overall, #9 O, #6 D",
-    "coach": "Todd Golden",
-    "keyPlayers": [
-      {
-        "name": "Walter Haugh",
-        "stats": "17.2/6.1 PPG, lottery",
-        "note": "SEC POY. Defending champs anchor."
-      },
-      {
-        "name": "Kareem Chinyelu",
-        "stats": "11.4/11.7 RPG/1.1 BPG",
-        "note": "DPOY candidate. Rim protector."
-      },
-      {
-        "name": "5 double-figure scorers",
-        "stats": "Various",
-        "note": "Deep team depth. Championship experience."
-      }
+    "strengths": [
+      "7 players average 8.7+ PPG (deepest roster)",
+      "No injuries",
+      "Top-5 O, top-3 D",
+      "Only 2 losses all year",
+      "Won Big 12 in 3 games (freshest 1-seed)"
     ],
-    "strengths": "Defending champs with experience. 5 double-figure scorers (depth). Chinyelu elite rebounding (11.7 RPG). #9 offense nationally. Won SEC tournament early (extra rest).",
-    "weaknesses": "S16/E8 in Houston (structural disadvantage for them, Houston's home court). Haugh can be inconsistent (0-for games). Interior vulnerable to elite teams.",
-    "ourPick": "Elite 8 (loses to Houston 62-58 at Houston)",
-    "narrative": "Defending champ curse. Early SEC exit leaves them rested but Houston's home court + Sampson's defensive architecture from 2025 title game rematch = Florida loses in own backyard intellectually."
-  },
-  {
-    "team": "UConn",
-    "seed": "2 (East)",
-    "record": "29-5",
-    "kenpom": "#9 overall",
-    "coach": "Dan Hurley",
-    "keyPlayers": [
-      {
-        "name": "Karaban",
-        "stats": "12.9/40% 3PT",
-        "note": "Championship holdover. Elite shooter."
-      },
-      {
-        "name": "Reed Jr.",
-        "stats": "13.8/8.0 PPG/2.1 BPG",
-        "note": "Rim protector. Championship experience."
-      },
-      {
-        "name": "9-man rotation",
-        "stats": "Deepest in field",
-        "note": "Hurley's rotation advantage. 3 of last 4 title games."
-      }
+    "weaknesses": [
+      "No single transcendent scorer",
+      "Depth can create variance",
+      "May rely too much on balance"
     ],
-    "strengths": "Dan Hurley 3 of last 4 championship games (tournament DNA). 9-man rotation (deepest in field). 14-0 ATS in NCAA Tournament historically. Top-11 defense. Championship experience.",
-    "weaknesses": "Recent losses to Creighton/Marquette show inconsistency. Gassed after Duke E8 war. Can't match Michigan's size in potential F4. Limited secondary scorers (Karaban only 12.9 PPG).",
-    "ourPick": "Final Four (beats Duke 72-71 in E8 upset, loses to Arizona 75-70 in F4)",
-    "narrative": "Hurley's tournament DNA + 9-man depth outlasts Duke's thin rotation. But Arizona depth edges UConn in F4 when UConn fatigued from Duke war."
-  },
-  {
-    "team": "Purdue",
-    "seed": "2 (West)",
-    "record": "27-8",
-    "kenpom": "#8 overall, #2 O",
-    "coach": "Matt Painter",
-    "keyPlayers": [
-      {
-        "name": "Caleb Smith",
-        "stats": "14.9/8.7 APG",
-        "note": "NCAA assists record pursuit. One assist behind Hurley all-time."
-      },
-      {
-        "name": "Loyer",
-        "stats": "13.6/42% 3PT",
-        "note": "Elite shooter. Creates spacing."
-      },
-      {
-        "name": "KenPom #2 O",
-        "stats": "Best offense besides Illinois",
-        "note": "Offensive precision beats most defenses."
-      }
-    ],
-    "strengths": "#2 offense in KenPom (best besides Illinois #1). Smith/Loyer backcourt precision. 4 Big Ten tournament games shows offensive consistency.",
-    "weaknesses": "Defense collapsed: went 6-7 down stretch, D dropped #20→#88. BEFORE 4 B10 tourney games = compounding fatigue. Can't defend at E8 level. Arizona's balance exposes one-dimensional approach.",
-    "ourPick": "Sweet 16 (beats BYU 84-76, loses to Arizona 81-73 in E8)",
-    "narrative": "Offensive firepower beats early opponents but defense can't hold vs Arizona's balance + elite D at E8. Late-season collapse before tournament = fatigue catching up."
-  },
-  {
-    "team": "Iowa State",
-    "seed": "2 (Midwest)",
-    "record": "27-7",
-    "kenpom": "#7 overall",
-    "coach": "T.J. Otzelberger",
-    "keyPlayers": [
-      {
-        "name": "Milan Momcilovic",
-        "stats": "17.0/50% 3PT (!)",
-        "note": "Historically elite single-season shooter."
-      },
-      {
-        "name": "Lipsey",
-        "stats": "13.3/5.0 APG",
-        "note": "Top-5 PG nationally. Controls tempo."
-      },
-      {
-        "name": "Jefferson",
-        "stats": "16.6/7.4/5.0",
-        "note": "All-America. Versatile forward."
-      }
-    ],
-    "strengths": "Momcilovic 50% 3PT (unsolvable math problem). Top-10 defense. Lipsey elite PG play. Fresh (only 2 conf tourney games, 6 days rest).",
-    "weaknesses": "4-4 late-season slide shows offensive inconsistency. When ISU goes cold, they're beatable. One-dimensional offense (Momcilovic too predictable by S16).",
-    "ourPick": "Elite 8 (beats Virginia 70-65 in S16, loses to Michigan 69-63 in E8)",
-    "narrative": "Momcilovic's 50% 3PT beats Virginia's pace-heavy defense in S16, but Michigan's elite D (held Big Ten <30% 3PT) contains even Momcilovic in E8."
-  },
-  {
-    "team": "Houston",
-    "seed": "2 (South)",
-    "record": "28-6",
-    "kenpom": "#6 overall, top-5 D",
-    "coach": "Kelvin Sampson",
-    "keyPlayers": [
-      {
-        "name": "Kingston Flemings",
-        "stats": "16.5/5.4/38% 3PT",
-        "note": "Lottery pick. Best frosh Sampson coached. Shot-creator."
-      },
-      {
-        "name": "Sharp + Uzan",
-        "stats": "F4 vets",
-        "note": "Championship experience. Finals knowledge."
-      },
-      {
-        "name": "Tugler",
-        "stats": "Big 12 DPOY",
-        "note": "Elite interior defense."
-      }
-    ],
-    "strengths": "S16/E8 IN HOUSTON (home court = 3+ pts). Sampson HoF defensive architect. 62.9 PPG allowed (top-5 D). Sampson beat Florida in 2025 title game. Prep time advantage grows each round.",
-    "weaknesses": "Offense KenPom #14 (mid-pack). May not have enough scoring for truly elite defenses. Sampson scheme relies on preparation time.",
-    "ourPick": "Final Four (beats Florida 62-58 in E8 at Houston, loses to Michigan 68-61 in F4)",
-    "narrative": "Houston's home court edge + Sampson's defensive mastery = Cinderella run. But Michigan's size neutralizes Sampson's scheme in F4 at neutral court."
-  },
-  {
-    "team": "Akron",
-    "seed": "12 (Midwest)",
-    "record": "29-5, 10-game streak",
-    "kenpom": "Mid-major power",
-    "coach": "MAC tournament champion",
-    "keyPlayers": [
-      {
-        "name": "Tavari Johnson",
-        "stats": "20.1 PPG, MAC scoring leader",
-        "note": "Senior guard. 37%+ 3PT shooter."
-      },
-      {
-        "name": "Three senior guards",
-        "stats": "All 37%+ 3PT",
-        "note": "Battle-tested seniors. Experience matters."
-      },
-      {
-        "name": "7 DAYS REST",
-        "stats": "Max in field",
-        "note": "Freshest team. Last game 3/13."
-      }
-    ],
-    "strengths": "10-game winning streak. 3-peat MAC champions. All senior core (37%+ 3PT). 7 DAYS REST (maximum in field). Opponents (TTU + Holloway-less Bama) both imploding/fatigued.",
-    "weaknesses": "MAC competition level. Will face elite defense in S16. Limited offensive diversity (3PT-dependent).",
-    "ourPick": "Sweet 16 (beats TTU 79-74 in R32, beats Holloway-less Alabama 79-74 in R32, loses to Michigan 82-62 in S16)",
-    "narrative": "Perfect storm Cinderella: 7 days rest + two injured opponents (Toppin ACL, Holloway arrested) = sweet 16 run. But hits Michigan's elite D wall in S16."
+    "narrative": "Safest 1-seed with balanced attack. Makes Final Four as deepest team.",
+    "ourPick": "Runner-up (Final)"
   },
   {
     "team": "BYU",
-    "seed": "6 (West)",
+    "seed": "6",
+    "region": "West",
     "record": "25-9",
     "kenpom": "Mid-major ranked",
     "coach": "Kevin Young",
     "keyPlayers": [
       {
         "name": "AJ Dybantsa",
-        "stats": "25.3/93 pts in 3 Big 12 tourney games",
-        "note": "Nation's #1 scorer. Projected #1 pick. Unstoppable."
+        "position": "SF",
+        "stats": "25.3 PPG/projected #1 pick",
+        "note": "93 pts in 3 Big 12 games."
       },
       {
-        "name": "Saunders",
+        "name": "Richie Saunders",
+        "position": "F",
         "stats": "OUT (ACL)",
-        "note": "Defense cratered to 177th without him."
-      },
-      {
-        "name": "No secondary scorer",
-        "stats": "One-man team",
-        "note": "Can't outscore elite defenses alone."
+        "note": "Major loss."
       }
     ],
-    "strengths": "Dybantsa: 25.3 PPG (#1 nationally), 93 pts in 3 Big 12 tourney games, projected #1 pick. Highest individual ceiling in field (35+ PPG games possible).",
-    "weaknesses": "DEFENSE 177th (worst in bracket). Saunders OUT (ACL) = D cratered. Can't win defensive games. Only weapon on team. By S16, defenses force ball from Dybantsa.",
-    "ourPick": "Sweet 16 (beats Gonzaga (Huff OUT) 83-76 in R32, loses to Purdue 84-76 in S16)",
-    "narrative": "Dybantsa's historic scoring (93 pts in 3 tourney games) carries past wounded Gonzaga, but Purdue #2 offense forces ball from his hands in S16."
+    "strengths": [
+      "Dybantsa #1 scorer nationally (25.3 PPG)",
+      "93 pts in 3 Big 12 games",
+      "Highest individual ceiling in field"
+    ],
+    "weaknesses": [
+      "DEFENSE 177th (worst in bracket)",
+      "Saunders OUT = defense cratered",
+      "One-man team",
+      "By S16, defenses force ball away"
+    ],
+    "narrative": "Dybantsa historic scoring carries past Gonzaga but Purdue #2 offense forces ball from him.",
+    "ourPick": "Sweet 16"
   },
   {
-    "team": "Wisconsin",
-    "seed": "5 (West)",
+    "team": "Duke",
+    "seed": "1",
+    "region": "East",
+    "record": "32-2",
+    "kenpom": "#1 overall, #4 O, #2 D",
+    "coach": "Jon Scheyer",
+    "keyPlayers": [
+      {
+        "name": "Cameron Boozer",
+        "position": "PF",
+        "stats": "22.7/10.2/41% 3PT",
+        "note": "Highest KenPom O rating in history."
+      },
+      {
+        "name": "Caleb Foster",
+        "position": "SG",
+        "stats": "OUT (foot)",
+        "note": "Second option lost."
+      },
+      {
+        "name": "Ngongba",
+        "position": "C",
+        "stats": "Game-time decision",
+        "note": "Uncertainty remains."
+      }
+    ],
+    "strengths": [
+      "Boozer historically transcendent scorer",
+      "Top-4 offense",
+      "Top-2 defense",
+      "ACC tournament momentum"
+    ],
+    "weaknesses": [
+      "7-man rotation fatigues by E8",
+      "Foster OUT creates depth crisis",
+      "Boozer unsustainable 37+ min/game"
+    ],
+    "narrative": "Boozer transcendent but thin rotation fatigues. UConn depth grinds them down by game 5.",
+    "ourPick": "Elite 8"
+  },
+  {
+    "team": "Florida",
+    "seed": "1",
+    "region": "South",
+    "record": "26-7",
+    "kenpom": "#4 overall, #9 O, #6 D",
+    "coach": "Todd Golden",
+    "keyPlayers": [
+      {
+        "name": "Thomas Haugh",
+        "position": "PF",
+        "stats": "17.2 PPG",
+        "note": "SEC POY candidate."
+      },
+      {
+        "name": "Rueben Chinyelu",
+        "position": "C",
+        "stats": "11.4/11.7 RPG/1.1 BPG",
+        "note": "DPOY candidate, rim protector."
+      },
+      {
+        "name": "Alex Condon",
+        "position": "C",
+        "stats": "14.8 PPG",
+        "note": "Double-figure scorer."
+      }
+    ],
+    "strengths": [
+      "Defending champs with experience",
+      "5 double-figure scorers",
+      "Chinyelu elite rebounding",
+      "Championship DNA"
+    ],
+    "weaknesses": [
+      "S16/E8 in Houston (home court disadvantage)",
+      "Haugh inconsistency",
+      "Interior vulnerable to elite size"
+    ],
+    "narrative": "Defending champ curse + Houston home court = Florida loses in E8.",
+    "ourPick": "Elite 8"
+  },
+  {
+    "team": "Gonzaga",
+    "seed": "3",
+    "region": "West",
+    "record": "28-6",
+    "kenpom": "#8 overall",
+    "coach": "Mark Few",
+    "keyPlayers": [
+      {
+        "name": "Graham Ike",
+        "position": "C",
+        "stats": "19.7 PPG/8.2 RPG",
+        "note": "69% inside arc."
+      },
+      {
+        "name": "Braden Huff",
+        "position": "PF",
+        "stats": "RULED OUT",
+        "note": "Foot injury."
+      }
+    ],
+    "strengths": [
+      "Graham Ike interior dominance",
+      "Tournament experience",
+      "23 straight NCAA bids"
+    ],
+    "weaknesses": [
+      "Braden Huff OUT (offense dropped 14th\u219268th)",
+      "Ike one-dimensional without spacing",
+      "91-spot KenPom gap vs Kennesaw St"
+    ],
+    "narrative": "Huff injury cripples offense. Dybantsa beats wounded Zags at his full scoring potential.",
+    "ourPick": "Round of 32"
+  },
+  {
+    "team": "Houston",
+    "seed": "2",
+    "region": "South",
+    "record": "28-6",
+    "kenpom": "#6 overall, top-5 D",
+    "coach": "Kelvin Sampson",
+    "keyPlayers": [
+      {
+        "name": "Kingston Flemings",
+        "position": "SG",
+        "stats": "16.5 PPG/38% 3PT",
+        "note": "Best freshman Sampson coached."
+      },
+      {
+        "name": "Emanuel Sharp",
+        "position": "F",
+        "stats": "F4 vet",
+        "note": "Championship experience."
+      },
+      {
+        "name": "Milos Uzan",
+        "position": "G",
+        "stats": "F4 vet",
+        "note": "Championship experience."
+      }
+    ],
+    "strengths": [
+      "S16/E8 IN HOUSTON (home court 3+ pts)",
+      "Sampson HoF defense",
+      "#5 D allows 62.9 PPG",
+      "2025 title game edge vs Florida"
+    ],
+    "weaknesses": [
+      "Offense KenPom #14 (mid-pack)",
+      "Relies on preparation time",
+      "Can get exposed by creating guards"
+    ],
+    "narrative": "Home court + Sampson mastery beats Florida in E8 rematch, loses to Michigan in F4.",
+    "ourPick": "Final Four"
+  },
+  {
+    "team": "Illinois",
+    "seed": "3",
+    "region": "South",
+    "record": "28-6",
+    "kenpom": "#1 offense in KenPom HISTORY",
+    "coach": "Brad Underwood",
+    "keyPlayers": [
+      {
+        "name": "Keaton Wagler",
+        "position": "SG",
+        "stats": "17.9 PPG/40.2% 3PT",
+        "note": "Projected top-10 pick."
+      }
+    ],
+    "strengths": [
+      "#1 offense in KenPom history (never before replicated)",
+      "Multiple scoring options",
+      "Historic efficiency"
+    ],
+    "weaknesses": [
+      "Defense #88 (huge liability)",
+      "Can be exposed by elite D",
+      "Limited defensive versatility"
+    ],
+    "narrative": "Historic #1 offense destroys early opponents but Florida's experience in E8 slows them.",
+    "ourPick": "Sweet 16"
+  },
+  {
+    "team": "Iowa State",
+    "seed": "2",
+    "region": "Midwest",
     "record": "27-7",
-    "kenpom": "Tournament team",
-    "coach": "Greg Gard",
+    "kenpom": "#7 overall",
+    "coach": "T.J. Otzelberger",
     "keyPlayers": [
       {
-        "name": "Boyd",
-        "stats": "20.6 PPG, Final Four vet",
-        "note": "Experience matters. Ball security."
+        "name": "Milan Momcilovic",
+        "position": "SF",
+        "stats": "17.0 PPG/50% 3PT",
+        "note": "Unsolvable math problem."
       },
       {
-        "name": "Blackwell",
-        "stats": "18.3 PPG",
-        "note": "Backcourt partner. Scoring punch."
+        "name": "Tamin Lipsey",
+        "position": "PG",
+        "stats": "13.3 PPG/5.0 APG",
+        "note": "Top-5 PG nationally."
       },
       {
-        "name": "3rd-fewest TOs",
-        "stats": "Ball security edge",
-        "note": "Tournament-ready fundamentals."
+        "name": "Joshua Jefferson",
+        "position": "PF",
+        "stats": "16.6/7.4 PPG/RPG",
+        "note": "All-America versatility."
       }
     ],
-    "strengths": "Beat Michigan, Illinois, MSU, Purdue on road (4 tourney teams). Boyd Final Four experience. 3rd-fewest turnovers nationally. Fresh (only 2 conf tourney games, 6 days rest).",
-    "weaknesses": "62nd defense is vulnerability. Limited depth. Ceiling limited by defensive floor. Can't outscore elite offenses.",
-    "ourPick": "Sweet 16 (beats Arkansas 75-71 in R32, loses to Arizona 78-72 in S16)",
-    "narrative": "Wisconsin's elite wins (beat Mich/Ill/MSU/Purdue) + fresh legs (only 2 conf games) beat fatigued Arkansas in R32. But Arizona's balanced attack + elite D too much in S16."
+    "strengths": [
+      "Momcilovic 50% 3PT (unsolvable)",
+      "Top-10 defense",
+      "Lipsey elite PG play",
+      "Fresh with good rest"
+    ],
+    "weaknesses": [
+      "4-4 late-season slide",
+      "Shot-dependent team",
+      "One-dimensional offense by S16",
+      "Defense can't carry in every game"
+    ],
+    "narrative": "Momcilovic's 50% 3PT beats Virginia but Michigan's elite D contains him in E8.",
+    "ourPick": "Elite 8"
   },
   {
-    "team": "VCU",
-    "seed": "11 (South)",
-    "record": "27-8 (16-1 since Jan 10)",
-    "kenpom": "Elite mid-major",
-    "coach": "Mike Rhoades",
+    "team": "Kansas",
+    "seed": "4",
+    "region": "East",
+    "record": "26-9",
+    "kenpom": "#10 overall",
+    "coach": "Bill Self",
     "keyPlayers": [
       {
-        "name": "Lewis",
-        "stats": "A-10 ROY",
-        "note": "Defensive standout."
+        "name": "Darryn Peterson",
+        "position": "SF",
+        "stats": "Projected #1 pick",
+        "note": "Elite scoring."
       },
       {
-        "name": "Jennings",
-        "stats": "57 steals (elite perimeter D)",
-        "note": "Defensive pest. Tournament tempo fits."
-      },
-      {
-        "name": "16-1 record Jan 10+",
-        "stats": "Hottest team in field",
-        "note": "Momentum is real. Near-universal pick."
+        "name": "Flory Bidunga",
+        "position": "C",
+        "stats": "Big 12 DPOY",
+        "note": "Rim protector."
       }
     ],
-    "strengths": "16-1 since Jan 10 (hottest team in field). A-10 tournament champs. Elite perimeter defense (57 steals, Lewis A-10 ROY). Wilson OUT for UNC = VCU's path opens.",
-    "weaknesses": "Limited offensive firepower. Ceiling = elite D can't outscore better offenses. 70 PPG max games. Loses to Illinois #1 offense (offensive ceiling reached).",
-    "ourPick": "Round of 32 (beats UNC 71-66 upset, loses to Illinois 82-71)",
-    "narrative": "VCU upset of Wilson-less UNC makes noise, but Illinois #1 offense too much firepower for elite defense ceiling."
+    "strengths": [
+      "Peterson #1 pick talent",
+      "Bidunga elite interior",
+      "Big 12 momentum",
+      "Self tournament pedigree"
+    ],
+    "weaknesses": [
+      "Peterson cramp history",
+      "Limited depth",
+      "Can be inconsistent"
+    ],
+    "narrative": "Peterson dominance beats St. John's but can't sustain vs Arizona.",
+    "ourPick": "Sweet 16"
+  },
+  {
+    "team": "Michigan",
+    "seed": "1",
+    "region": "Midwest",
+    "record": "31-3",
+    "kenpom": "#2 overall, #1 D, #8 O",
+    "coach": "Dusty May",
+    "keyPlayers": [
+      {
+        "name": "Yaxel Lendeborg",
+        "position": "PF",
+        "stats": "14.3/7.3/1.4 BPG",
+        "note": "Lottery pick. Rim protector."
+      },
+      {
+        "name": "Morez Johnson Jr.",
+        "position": "F",
+        "stats": "6-9 forward",
+        "note": "Part of tallest frontcourt."
+      },
+      {
+        "name": "Aday Mara",
+        "position": "C",
+        "stats": "7-3 center",
+        "note": "Historic height advantage."
+      }
+    ],
+    "strengths": [
+      "#1 defense in America",
+      "Tallest frontcourt in college basketball",
+      "Elite depth",
+      "Two losses all year by combined 8 points"
+    ],
+    "weaknesses": [
+      "PG depth concerns",
+      "Limited perimeter 3PT volume",
+      "May struggle if forced to play small"
+    ],
+    "narrative": "Defensive masterpiece with size advantage that grows exponentially through tournament.",
+    "ourPick": "CHAMPION"
+  },
+  {
+    "team": "Nebraska",
+    "seed": "4",
+    "region": "South",
+    "record": "25-9",
+    "kenpom": "Elite defense, #1 OREB rate",
+    "coach": "Fred Hoiberg",
+    "keyPlayers": [
+      {
+        "name": "Nate Ament",
+        "position": "F",
+        "stats": "22.4 PPG when healthy",
+        "note": "Scoring leader."
+      },
+      {
+        "name": "Ja'Kobi Gillespie",
+        "position": "G",
+        "stats": "18.0 PPG",
+        "note": "Secondary scorer."
+      }
+    ],
+    "strengths": [
+      "Elite defense (KenPom #7)",
+      "#1 OREB team",
+      "Best defensive efficiency in Big Ten"
+    ],
+    "weaknesses": [
+      "0-8 all-time in March (historical curse)",
+      "Interior vulnerable to size",
+      "Seeking first tournament win"
+    ],
+    "narrative": "Rebounding and defense beat Troy but Vanderbilt ends March curse dreams.",
+    "ourPick": "Round of 32"
+  },
+  {
+    "team": "Purdue",
+    "seed": "2",
+    "region": "West",
+    "record": "27-8",
+    "kenpom": "#8 overall, #2 O",
+    "coach": "Matt Painter",
+    "keyPlayers": [
+      {
+        "name": "Braden Smith",
+        "position": "PG",
+        "stats": "14.9/8.7 APG",
+        "note": "One assist behind Hurley record."
+      },
+      {
+        "name": "Fletcher Loyer",
+        "position": "SG",
+        "stats": "42% 3PT",
+        "note": "Elite shooter."
+      },
+      {
+        "name": "KenPom #2 O",
+        "position": "Team",
+        "stats": "Offensive precision",
+        "note": "Best besides Illinois."
+      }
+    ],
+    "strengths": [
+      "#2 offense in KenPom",
+      "Smith/Loyer precision",
+      "Offensive firepower",
+      "Big Ten tournament momentum"
+    ],
+    "weaknesses": [
+      "Defense collapsed 6-7 down stretch",
+      "D dropped #20\u2192#88",
+      "Fatigue compounds",
+      "Can't defend at E8 level"
+    ],
+    "narrative": "Offensive firepower beats early opponents but defense can't hold vs Arizona.",
+    "ourPick": "Sweet 16"
   },
   {
     "team": "Santa Clara",
-    "seed": "10 (Midwest)",
+    "seed": "10",
+    "region": "Midwest",
     "record": "28-6",
     "kenpom": "Elite mid-major",
     "coach": "Herb Sendek",
     "keyPlayers": [
       {
-        "name": "Gavalyugov",
-        "stats": "42 pts + 17 assists WCC tourney",
-        "note": "Hot hand. Tournament momentum."
-      },
-      {
-        "name": "56.5% inside arc",
-        "stats": "Interior dominance",
-        "note": "FG% interior strength."
-      },
-      {
-        "name": "KenPom advantage",
-        "stats": "Only 7 spots from UK",
-        "note": "Near parity with 7-seed."
+        "name": "Sash Gavalyugov",
+        "position": "G",
+        "stats": "42 pts/17 ast WCC tourney",
+        "note": "Hot hand."
       }
     ],
-    "strengths": "Only 7 KenPom spots from Kentucky (near parity). UK lost 5/7 games down stretch (fatigued). Quaintance doubtful (UK's best interior). Gavalyugov hot hand + 56.5% inside arc.",
-    "weaknesses": "Can't sustain vs Iowa State's elite D (top-10). Offensive ceiling capped. Limited depth.",
-    "ourPick": "Round of 32 (beats Kentucky 72-68 upset, loses to Iowa State 74-63)",
-    "narrative": "Santa Clara upset of fatigued Kentucky validates Pope's defensive coaching, but Iowa State's top-10 D holds SC to 63 PPG ceiling."
+    "strengths": [
+      "Only 7 KenPom spots from Kentucky",
+      "UK lost 5/7 down stretch",
+      "Gavalyugov hot hand",
+      "56.5% inside arc"
+    ],
+    "weaknesses": [
+      "Can't sustain vs Iowa State",
+      "Limited depth at guard",
+      "Mid-major limitations"
+    ],
+    "narrative": "Upset of fatigued Kentucky validated but Iowa State top-10 D holds SC to 63 PPG.",
+    "ourPick": "Round of 32"
+  },
+  {
+    "team": "St. John's",
+    "seed": "5",
+    "region": "East",
+    "record": "27-8",
+    "kenpom": "Elite defense",
+    "coach": "Rick Pitino",
+    "keyPlayers": [
+      {
+        "name": "Zuby Ejiofor",
+        "position": "C",
+        "stats": "16.3/7.1/2.1 BPG",
+        "note": "Big East POY + DPOY."
+      },
+      {
+        "name": "Soryu",
+        "position": "G",
+        "stats": "13+ PPG",
+        "note": "Supporting cast."
+      }
+    ],
+    "strengths": [
+      "Ejiofor swept Big East POY + DPOY",
+      "Elite two-way dominance",
+      "Big East momentum"
+    ],
+    "weaknesses": [
+      "Limited depth at guard",
+      "Mid-major ceiling",
+      "Offensive firepower limited"
+    ],
+    "narrative": "Ejiofor stifles UNI but Kansas guard depth overwhelms in R32.",
+    "ourPick": "Round of 32"
+  },
+  {
+    "team": "Tennessee",
+    "seed": "6",
+    "region": "Midwest",
+    "record": "26-8",
+    "kenpom": "Elite rebounding",
+    "coach": "Rick Barnes",
+    "keyPlayers": [
+      {
+        "name": "Nate Ament",
+        "position": "F",
+        "stats": "22.4 PPG",
+        "note": "Scoring leader."
+      },
+      {
+        "name": "Ja'Kobi Gillespie",
+        "position": "G",
+        "stats": "18.0 PPG/5.6 APG",
+        "note": "Secondary scorer."
+      }
+    ],
+    "strengths": [
+      "#1 OREB team",
+      "Rick Barnes tournament experience",
+      "Physical play in tournament"
+    ],
+    "weaknesses": [
+      "Loses to Virginia in R32",
+      "Limited perimeter shooting",
+      "Tough draw with Virginia"
+    ],
+    "narrative": "Elite rebounding handles SMU but Onyenso neutralizes glass advantage.",
+    "ourPick": "Round of 32"
+  },
+  {
+    "team": "UConn",
+    "seed": "2",
+    "region": "East",
+    "record": "29-5",
+    "kenpom": "#9 overall, #11 D",
+    "coach": "Dan Hurley",
+    "keyPlayers": [
+      {
+        "name": "Alex Karaban",
+        "position": "SF",
+        "stats": "12.9 PPG/40% 3PT",
+        "note": "Championship holdover."
+      },
+      {
+        "name": "Tarris Reed Jr.",
+        "position": "C",
+        "stats": "13.8/8.0 RPG/2.1 BPG",
+        "note": "Rim protector."
+      },
+      {
+        "name": "9-man rotation",
+        "position": "Team",
+        "stats": "Tournament-proven depth",
+        "note": "Deepest in field."
+      }
+    ],
+    "strengths": [
+      "Dan Hurley 3 of last 4 championship games",
+      "9-man rotation (deepest in field)",
+      "Top-11 defense",
+      "Championship experience"
+    ],
+    "weaknesses": [
+      "Recent losses show inconsistency",
+      "Gassed after Duke E8 war",
+      "Can't match Michigan's size",
+      "Limited secondary scorers"
+    ],
+    "narrative": "Hurley's tournament DNA beats Boozer's brilliance in E8 upset.",
+    "ourPick": "Final Four"
+  },
+  {
+    "team": "VCU",
+    "seed": "11",
+    "region": "South",
+    "record": "27-8 (16-1 since Jan 10)",
+    "kenpom": "Elite mid-major",
+    "coach": "Mike Rhoades",
+    "keyPlayers": [
+      {
+        "name": "Nyk Lewis",
+        "position": "F",
+        "stats": "A-10 ROY",
+        "note": "Defensive versatility."
+      },
+      {
+        "name": "Brandon Jennings",
+        "position": "G",
+        "stats": "57 steals",
+        "note": "Elite perimeter D."
+      }
+    ],
+    "strengths": [
+      "16-1 since Jan 10 (hottest team)",
+      "A-10 tournament champs",
+      "Elite perimeter defense",
+      "Wilson OUT for UNC opens path"
+    ],
+    "weaknesses": [
+      "Limited offensive firepower",
+      "70 PPG ceiling",
+      "Illinois #1 offense too much"
+    ],
+    "narrative": "VCU upset of Wilson-less UNC but Illinois #1 offense too much firepower.",
+    "ourPick": "Round of 32"
+  },
+  {
+    "team": "Virginia",
+    "seed": "3",
+    "region": "Midwest",
+    "record": "28-6",
+    "kenpom": "Top-15 defense",
+    "coach": "Tony Bennett",
+    "keyPlayers": [
+      {
+        "name": "Ugonna Onyenso",
+        "position": "C",
+        "stats": "7-0/2.97 BPG",
+        "note": "Historic shot-blocker."
+      }
+    ],
+    "strengths": [
+      "Onyenso elite shot-blocking",
+      "Elite packline defense",
+      "Bennett tournament experience"
+    ],
+    "weaknesses": [
+      "Limited offensive firepower",
+      "Can't outscore elite offenses",
+      "Pace disadvantage"
+    ],
+    "narrative": "Onyenso erases rim attacks but Momcilovic breaks packline in S16.",
+    "ourPick": "Sweet 16"
+  },
+  {
+    "team": "Wisconsin",
+    "seed": "5",
+    "region": "West",
+    "record": "27-7",
+    "kenpom": "Tournament team",
+    "coach": "Greg Gard",
+    "keyPlayers": [
+      {
+        "name": "Nick Boyd",
+        "position": "G",
+        "stats": "20.6 PPG",
+        "note": "Final Four vet (2023 FAU)."
+      },
+      {
+        "name": "John Blackwell",
+        "position": "G",
+        "stats": "18.3 PPG",
+        "note": "Backcourt partner."
+      }
+    ],
+    "strengths": [
+      "Beat Michigan, Illinois, MSU, Purdue on road",
+      "Boyd Final Four experience",
+      "3rd-fewest turnovers nationally",
+      "Fresh legs"
+    ],
+    "weaknesses": [
+      "62nd defense is vulnerability",
+      "Limited depth",
+      "Can't outscore elite offenses"
+    ],
+    "narrative": "Elite wins + fresh legs beat Arkansas in R32. Arizona balanced attack too much in S16.",
+    "ourPick": "Sweet 16"
+  },
+  {
+    "team": "Ohio State",
+    "seed": "8",
+    "region": "East",
+    "record": "",
+    "kenpom": "",
+    "coach": "",
+    "keyPlayers": [
+      {
+        "name": "Bruce Thornton",
+        "position": "G",
+        "stats": "22.5 PPG (last 10), 43% 3PT",
+        "note": "All-time leading scorer, shot-creation engine."
+      }
+    ],
+    "strengths": [
+      "Elite scoring guard with Thornton",
+      "8-1 ATS recently",
+      "High-volume 3PT shooter"
+    ],
+    "weaknesses": [
+      "#53 defense can't stop TCU's elite defense matchup",
+      "Pace-grinding limits transition",
+      "Guard-heavy without interior protection"
+    ],
+    "narrative": "Thornton's scoring prowess faces TCU's #22 defense in tight rock fight. Ohio State pulls it out as higher seed.",
+    "ourPick": "Round of 32"
+  },
+  {
+    "team": "TCU",
+    "seed": "9",
+    "region": "East",
+    "record": "",
+    "kenpom": "",
+    "coach": "",
+    "keyPlayers": [
+      {
+        "name": "Elite perimeter unit",
+        "position": "Guards",
+        "stats": "Teams shot 22% on high volume",
+        "note": "#22 KenPom defense."
+      }
+    ],
+    "strengths": [
+      "#22 KenPom defense",
+      "Pace-grinding strategy (65 possessions)",
+      "Elite ball security"
+    ],
+    "weaknesses": [
+      "Limited offensive firepower",
+      "No dominant scoring threat",
+      "Defensive-reliant team"
+    ],
+    "narrative": "Grinding defense and pace control compete against Thornton's elite scoring in 65-possession slugfest.",
+    "ourPick": "Early exit"
+  },
+  {
+    "team": "UCF",
+    "seed": "10",
+    "region": "East",
+    "record": "",
+    "kenpom": "",
+    "coach": "",
+    "keyPlayers": [
+      {
+        "name": "Themus Fulks",
+        "position": "G",
+        "stats": "14.1 PPG, 6.7 APG, 40.8% 3PT",
+        "note": "Creates 37.5% of UCF's scoring."
+      },
+      {
+        "name": "Jamichael Stillwell",
+        "position": "F",
+        "stats": "11.7/8.0, 3rd in Big 12 OREB",
+        "note": "Physical interior presence."
+      }
+    ],
+    "strengths": [
+      "Capitalizes on UCLA injuries (Bilodeau knee, Dent calf)",
+      "Big 12-tested defense",
+      "Physicality mismatch in paint",
+      "10-seed upset potential"
+    ],
+    "weaknesses": [
+      "Against healthy UCLA would be significant underdog",
+      "Limited offensive depth beyond Fulks",
+      "Mid-major defensive limitations"
+    ],
+    "narrative": "UCLA's injuries in Bilodeau and Dent create opening. Fulks and Stillwell's physicality overwhelm wounded Bruins.",
+    "ourPick": "Sweet 16"
+  },
+  {
+    "team": "South Florida",
+    "seed": "11",
+    "region": "East",
+    "record": "",
+    "kenpom": "",
+    "coach": "",
+    "keyPlayers": [
+      {
+        "name": "Izaiyah Nelson",
+        "position": "PF",
+        "stats": "15.8/9.8/1.6 SPG/1.3 BPG on 60% FG",
+        "note": "AAC triple-crown, 18 double-doubles, two-way dominance."
+      }
+    ],
+    "strengths": [
+      "11-game winning streak",
+      "AAC triple-crown player (Nelson)",
+      "High-pace game (15th-fastest)",
+      "Two-way presence with Nelson"
+    ],
+    "weaknesses": [
+      "Louisville favored for reason",
+      "Mid-conference strength of schedule",
+      "Elite size disadvantage vs Powers"
+    ],
+    "narrative": "11-game streak + Nelson's two-way excellence beat injured Louisville (Brown Jr. 4 games out). Sweet 16 run.",
+    "ourPick": "Sweet 16"
+  },
+  {
+    "team": "Northern Iowa",
+    "seed": "12",
+    "region": "East",
+    "record": "",
+    "kenpom": "",
+    "coach": "",
+    "keyPlayers": [
+      {
+        "name": "Elite defense",
+        "position": "Team",
+        "stats": "#24 KenPom defense, elite rim protection",
+        "note": "Defensive focused team."
+      }
+    ],
+    "strengths": [
+      "#24 KenPom defense (elite)",
+      "Rim protection and block rates",
+      "Defensive intensity"
+    ],
+    "weaknesses": [
+      "#153 offense is severely limited",
+      "363rd-slowest tempo doesn't suit tournament",
+      "Ejiofor defensive dominance",
+      "Can't generate offensive rebounds"
+    ],
+    "narrative": "Elite defense can't overcome Ejiofor dominance and 12.5% turnover rate on offense. Limited scoring.",
+    "ourPick": "Early exit"
+  },
+  {
+    "team": "Cal Baptist",
+    "seed": "13",
+    "region": "East",
+    "record": "",
+    "kenpom": "",
+    "coach": "",
+    "keyPlayers": [
+      {
+        "name": "Dominique Daniels",
+        "position": "F",
+        "stats": "WAC tournament hero",
+        "note": "Late-game heroics."
+      }
+    ],
+    "strengths": [
+      "WAC Tournament run",
+      "NCAA Tournament experience (rare)",
+      "Daniels clutch performances"
+    ],
+    "weaknesses": [
+      "Enormous athletic gap vs Kansas",
+      "Limited NBA talent",
+      "110-spot KenPom gap from Kansas",
+      "Self's 25-3 first-round record"
+    ],
+    "narrative": "WAC champions exceed their ceiling but Kansas depth and Self's tournament pedigree end Cinderella dreams.",
+    "ourPick": "Early exit"
+  },
+  {
+    "team": "Furman",
+    "seed": "15",
+    "region": "East",
+    "record": "",
+    "kenpom": "",
+    "coach": "",
+    "keyPlayers": [
+      {
+        "name": "Mid-major scorers",
+        "position": "Guards",
+        "stats": "Limited info from bracket",
+        "note": "Southern Conference champions."
+      }
+    ],
+    "strengths": [
+      "Southern Conference tournament momentum",
+      "Ready for tournament stage"
+    ],
+    "weaknesses": [
+      "#11 UConn defense chokes their offense",
+      "Mid-major skill gap",
+      "Lack of elite scorers",
+      "Tournament experience gap with Hurley"
+    ],
+    "narrative": "UConn's #11 defense and championship DNA prevent Furman's mid-major upset hopes.",
+    "ourPick": "Early exit"
+  },
+  {
+    "team": "Siena",
+    "seed": "16",
+    "region": "East",
+    "record": "",
+    "kenpom": "",
+    "coach": "",
+    "keyPlayers": [
+      {
+        "name": "Limited scorers",
+        "position": "Team",
+        "stats": "No 20+ PPG scorer",
+        "note": "Metro Atlantic athletic conference."
+      }
+    ],
+    "strengths": [
+      "MAAC Tournament champions",
+      "Tournament experience"
+    ],
+    "weaknesses": [
+      "Boozer historically transcendent (22.7/10.2/41% 3PT)",
+      "Duke #1 KenPom vs Siena mid-major",
+      "27.5-point spread indicates talent gap",
+      "No defensive answer to Boozer"
+    ],
+    "narrative": "Siena faces highest KenPom offensive rating in history. Boozer unstoppable in 30+ point win.",
+    "ourPick": "Early exit"
+  },
+  {
+    "team": "Villanova",
+    "seed": "8",
+    "region": "West",
+    "record": "",
+    "kenpom": "",
+    "coach": "",
+    "keyPlayers": [
+      {
+        "name": "Limited frontcourt",
+        "position": "F/C",
+        "stats": "Lost Matt Hodge (ACL)",
+        "note": "Only 2 rotation players over 6-6."
+      }
+    ],
+    "strengths": [
+      "Big East tournament experience",
+      "Offensive capability"
+    ],
+    "weaknesses": [
+      "Matt Hodge OUT (ACL, best interior)",
+      "Only 2 rotation players 6-6+",
+      "Outrebounded 46-25 vs George Washington",
+      "Rebounding disaster vs Utah State's size"
+    ],
+    "narrative": "Utah State's rebounding superiority and Falslev's versatility exploit Villanova's post-Hodge weakness.",
+    "ourPick": "Early exit"
+  },
+  {
+    "team": "Utah State",
+    "seed": "9",
+    "region": "West",
+    "record": "",
+    "kenpom": "",
+    "coach": "",
+    "keyPlayers": [
+      {
+        "name": "Mason Falslev",
+        "position": "PF",
+        "stats": "16.1 PPG, 5.8 RPG, 42% 3PT",
+        "note": "MWC POY with excellent ratings in 8 of 11 shot chart zones."
+      }
+    ],
+    "strengths": [
+      "Mason Falslev MWC POY with elite versatility",
+      "KenPom #32 (2 spots above Villanova)",
+      "Sharp money moved to Falslev (\u22121.5 to \u22122.5)",
+      "Excellent shot chart zones per Synergy"
+    ],
+    "weaknesses": [
+      "One-man team without backup scoring",
+      "Limited depth rotation",
+      "Can't sustain vs Arizona's 7-man attack"
+    ],
+    "narrative": "Falslev's elite versatility beats Villanova's post-Hodge rebounding crisis. Arizona's depth too much in R32.",
+    "ourPick": "Round of 32"
+  },
+  {
+    "team": "High Point",
+    "seed": "12",
+    "region": "West",
+    "record": "",
+    "kenpom": "",
+    "coach": "",
+    "keyPlayers": [
+      {
+        "name": "High Point guards",
+        "position": "G",
+        "stats": "90+ PPG team (5th nationally)",
+        "note": "14-game winning streak."
+      }
+    ],
+    "strengths": [
+      "14-game winning streak (Cinderella profile)",
+      "90+ PPG (5th nationally)",
+      "Force 5th-most turnovers in D-I",
+      "26.8 FTA/game (4th nationally)"
+    ],
+    "weaknesses": [
+      "Wisconsin 3rd-fewest turnovers nationally (8.9/game)",
+      "Ball security directly neutralizes HP's best weapon",
+      "Boyd and Blackwell beaten Michigan/Illinois/MSU",
+      "Limited defensive ability vs Wisconsin's efficient offense"
+    ],
+    "narrative": "High Point's turnover forcing meets Wisconsin's elite ball security. Wisconsin's recent road wins too much.",
+    "ourPick": "Early exit"
+  },
+  {
+    "team": "Hawaii",
+    "seed": "13",
+    "region": "West",
+    "record": "",
+    "kenpom": "",
+    "coach": "",
+    "keyPlayers": [
+      {
+        "name": "Limited major scorers",
+        "position": "Team",
+        "stats": "Mid-major WAC team",
+        "note": "Tournament first-timers."
+      }
+    ],
+    "strengths": [
+      "WAC Tournament champions",
+      "Can slow pace"
+    ],
+    "weaknesses": [
+      "Darius Acuff Jr. 22.7 PPG + 6.4 APG is unstoppable",
+      "First SEC player to lead both scoring/assists since Pete Maravich (1970)",
+      "Calipari 21-3 in first-round games",
+      "Arkansas #6 KenPom offense too explosive"
+    ],
+    "narrative": "Acuff Jr.'s freshman dominance too much for Hawaii's pace-grinding defense. Arkansas advances comfortably.",
+    "ourPick": "Early exit"
+  },
+  {
+    "team": "Queens",
+    "seed": "15",
+    "region": "West",
+    "record": "",
+    "kenpom": "",
+    "coach": "",
+    "keyPlayers": [
+      {
+        "name": "First-time team",
+        "position": "Team",
+        "stats": "AUS champions",
+        "note": "Historic for program."
+      }
+    ],
+    "strengths": [
+      "AUS Tournament champions",
+      "First NCAA Tournament bid"
+    ],
+    "weaknesses": [
+      "Braden Smith 14.9 PPG, 8.7 APG (one assist behind Hurley record)",
+      "Fletcher Loyer 42% 3PT elite shooter",
+      "KenPom #2 offense is historically precise",
+      "Purdue Big Ten Tournament momentum",
+      "25-point spread shows massive gap"
+    ],
+    "narrative": "Queens' historic tournament appearance ends against Purdue's historic offense precision.",
+    "ourPick": "Early exit"
+  },
+  {
+    "team": "LIU",
+    "seed": "16",
+    "region": "West",
+    "record": "",
+    "kenpom": "",
+    "coach": "",
+    "keyPlayers": [
+      {
+        "name": "Mid-major guards",
+        "position": "G",
+        "stats": "300+ KenPom team",
+        "note": "First Four winner."
+      }
+    ],
+    "strengths": [
+      "NEC Tournament champions",
+      "Tournament berth"
+    ],
+    "weaknesses": [
+      "300+ KenPom team vs Arizona's balanced attack",
+      "7 players averaging 8.7+ PPG each",
+      "Arizona beat Florida, UConn, Alabama, Houston, Kansas",
+      "Arizona #3 defense relentless",
+      "35-point spread indicates absolute gap"
+    ],
+    "narrative": "LIU's NEC championship means nothing vs Arizona's balanced elite team that beat 5 tournament teams.",
+    "ourPick": "Early exit"
+  },
+  {
+    "team": "NC State",
+    "seed": "11",
+    "region": "West",
+    "record": "",
+    "kenpom": "",
+    "coach": "",
+    "keyPlayers": [
+      {
+        "name": "Elite shooters",
+        "position": "G",
+        "stats": "38.8% 3PT (9th nationally)",
+        "note": "2024 Final Four DNA."
+      }
+    ],
+    "strengths": [
+      "2024 Final Four DNA and momentum",
+      "38.8% 3PT shooting (9th nationally)",
+      "Track meet ability",
+      "ACC Tournament momentum"
+    ],
+    "weaknesses": [
+      "Dybantsa 25.3 PPG with 93 pts in 3 Big 12 games",
+      "Projected #1 pick ceiling unmatched",
+      "BYU's historic individual scoring output in conference tournament",
+      "High-scoring shootout favors Dybantsa ceiling"
+    ],
+    "narrative": "NC State's solid shooting profile meets Dybantsa's historic scoring. Dybantsa wins high-scoring slugfest.",
+    "ourPick": "Early exit"
+  },
+  {
+    "team": "Arkansas",
+    "seed": "4",
+    "region": "West",
+    "record": "",
+    "kenpom": "",
+    "coach": "",
+    "keyPlayers": [
+      {
+        "name": "Darius Acuff Jr.",
+        "position": "SF",
+        "stats": "22.7 PPG, 6.4 APG, 44% 3PT",
+        "note": "Best freshman since Trae Young, first SEC leader in both scoring/assists since Maravich (1970)."
+      },
+      {
+        "name": "Secondary scorers",
+        "position": "F",
+        "stats": "Multiple 15+ PPG contributors",
+        "note": "SEC Tournament support."
+      }
+    ],
+    "strengths": [
+      "Acuff Jr. historically elite freshman (22.7/6.4/44%)",
+      "First SEC dual-leader since Maravich",
+      "30/11 in SEC title game demonstrates crunch ability",
+      "#6 KenPom offense",
+      "4 games of 100+ points this season"
+    ],
+    "weaknesses": [
+      "Wisconsin's elite road wins (Michigan, Illinois, MSU, Purdue)",
+      "Ball security (3rd-fewest turnovers) denies Acuff transition points",
+      "Wisconsin covers spread even if Acuff scores 35"
+    ],
+    "narrative": "Acuff's historic freshman ceiling beats Hawaii's Cinderella in R64. Wisconsin's road pedigree ends Arkansas in R32.",
+    "ourPick": "Round of 32"
+  },
+  {
+    "team": "Missouri",
+    "seed": "10",
+    "region": "West",
+    "record": "",
+    "kenpom": "",
+    "coach": "",
+    "keyPlayers": [
+      {
+        "name": "Mark Mitchell",
+        "position": "F",
+        "stats": "18.3 PPG, 55.1% FG",
+        "note": "Elite shot-creator, matches anyone."
+      }
+    ],
+    "strengths": [
+      "Home court advantage (St. Louis, 2 hours from Columbia)",
+      "5-9 on road but this is effectively home",
+      "Mark Mitchell elite shot-creator",
+      "BPI only gives Miami 1.3-point edge",
+      "True coin flip tilting Mizzou's way"
+    ],
+    "weaknesses": [
+      "Miami's Malik Reneau 18.8 PPG is comparable scorer",
+      "Limited depth vs Miami's ACC pedigree",
+      "Loses to Purdue's #2 offense in R32"
+    ],
+    "narrative": "Home court + Mitchell's shot-creation beat Miami's ACC edge. Purdue's offensive precision too much in R32.",
+    "ourPick": "Round of 32"
+  },
+  {
+    "team": "Louisville",
+    "seed": "6",
+    "region": "East",
+    "record": "",
+    "kenpom": "",
+    "coach": "",
+    "keyPlayers": [
+      {
+        "name": "Mikel Brown Jr.",
+        "position": "G",
+        "stats": "Returns from back injury but not 100%",
+        "note": "Missed 4 straight games."
+      }
+    ],
+    "strengths": [
+      "ACC pedigree",
+      "Higher seed status"
+    ],
+    "weaknesses": [
+      "Mikel Brown Jr. (back) missed 4 games before tournament",
+      "7-5 without him during season",
+      "Izaiyah Nelson's 60% FG + 18 double-doubles devastating",
+      "USF's 11-game streak too hot"
+    ],
+    "narrative": "Brown Jr.'s injury recovery meets Nelson's dominant two-way play. USF upsets Louisville.",
+    "ourPick": "Sweet 16"
+  },
+  {
+    "team": "UCLA",
+    "seed": "7",
+    "region": "East",
+    "record": "",
+    "kenpom": "",
+    "coach": "",
+    "keyPlayers": [
+      {
+        "name": "Tyler Bilodeau",
+        "position": "G",
+        "stats": "17.6 PPG (team-best), strained right knee",
+        "note": "Injured in Big Ten Tournament."
+      },
+      {
+        "name": "Donovan Dent",
+        "position": "G",
+        "stats": "Strained calf from Big Ten Tournament",
+        "note": "Secondary scorer injured."
+      }
+    ],
+    "strengths": [
+      "Bilodeau when healthy is leading scorer",
+      "Big Ten tournament experience"
+    ],
+    "weaknesses": [
+      "Bilodeau strained right knee from BTT",
+      "Dent strained calf from BTT",
+      "Even 15-20% limitations matter vs UCF",
+      "Fulks and Stillwell exploit weakened perimeter",
+      "Injuries compound at critical moment"
+    ],
+    "narrative": "UCLA's twin injuries (Bilodeau knee, Dent calf) from Big Ten Tournament give UCF opening. Fulks' shot-creation too much.",
+    "ourPick": "Early exit"
+  },
+  {
+    "team": "Miami FL",
+    "seed": "7",
+    "region": "West",
+    "record": "",
+    "kenpom": "",
+    "coach": "",
+    "keyPlayers": [
+      {
+        "name": "Malik Reneau",
+        "position": "F",
+        "stats": "18.8 PPG",
+        "note": "Leading scorer."
+      }
+    ],
+    "strengths": [
+      "Malik Reneau 18.8 PPG",
+      "ACC pedigree",
+      "Tournament experience"
+    ],
+    "weaknesses": [
+      "Mark Mitchell 18.3 PPG, 55.1% FG is elite shot-creator",
+      "Missouri's home court (St. Louis, 2 hours from Columbia)",
+      "BPI only gives Miami 1.3-point edge",
+      "Virtual coin flip"
+    ],
+    "narrative": "Miami's ACC experience vs Mizzou's home-court advantage. Missouri's location tilts coin flip their way.",
+    "ourPick": "Early exit"
+  },
+  {
+    "team": "Saint Louis",
+    "seed": "9",
+    "region": "Midwest",
+    "record": "",
+    "kenpom": "",
+    "coach": "",
+    "keyPlayers": [
+      {
+        "name": "Robbie Avila",
+        "position": "C",
+        "stats": "6-10, 40.1% 3PT (143 attempts)",
+        "note": "Cream Abdul-Jabbar mashup."
+      },
+      {
+        "name": "Multiple scorers",
+        "position": "Team",
+        "stats": "Deep A-10 squad",
+        "note": "Tournament comeback DNA."
+      }
+    ],
+    "strengths": [
+      "Started 24-1 and reached #18 AP",
+      "Avila 40.1% 3PT from deep as 6-10 center (rare matchup nightmare)",
+      "A-10 tournament comeback (21 points down vs GWU)",
+      "Only 8 KenPom spots behind Georgia (SLU 46th vs Georgia 38th)",
+      "Gavalyugov 42 pts/17 ast WCC tourney hot hand"
+    ],
+    "weaknesses": [
+      "Massive late-season offensive efficiency drop",
+      "170.5 total only 5 games exceeded 170 since 1998",
+      "Georgia's defense despite offensive struggles",
+      "Michigan's size dominance in S16"
+    ],
+    "narrative": "Avila's stretch-big style upsets Georgia in defensive low-scoring affair. Michigan's frontcourt too much in R32.",
+    "ourPick": "Round of 32"
+  },
+  {
+    "team": "SMU",
+    "seed": "11",
+    "region": "Midwest",
+    "record": "",
+    "kenpom": "",
+    "coach": "",
+    "keyPlayers": [
+      {
+        "name": "Boopie Miller",
+        "position": "G",
+        "stats": "19.2 PPG, 41.9% 3PT, 6.4 APG",
+        "note": "AAC playmaker."
+      }
+    ],
+    "strengths": [
+      "AAC pedigree and tournament experience",
+      "Boopie Miller scoring and 3PT ability",
+      "Physicality on court"
+    ],
+    "weaknesses": [
+      "Tennessee #1 OREB team dominates glass",
+      "Nate Ament when healthy (#1 rebounding team)",
+      "Limited depth vs Tennessee's SEC strength",
+      "Loses in R32 despite Miller's efforts"
+    ],
+    "narrative": "Miller's AAC excellence matches Tennessee's physicality but glass dominance wins. Virginia's Onyenso too much in S16.",
+    "ourPick": "Early exit"
+  },
+  {
+    "team": "Texas Tech",
+    "seed": "5",
+    "region": "Midwest",
+    "record": "",
+    "kenpom": "",
+    "coach": "",
+    "keyPlayers": [
+      {
+        "name": "JT Toppin",
+        "position": "C",
+        "stats": "21.8/10.8/1.7 BPG, ACL tear Feb 17",
+        "note": "BEST UPSET CANDIDATE."
+      },
+      {
+        "name": "Christian Anderson",
+        "position": "G",
+        "stats": "18.9 PPG, 7.6 APG, 42% 3PT",
+        "note": "Now one-man show."
+      }
+    ],
+    "strengths": [
+      "Christian Anderson elite shot-creator"
+    ],
+    "weaknesses": [
+      "Toppin ACL tear Feb 17 is catastrophic loss",
+      "Since injury: 3-3 record, defense 31st\u219287th",
+      "Turnover rate jumped to 333rd (worst)",
+      "Blown out 75-53 vs ISU in Big 12 Tournament",
+      "Anderson one-dimensional without rim protection",
+      "Akron's 10-game streak + 37%+ three shooters exploit"
+    ],
+    "narrative": "Toppin injury destroys Texas Tech's defensive foundation. Anderson one-man show can't survive Akron's three-point shootout.",
+    "ourPick": "Early exit"
+  },
+  {
+    "team": "Kentucky",
+    "seed": "7",
+    "region": "Midwest",
+    "record": "",
+    "kenpom": "",
+    "coach": "",
+    "keyPlayers": [
+      {
+        "name": "Limited backcourt",
+        "position": "G",
+        "stats": "Lacks true PG",
+        "note": "Offensive limitation."
+      },
+      {
+        "name": "Jayden Quaintance",
+        "position": "F",
+        "stats": "Knee injury, 4 games all season",
+        "note": "Limited availability."
+      }
+    ],
+    "strengths": [
+      "Mark Pope tournament history"
+    ],
+    "weaknesses": [
+      "Lost 5 of 7 to close season",
+      "Lacks true point guard",
+      "Quaintance knee injuries (4 games all year)",
+      "Santa Clara's Gavalyugov hot (42 pts/17 ast WCC tourney)",
+      "Only 7 KenPom spots from Santa Clara (28th vs 35th)",
+      "Pop 5-0 to UNDER in tournament games"
+    ],
+    "narrative": "Kentucky's late-season collapse and injuries give Santa Clara upset edge. Santa Clara eventually loses to Iowa State.",
+    "ourPick": "Early exit"
+  },
+  {
+    "team": "Georgia",
+    "seed": "8",
+    "region": "Midwest",
+    "record": "",
+    "kenpom": "",
+    "coach": "",
+    "keyPlayers": [
+      {
+        "name": "Mid-major defense",
+        "position": "Team",
+        "stats": "Defensive intensity",
+        "note": "Can grind pace."
+      }
+    ],
+    "strengths": [
+      "Defensive orientation",
+      "Can slow pace"
+    ],
+    "weaknesses": [
+      "170.5 total is HIGHEST in bracket (only 5 games exceeded 170 since 1998)",
+      "Robbie Avila 6-10 shooting 40% 3PT pulls Somto Cyril out of paint",
+      "Saint Louis A-10 tournament comeback (down 21 at halftime vs GWU)",
+      "Only 8 KenPom spots from SLU, SLU ranked #18 AP early"
+    ],
+    "narrative": "SLU's Avila matchup nightmare and A-10 resilience upset Georgia's defensive grind in historical high-scoring affair.",
+    "ourPick": "Early exit"
+  },
+  {
+    "team": "Wright State",
+    "seed": "14",
+    "region": "Midwest",
+    "record": "",
+    "kenpom": "",
+    "coach": "",
+    "keyPlayers": [
+      {
+        "name": "Paint-focused offense",
+        "position": "Team",
+        "stats": "Limited range",
+        "note": "Mid-major limitations."
+      }
+    ],
+    "strengths": [
+      "Patriot League experience"
+    ],
+    "weaknesses": [
+      "Virginia's Ugonna Onyenso 7-0 with 2.97 BPG (2nd nationally)",
+      "Onyenso broke Tim Duncan's ACC Tournament record (21 blocks in 3 games)",
+      "Virginia #1 in blocks (6.7/game)",
+      "Paint-focused offense runs into elite shot-blocking",
+      "Virginia 46.8% 3PA rate creates spacing"
+    ],
+    "narrative": "Onyenso's historic shot-blocking makes Wright State's paint offense a non-factor. Virginia dominates.",
+    "ourPick": "Early exit"
+  },
+  {
+    "team": "UMBC",
+    "seed": "16",
+    "region": "Midwest",
+    "record": "",
+    "kenpom": "",
+    "coach": "",
+    "keyPlayers": [
+      {
+        "name": "Tournament tested",
+        "position": "Team",
+        "stats": "America East champions",
+        "note": "24-8 record."
+      }
+    ],
+    "strengths": [
+      "America East Tournament champions",
+      "24-8 record shows consistency",
+      "Famous for 2018 Virginia 16-1 upset"
+    ],
+    "weaknesses": [
+      "Michigan #1 defense AND top-8 offense combo",
+      "Mara (7-3), Lendeborg (6-9), Johnson (6-9) form tallest frontcourt in America",
+      "Lost twice all year by combined 8 points only",
+      "No offensive answer to size advantage"
+    ],
+    "narrative": "UMBC's America East pedigree means nothing vs Michigan's elite defense and historic frontcourt size.",
+    "ourPick": "Early exit"
+  },
+  {
+    "team": "Lehigh",
+    "seed": "16",
+    "region": "South",
+    "record": "",
+    "kenpom": "",
+    "coach": "",
+    "keyPlayers": [
+      {
+        "name": "Patriot League defense",
+        "position": "Team",
+        "stats": "Defensive specialists",
+        "note": "Conference tournament champs."
+      }
+    ],
+    "strengths": [
+      "Patriot League Tournament champs",
+      "Better KenPom metrics than PV A&M"
+    ],
+    "weaknesses": [
+      "Florida defending champs with 5 double-figure scorers",
+      "Chinyelu elite rebounding and defense (DPOY candidate)",
+      "Haugh SEC POY candidate at 17.2 PPG",
+      "No offensive answer to Gators' depth"
+    ],
+    "narrative": "Lehigh's Patriot League success means nothing vs defending champs' depth and experience.",
+    "ourPick": "Early exit"
+  },
+  {
+    "team": "Clemson",
+    "seed": "8",
+    "region": "South",
+    "record": "",
+    "kenpom": "",
+    "coach": "",
+    "keyPlayers": [
+      {
+        "name": "Bennett Stirtz",
+        "position": "G",
+        "stats": "20.2 PPG, 50% FG, 38% 3PT",
+        "note": "Wooden Award candidate, Drake transfer."
+      },
+      {
+        "name": "Interior defense",
+        "position": "C",
+        "stats": "Carter Welling OUT (ACL)",
+        "note": "Lost best interior player."
+      }
+    ],
+    "strengths": [
+      "Stirtz elite scoring (50% FG, 38% 3PT, Wooden candidate)",
+      "Tournament experience"
+    ],
+    "weaknesses": [
+      "Carter Welling ACL tear in ACC Tournament (best interior)",
+      "Iowa 11 KenPom spots above (25th vs 36th)",
+      "130.5 total is LOWEST in R64 (66-64 rock fight)",
+      "Stirtz can score 25 but Iowa's efficiency wins low-possession affair"
+    ],
+    "narrative": "Welling's injury cripples Clemson's interior. Stirtz scores but Iowa's superior efficiency wins grind.",
+    "ourPick": "Early exit"
+  },
+  {
+    "team": "Iowa",
+    "seed": "9",
+    "region": "South",
+    "record": "",
+    "kenpom": "",
+    "coach": "",
+    "keyPlayers": [
+      {
+        "name": "Bennett Stirtz",
+        "position": "G",
+        "stats": "20.2 PPG, 50% FG, 38% 3PT",
+        "note": "Wooden Award candidate, Drake transfer."
+      }
+    ],
+    "strengths": [
+      "ONLY lower seed favored in entire bracket",
+      "11 KenPom spots above Clemson (25th vs 36th)",
+      "Stirtz elite efficiency and shooting",
+      "Low-possession affairs suit Iowa's superior efficiency"
+    ],
+    "weaknesses": [
+      "Iowa KenPom #25 (not elite)",
+      "Limited scoring depth beyond Stirtz",
+      "Loses to Florida's frontcourt depth in S16"
+    ],
+    "narrative": "Stirtz's elite efficiency beats Clemson's wounded interior. Florida's championship experience dominates in S16.",
+    "ourPick": "Round of 32"
+  },
+  {
+    "team": "Texas A&M",
+    "seed": "10",
+    "region": "South",
+    "record": "",
+    "kenpom": "",
+    "coach": "",
+    "keyPlayers": [
+      {
+        "name": "Multiple scorers",
+        "position": "Team",
+        "stats": "6 double-figure scorers, 87.7 PPG",
+        "note": "Fast-paced offense."
+      },
+      {
+        "name": "Elite 3PT shooters",
+        "position": "Guards",
+        "stats": "4 guys at 39.6%+ from deep",
+        "note": "Full-court press and transition."
+      }
+    ],
+    "strengths": [
+      "87.7 PPG (#9 nationally), 6 double-figure scorers",
+      "Full-court press and transition (29th tempo)",
+      "4 shooters at 39.6%+ from deep",
+      "Style nightmare for Saint Mary's grind-it-out pace",
+      "CBS SportsLine explicitly picks this upset"
+    ],
+    "weaknesses": [
+      "Saint Mary's defensive specialists",
+      "Lost to Houston's elite defense in S16",
+      "Can't sustain vs defenses that slow pace"
+    ],
+    "narrative": "A&M's transition game and shooters overwhelm Saint Mary's slow tempo. Houston's defense stifles A&M in S16.",
+    "ourPick": "Sweet 16"
+  },
+  {
+    "team": "McNeese",
+    "seed": "12",
+    "region": "South",
+    "record": "",
+    "kenpom": "",
+    "coach": "",
+    "keyPlayers": [
+      {
+        "name": "Full-court pressure",
+        "position": "Team",
+        "stats": "10.5 SPG (2nd nationally)",
+        "note": "Defensive pressure DNA."
+      }
+    ],
+    "strengths": [
+      "Full-court pressure (10.5 SPG, 2nd nationally)",
+      "SouthLand Conference tournament run"
+    ],
+    "weaknesses": [
+      "3PT shooting regressed to near-300th",
+      "Tanner and Miles' ball-handling eats pressure alive",
+      "Tanner 2.4 SPG creates transition for Vandy",
+      "Limited offensive capability vs elite guards"
+    ],
+    "narrative": "Vanderbilt's elite guards (Tanner/Miles) break through McNeese's pressure. Vandy advances with glass dominance.",
+    "ourPick": "Early exit"
+  },
+  {
+    "team": "Troy",
+    "seed": "13",
+    "region": "South",
+    "record": "",
+    "kenpom": "",
+    "coach": "",
+    "keyPlayers": [
+      {
+        "name": "Thomas Dowd",
+        "position": "F",
+        "stats": "14.8 PPG, 10.1 RPG",
+        "note": "Rebounder who can crash glass."
+      }
+    ],
+    "strengths": [
+      "Dowd rebounding (10.1 RPG)",
+      "Sun Belt tournament run"
+    ],
+    "weaknesses": [
+      "70-spot KenPom gap from Nebraska (Nebraska #27, Troy #97)",
+      "Nebraska's elite defense (KenPom #7)",
+      "Nebraska's defensive floor ensures tournament win",
+      "Seeks first EVER tournament win (0-8 all-time)",
+      "Sandfort 17.9 PPG/40% 3PT too much"
+    ],
+    "narrative": "Troy's Dowd exploits Nebraska rebounding weakness but elite defense ensures Nebraska's historic first tournament win.",
+    "ourPick": "Early exit"
+  },
+  {
+    "team": "Penn",
+    "seed": "14",
+    "region": "South",
+    "record": "",
+    "kenpom": "",
+    "coach": "",
+    "keyPlayers": [
+      {
+        "name": "Ethan Roberts",
+        "position": "G",
+        "stats": "Top scorer, likely OUT with concussion",
+        "note": "Major injury before tournament."
+      }
+    ],
+    "strengths": [
+      "TJ Power legendary 44-point Ivy final",
+      "Ivy League champions"
+    ],
+    "weaknesses": [
+      "Ethan Roberts (top scorer) likely OUT with concussion",
+      "Without Roberts, Penn one-dimensional",
+      "Illinois #1 offense in KenPom HISTORY (131.3 per 100 possessions)",
+      "Keaton Wagler 17.9/40.2% 3PT projected top-10 pick",
+      "Action Network: big favorites at low totals 38-25-1 to OVER"
+    ],
+    "narrative": "Roberts' concussion removes Penn's offensive threat. Illinois' historic offense generates OVER vs depleted Quakers.",
+    "ourPick": "Early exit"
+  },
+  {
+    "team": "Saint Mary's",
+    "seed": "7",
+    "region": "South",
+    "record": "",
+    "kenpom": "",
+    "coach": "",
+    "keyPlayers": [
+      {
+        "name": "Marcus Santos-Silva",
+        "position": "F",
+        "stats": "Mid-major scorer",
+        "note": "WCC anchor."
+      }
+    ],
+    "strengths": [
+      "WCC Tournament momentum",
+      "Grind-it-out defensive pace",
+      "297th-slowest tempo matches style"
+    ],
+    "weaknesses": [
+      "Texas A&M 87.7 PPG (#9 nationally) with 6 double-figure scorers",
+      "Full-court press + transition forces pace",
+      "4 shooters at 39.6%+ from three",
+      "Style nightmare with pace forced upward"
+    ],
+    "narrative": "Texas A&M's transition game and six scorers overwhelm Saint Mary's slow-tempo, grind-it-out approach.",
+    "ourPick": "Early exit"
+  },
+  {
+    "team": "UNC",
+    "seed": "6",
+    "region": "South",
+    "record": "",
+    "kenpom": "",
+    "coach": "",
+    "keyPlayers": [
+      {
+        "name": "Caleb Wilson",
+        "position": "F",
+        "stats": "19.8/9.4/2.7 on 57.8% FG, OUT (thumb surgery)",
+        "note": "Major loss heading into tournament."
+      }
+    ],
+    "strengths": [
+      "When Wilson healthy: 19.8 PPG on elite efficiency",
+      "ACC Tournament experience"
+    ],
+    "weaknesses": [
+      "Caleb Wilson OUT (thumb surgery) removes 19.8/9.4",
+      "Dropped from 21st to 32nd overall without Wilson",
+      "Only 1 road win without Wilson in ACC",
+      "VCU's 16-1 streak since Jan 10 is unstoppable",
+      "Elite perimeter D with Jennings (57 steals)",
+      "Near-consensus upset pick by CBS, NBC, BettingPros"
+    ],
+    "narrative": "Wilson's absence (thumb surgery) cripples UNC's offensive efficiency. VCU's elite perimeter defense seals upset.",
+    "ourPick": "Early exit"
+  },
+  {
+    "team": "Idaho",
+    "seed": "15",
+    "region": "South",
+    "record": "",
+    "kenpom": "",
+    "coach": "",
+    "keyPlayers": [
+      {
+        "name": "Mid-major scorers",
+        "position": "Guards",
+        "stats": "First tournament since 1990",
+        "note": "21-14 record."
+      }
+    ],
+    "strengths": [
+      "First NCAA Tournament since 1990",
+      "Historic program moment"
+    ],
+    "weaknesses": [
+      "Houston's elite defense (top-5 KenPom)",
+      "Allows only 62.9 PPG",
+      "Kingston Flemings 16.5 PPG, 38% 3PT (lottery pick)",
+      "Sampson's defensive machine",
+      "Sweet 16 in Houston (home court advantage)",
+      "21-point spread shows talent gap"
+    ],
+    "narrative": "Idaho's first tournament in 34 years ends vs Houston's elite defense coached by legendary Sampson.",
+    "ourPick": "Early exit"
+  },
+  {
+    "team": "Hofstra",
+    "seed": "13",
+    "region": "Midwest",
+    "record": "",
+    "kenpom": "",
+    "coach": "",
+    "keyPlayers": [
+      {
+        "name": "Limited stars",
+        "position": "Team",
+        "stats": "CAA champions",
+        "note": "Mid-major tournament run."
+      }
+    ],
+    "strengths": [
+      "CAA Tournament champions"
+    ],
+    "weaknesses": [
+      "Holloway's arrest removes Alabama's 16.8 PPG and best 3PT shooter",
+      "But Akron's three senior guards (Johnson 20.1 PPG, Scott, Hardman all 37%+) pick apart weakened Bama",
+      "Philon (21.7 PPG) is now one-man show",
+      "Limited offensive depth without Holloway to create",
+      "Akron 29-5 with 10-game winning streak"
+    ],
+    "narrative": "Hofstra's CAA credentials mean nothing vs Alabama, which gets upset anyway by Akron's three-guard shooting.",
+    "ourPick": "Early exit"
+  },
+  {
+    "team": "Kennesaw St",
+    "seed": "14",
+    "region": "West",
+    "record": "",
+    "kenpom": "",
+    "coach": "",
+    "keyPlayers": [
+      {
+        "name": "Simeon Cottle",
+        "position": "G",
+        "stats": "20.2 PPG",
+        "note": "Leading scorer."
+      }
+    ],
+    "strengths": [
+      "Cottle 20.2 PPG hot hand",
+      "Mid-major tournament run"
+    ],
+    "weaknesses": [
+      "Graham Ike 19.7 PPG, 69% inside arc with 2,500+ career points",
+      "Ike interior dominance too much",
+      "91-spot KenPom gap (Gonzaga #42 vs Kennesaw St #133)",
+      "23 straight NCAA Tournament bids for Gonzaga",
+      "Without Braden Huff, Ike still unstoppable inside"
+    ],
+    "narrative": "Cottle's hot hand meets Ike's interior dominance. Gonzaga tournament experience wins comfortable game.",
+    "ourPick": "Early exit"
+  },
+  {
+    "team": "Alabama",
+    "seed": "4",
+    "region": "Midwest",
+    "record": "",
+    "kenpom": "",
+    "coach": "",
+    "keyPlayers": [
+      {
+        "name": "Philon",
+        "position": "G",
+        "stats": "21.7 PPG",
+        "note": "Now only consistent scorer."
+      },
+      {
+        "name": "Holloway",
+        "position": "G",
+        "stats": "ARRESTED/REMOVED",
+        "note": "16.8 PPG + 43.8% 3PT gone."
+      }
+    ],
+    "strengths": [
+      "Higher seed, Philon elite scoring"
+    ],
+    "weaknesses": [
+      "Holloway arrested Feb (felony marijuana, 2.1 lbs), removed from team",
+      "Loses 16.8 PPG + best 3PT shooter (43.8%)",
+      "Spread dropped -14.5\u2192-11.5, championship odds nearly doubled",
+      "Philon one-man show with no backcourt support",
+      "Wrightsell 0-5 in 23 min vs Ole Miss, Allen 7% last 4 games",
+      "Akron three senior guards all 37%+ from deep exploit"
+    ],
+    "narrative": "Holloway's arrest removes Alabama's best shooter. Akron's three senior guards (Johnson 20.1 PPG, Scott, Hardman) beat one-man Bama team.",
+    "ourPick": "Early exit"
+  },
+  {
+    "team": "Vanderbilt",
+    "seed": "5",
+    "region": "South",
+    "record": "",
+    "kenpom": "",
+    "coach": "",
+    "keyPlayers": [
+      {
+        "name": "Tyler Tanner",
+        "position": "G",
+        "stats": "19.2 PPG, 37.3% 3PT, 2.4 SPG",
+        "note": "First-Team All-SEC, projected first-round pick."
+      },
+      {
+        "name": "Duke Miles",
+        "position": "G",
+        "stats": "15.9 PPG, 4.2 APG",
+        "note": "Back from January knee injury."
+      }
+    ],
+    "strengths": [
+      "Massively underseeded as 5-seed: KenPom #11",
+      "Tanner 19.2 PPG/37.3% 3PT/2.4 SPG (future millionaire)",
+      "Miles' return from January knee injury",
+      "Tanner's 2.4 SPG creates transition points",
+      "Backcourt superior to Nebraska's defense",
+      "Elite rebounding (#1 OREB team)"
+    ],
+    "weaknesses": [
+      "Nebraska's elite defense (KenPom #7)",
+      "Limited perimeter shooting depth",
+      "McNeese's full-court pressure (10.5 SPG, 2nd nationally)",
+      "Interior vulnerable to size"
+    ],
+    "narrative": "Tanner/Miles backcourt beats McNeese's pressure. Nebraska's rebounding weakness exploited despite elite defense.",
+    "ourPick": "Round of 32"
+  },
+  {
+    "team": "Miami OH",
+    "seed": "11",
+    "region": "Midwest",
+    "record": "",
+    "kenpom": "",
+    "coach": "",
+    "keyPlayers": [
+      {
+        "name": "Perfect record",
+        "position": "Team",
+        "stats": "31-1 record",
+        "note": "MAC dominance."
+      }
+    ],
+    "strengths": [
+      "31-1 record (perfect season until MAC Tournament?)",
+      "High-quality MAC run"
+    ],
+    "weaknesses": [
+      "SOS ranks 339th (!!!) \u2014 worst in tournament field",
+      "Compared to 31-1 with terrible schedule",
+      "Boopie Miller 19.2 PPG with 41.9% 3PT on SMU is real threat",
+      "SMU's AAC pedigree > Miami OH's schedule",
+      "Market spread 7.5 shows contempt for Miami OH's resume"
+    ],
+    "narrative": "Miami OH's 31-1 is illusion due to #339 SOS. SMU's AAC physicality overwhelms in first-four game.",
+    "ourPick": "Early exit"
+  },
+  {
+    "team": "Howard",
+    "seed": "16",
+    "region": "Midwest",
+    "record": "",
+    "kenpom": "",
+    "coach": "",
+    "keyPlayers": [
+      {
+        "name": "Limited stars",
+        "position": "Team",
+        "stats": "MEAC play inconsistent",
+        "note": "Mid-major program."
+      }
+    ],
+    "strengths": [
+      "MEAC tournament experience"
+    ],
+    "weaknesses": [
+      "Inconsistent MEAC play vs elite competition",
+      "UMBC's 24-8 America East title and tournament win more impressive",
+      "Michigan #1 defense is absolute wall",
+      "No offensive answer to Lendeborg/Johnson/Mara frontcourt"
+    ],
+    "narrative": "Howard's MEAC inconsistency vs UMBC's America East strength. Either way, Michigan's size dominates.",
+    "ourPick": "Early exit"
+  },
+  {
+    "team": "Texas",
+    "seed": "11",
+    "region": "West",
+    "record": "",
+    "kenpom": "",
+    "coach": "",
+    "keyPlayers": [
+      {
+        "name": "Transfer portal guards",
+        "position": "G",
+        "stats": "9-9 SEC play",
+        "note": "Mixed results."
+      }
+    ],
+    "strengths": [
+      "Can score in bunches"
+    ],
+    "weaknesses": [
+      "Went 9-9 in SEC play (mediocre)",
+      "NC State 2024 Final Four DNA and momentum",
+      "38.8% 3PT shooting (9th nationally)",
+      "Virtual coin flip with NC State getting edge",
+      "NC State's track meet ability with shooting"
+    ],
+    "narrative": "Texas's middling SEC resume loses First Four to NC State's 2024 Final Four momentum and shooting.",
+    "ourPick": "Early exit"
+  },
+  {
+    "team": "Prairie View A&M",
+    "seed": "16",
+    "region": "South",
+    "record": "",
+    "kenpom": "",
+    "coach": "",
+    "keyPlayers": [
+      {
+        "name": "Limited scorers",
+        "position": "Team",
+        "stats": "MEAC tournament team",
+        "note": "Historic HBCU."
+      }
+    ],
+    "strengths": [
+      "MEAC tournament champions"
+    ],
+    "weaknesses": [
+      "Lehigh better KenPom metrics",
+      "Florida defending champs with championship experience",
+      "No path vs elite defensive team"
+    ],
+    "narrative": "PV A&M's MEAC run ends quickly vs defending national champions. Lehigh feeds into Florida.",
+    "ourPick": "Early exit"
   }
 ]

@@ -9,7 +9,7 @@
     "ouLean": "UNDER",
     "confidence": "Low",
     "upset": false,
-    "reasoning": "UMBC Am East champ. Feeds into Michigan bracket. Minor first four game."
+    "reasoning": "UMBC's America East title and 24-8 record give them the edge. Howard's MEAC play was inconsistent. This feeds into Michigan \u2014 a footnote game."
   },
   {
     "round": "First Four",
@@ -21,7 +21,7 @@
     "ouLean": "OVER",
     "confidence": "Low",
     "upset": false,
-    "reasoning": "Coin flip. NC State 38.8% 3PT (9th natl), 2024 Final Four DNA. Will face BYU after brutal cross-country travel from Dayton (2100 mi, 2-day red-eye rest)."
+    "reasoning": "Virtual coin flip. NC State has 2024 Final Four DNA and ACC Tournament momentum. Texas went 9-9 in SEC play. NC State's 38.8% three-point shooting (9th nationally) gives them a slight edge in a track meet."
   },
   {
     "round": "First Four",
@@ -33,7 +33,7 @@
     "ouLean": "UNDER",
     "confidence": "Low",
     "upset": false,
-    "reasoning": "Lehigh Patriot champ, better KenPom. Feeds into Florida (1-seed) region."
+    "reasoning": "Lehigh is the Patriot League champ with better KenPom metrics. Feeds into Florida \u2014 another footnote."
   },
   {
     "round": "First Four",
@@ -45,7 +45,7 @@
     "ouLean": "UNDER",
     "confidence": "Med",
     "upset": false,
-    "reasoning": "Miami OH 339th SOS despite 31-1 record — paper schedule. SMU battle-tested. Boopie Miller 19.2/6.4/41.9% 3PT. SMU by 8-9."
+    "reasoning": "Despite Miami OH's 31-1 record, their strength of schedule ranks 339th (!). SMU has AAC pedigree and Boopie Miller (19.2 PPG, 41.9% 3PT). The 7.5-point spread tells you what the market thinks of Miami OH's resume. SMU's physicality overwhelms."
   },
   {
     "round": "R64",
@@ -57,7 +57,7 @@
     "ouLean": "OVER",
     "confidence": "Lock",
     "upset": false,
-    "reasoning": "Cameron Boozer (22.7/10.2/41% 3PT, NPOY, highest KenPom O rating in history) is historically great. Duke KenPom #1. Siena A-team dumpster fire. Duke by 30+."
+    "reasoning": "Cameron Boozer (22.7/10.2/41% 3PT) \u2014 highest KenPom offensive rating in history. Duke KenPom #1. Even without Caleb Foster (OUT, foot) and Ngongba (questionable), the talent gap is obscene. Siena has zero path. Duke by 30+."
   },
   {
     "round": "R64",
@@ -69,7 +69,7 @@
     "ouLean": "UNDER",
     "confidence": "Low",
     "upset": false,
-    "reasoning": "Thornton 22.5 PPG last 10 games, 43% 3PT. TCU grinds pace to glacial speed. Sharp money moved line toward TCU but KenPom favors OSU by 5. Too close to call; ride chalk."
+    "reasoning": "Bruce Thornton (22.5 PPG last 10 games, 43% 3PT, all-time leading scorer) vs TCU's #22 KenPom defense. Sharp money moved this from -4.5 to -2.5 toward TCU. Ohio State 8-1 ATS recently. TCU's pace-grinding keeps it close but Thornton's shot-creation is the tiebreaker in a rock fight. UNDER because TCU forces 65-possession games."
   },
   {
     "round": "R64",
@@ -81,7 +81,7 @@
     "ouLean": "UNDER",
     "confidence": "High",
     "upset": false,
-    "reasoning": "Zuby Ejiofor (16.3/7.1/3.5/2.1 BPG) swept Big East POY+DPOY. UNI #24 D but crippling 153rd O, 363rd tempo. St. John's defensiv masterclass. Under 65-60."
+    "reasoning": "Zuby Ejiofor swept Big East POY + DPOY (first since Emeka Okafor 2004): 16.3/7.1/3.5/2.1 BPG on 55.4%. Northern Iowa's D is elite (#24 KenPom) but their offense ranks 153rd and they play at 363rd-slowest tempo. SJU's 12.5% turnover rate (12th nationally) means UNI can't create chaos. The 131.5 total is among the lowest in the bracket \u2014 this is a defensive masterclass. SJU wins ugly."
   },
   {
     "round": "R64",
@@ -93,7 +93,7 @@
     "ouLean": "UNDER",
     "confidence": "High",
     "upset": false,
-    "reasoning": "Hunter Peterson (proj #1 pick) + Bidunga (DPOY candidate, 7-1 with rim protection). Self 25-3 in R64. KenPom 41-spot gap. Defensive suffocation."
+    "reasoning": "Darryn Peterson (19.9 PPG, projected #1 pick) played full minutes last 7 games but KU went 3-4 with 100th-ranked offense. Flory Bidunga (Big 12 DPOY) anchors a top-10 defense. Cal Baptist won the WAC on Dominique Daniels' late heroics but faces an enormous athletic gap. Bill Self is 25-3 in first-round games. Kansas covers if Peterson plays at even 70%."
   },
   {
     "round": "R64",
@@ -105,7 +105,7 @@
     "ouLean": "OVER",
     "confidence": "Med",
     "upset": true,
-    "reasoning": "Brown Jr. OUT (back injury) removes Louisville's secondary facilitator. USF 11-game streak. Nelson 15.8/9.8/60% FG, AAC triple-crown (POY, DPOY). Tempo works USF way."
+    "reasoning": "\u2605 UPSET PICK. Mikel Brown Jr. (back) has missed 4 straight games. Louisville is 7-5 without him. USF is on an 11-game streak with AAC triple-crown winner Izaiyah Nelson (15.8/9.8/1.6 SPG/1.3 BPG on 60% FG \u2014 18 double-doubles). USF plays at the 15th-fastest pace. Even if Brown plays, he won't be 100% after missing the entire ACC Tournament. The 163.5 total is one of the highest in the bracket \u2014 both teams score. USF's energy, depth, and Nelson's two-way dominance carry the day."
   },
   {
     "round": "R64",
@@ -117,7 +117,7 @@
     "ouLean": "UNDER",
     "confidence": "Lock",
     "upset": false,
-    "reasoning": "Izzo 76-37 in tourney. Fears 9.2 APG (leads D-I, unstoppable). NDSU 282nd SOS. Rebounding machine. Mich State 72-55."
+    "reasoning": "Tom Izzo is 76-37 all-time in the NCAA Tournament. MSU is 7th in offensive rebound rate, 1st in defensive rebound rate, top-13 defense. Jeremy Fears Jr. leads ALL of D-I with 9.2 APG. NDSU's 282nd-ranked SOS means they haven't seen this level of athleticism. Their transition D ranks in the 11th percentile \u2014 Izzo fast breaks will be devastating. MSU by 20."
   },
   {
     "round": "R64",
@@ -129,7 +129,7 @@
     "ouLean": "UNDER",
     "confidence": "Med",
     "upset": true,
-    "reasoning": "UCLA's Bilodeau (knee) + Dent (calf) banged up — durability concerns vs UCF. UCF's Fulks (14.1/6.7/40.8% 3PT), Stillwell (3rd Big 12 OREB rate). Injuries not fully priced into line."
+    "reasoning": "\u2605 UPSET PICK. UCLA's Tyler Bilodeau (17.6 PPG, team-best) has a strained right knee and Donovan Dent has a strained calf \u2014 both from the Big Ten Tournament. UCF's Themus Fulks (14.1 PPG, 6.7 APG, 40.8% 3PT) accounts for 37.5% of UCF's scoring production. Jamichael Stillwell (11.7/8.0, 3rd in Big 12 offensive rebounds) creates a physicality mismatch. If UCLA's injuries limit their two best players even 15-20%, UCF has the depth and Big 12-tested defense to win."
   },
   {
     "round": "R64",
@@ -141,7 +141,7 @@
     "ouLean": "UNDER",
     "confidence": "Lock",
     "upset": false,
-    "reasoning": "Dan Hurley 3 of last 4 championship games. Reed Jr. (13.8/8.0/2.1 BPG) rim protection fortress. 9-man rotation deepest in field. UConn #11 defense. By 25+."
+    "reasoning": "Dan Hurley chasing 3rd title in 4 years. Alex Karaban (12.9 PPG, 40% 3PT) is the last holdover from back-to-back championships. Tarris Reed Jr. (13.8/8.0/2.1 BPG) is an elite two-way big. Braylon Mullins competes beyond his years. The #11 defense chokes Furman's mid-major offense. UConn by 20+."
   },
   {
     "round": "R64",
@@ -153,7 +153,7 @@
     "ouLean": "OVER",
     "confidence": "Lock",
     "upset": false,
-    "reasoning": "Seven players average 8.7+ PPG (deepest 1-seed). Jaden Bradley (13.4/4.6 APG, Big 12 POY) + Burries (16.0/37% 3PT) + Peat (13.8/5.3, back healthy) create unsolvable depth. Top-5 O, top-3 D. Beat UF, UConn, Bama, Hou, KU in soft schedule. Arizona by 32."
+    "reasoning": "Arizona is the most balanced team in America: 7 players avg 8.7+ PPG. Jaden Bradley (Big 12 POY), Brayden Burries (16.0 PPG), Koa Peat (back from injury, 13.8 PPG). Top-5 O and top-3 D. They beat Florida, UConn, Alabama, Houston, and Kansas this year. LIU is a 300+ KenPom team. Arizona by 35."
   },
   {
     "round": "R64",
@@ -165,7 +165,7 @@
     "ouLean": "UNDER",
     "confidence": "Med",
     "upset": false,
-    "reasoning": "Best 8/9 game. USU KenPom 32 (ahead of Nova). Falslev (MWC POY) is real deal. Sharp money confirmed: line moved -1.5 to -3 (Fred Crespi SuperBook intel). Nova lost Hodge (ACL). Falslev 20+ PPG."
+    "reasoning": "Best 8/9 in the bracket. Utah State KenPom 32, one spot ahead of Villanova. Mason Falslev (MWC POY: 16.1 PPG, 5.8 RPG, 42% 3PT) has 'Excellent' ratings in 8 of 11 shot chart zones per Synergy. Sharp money moved USU from -1.5 to -3. Villanova lost Matt Hodge (ACL) leaving only two rotation players over 6-6 \u2014 they got outrebounded 46-25 in their Big East Tournament exit. USU's rebounding and Falslev's versatility are decisive."
   },
   {
     "round": "R64",
@@ -177,7 +177,7 @@
     "ouLean": "OVER",
     "confidence": "Med",
     "upset": false,
-    "reasoning": "HP forces 5th-most TOs nationally (92 per game), but Wisconsin 3rd in ball security (forces itself to slow pace). Boyd (20.6 PPG, Final Four vet) + Blackwell (18.3) create 80 PPG baseline. Wisconsin 82-69."
+    "reasoning": "High Point fits the Cinderella profile \u2014 14-game winning streak, 90+ PPG (5th nationally), forces 5th-most turnovers in D-I, draws 26.8 FTA/game (4th). But Wisconsin's ball security (3rd-fewest turnovers nationally at 8.9/game) directly neutralizes HP's best weapon. Nick Boyd (20.6 PPG, Final Four experience from 2023 FAU) and John Blackwell (18.3 PPG) have beaten Michigan, Illinois, and Michigan State. BPI says Wisconsin by only 7.3 (below spread) \u2014 take High Point to cover but Wisconsin to advance. OVER because both teams score in bunches."
   },
   {
     "round": "R64",
@@ -189,7 +189,7 @@
     "ouLean": "UNDER",
     "confidence": "High",
     "upset": false,
-    "reasoning": "Darius Acuff Jr. (22.7/6.4/44% 3PT) — best frosh since Trae Young, Kemba Walker comp. 30/11 in SEC final. Calipari 21-3 in R64. Arkansas by 16."
+    "reasoning": "Darius Acuff Jr. is the best freshman since Trae Young: 22.7 PPG, 6.4 APG, 44% 3PT \u2014 first SEC player to lead in both scoring AND assists since Pete Maravich (1969-70). He dropped 30/11 in the SEC title game. Hawaii will try to slow pace but Calipari is 21-3 in first-round games. Arkansas' #6 KenPom offense is too explosive. The 4 games of 100+ points this season tell you what happens when opponents try to run with them."
   },
   {
     "round": "R64",
@@ -201,7 +201,7 @@
     "ouLean": "OVER",
     "confidence": "Low",
     "upset": false,
-    "reasoning": "AJ Dybantsa: 25.3 PPG (nation's #1 scorer), 93 pts in 3 Big 12 tourney games, projected #1 pick. But no Saunders (ACL torn) means D ranks 177th — can't win defensive games. NC State 38.8% 3PT (9th) + exhausted from First Four. BYU 82-75."
+    "reasoning": "AJ Dybantsa set a Big 12 Tournament record with 93 points in 3 games. He's the nation's leading scorer and projected #1 NBA Draft pick. But BYU lost Richie Saunders (ACL) \u2014 their offense dropped from 7th to 28th and defense to 177th. NC State has 2024 Final Four DNA and 38.8% 3PT shooting. This is genuinely a toss-up, but Dybantsa's ceiling is simply too high. On any given night he can score 40. Robert Wright III (22.4 PPG last 8 games) is the second option. BYU in a high-scoring slugfest."
   },
   {
     "round": "R64",
@@ -213,7 +213,7 @@
     "ouLean": "UNDER",
     "confidence": "High",
     "upset": false,
-    "reasoning": "Ike Nwamu (19.7/8.2/69% inside). Huff OUT (dislocated kneecap, 17.8 PPG gone). 91-spot KenPom gap is insurmountable. Gonzaga 74-56."
+    "reasoning": "Graham Ike: 19.7 PPG, 8.2 RPG, 69% inside arc, 2,500+ career points. Braden Huff RULED OUT for opening weekend but 'jogging and shooting.' Even without Huff, Gonzaga's #8 KenPom defense and Ike's interior dominance are too much. Kennesaw State's Simeon Cottle (20.2 PPG) can get hot but the 91-spot KenPom gap and Gonzaga's tournament experience (23 straight NCAA bids) make this comfortable."
   },
   {
     "round": "R64",
@@ -225,7 +225,7 @@
     "ouLean": "UNDER",
     "confidence": "Med",
     "upset": true,
-    "reasoning": "Mizzou plays in St. Louis — 2hrs from home. Mitchell (18.3/55.1% FG) + home crowd. BPI: Miami only favored by 1.3. Lines don't account for home-court feel. Mizzou 74-70."
+    "reasoning": "\u2605 UPSET PICK. Missouri plays in St. Louis \u2014 effectively a home game 2 hours from Columbia. Mizzou was 5-9 on the road but this is home. Mark Mitchell (18.3 PPG, 55.1% FG) is an elite shot-creator who matches up well against anyone. Miami's Malik Reneau (18.8 PPG) is better on paper but the crowd advantage is worth 2-3 points. BPI has Miami by only 1.3 \u2014 a true coin flip that tilts Mizzou's way with location."
   },
   {
     "round": "R64",
@@ -237,7 +237,7 @@
     "ouLean": "UNDER",
     "confidence": "Lock",
     "upset": false,
-    "reasoning": "Caleb Smith (14.9/8.7 APG) chasing NCAA all-time record (one assist behind Hurley). Loyer (13.6/42% 3PT). KenPom #2 offense unstoppable. Queens first-timer. Purdue by 25."
+    "reasoning": "Braden Smith (14.9 PPG, 8.7 APG) is one assist behind Bobby Hurley for the NCAA all-time record. Fletcher Loyer shoots 42% from three. KenPom #2 offense. Purdue won the Big Ten Tournament and is riding momentum despite a shaky late-season stretch. Queens is a first-time tournament team. Purdue by 25+."
   },
   {
     "round": "R64",
@@ -249,7 +249,7 @@
     "ouLean": "UNDER",
     "confidence": "Lock",
     "upset": false,
-    "reasoning": "Yaxel Lendeborg (14.3/7.3/1.4 BPG, lottery pick) + Johnson Jr (6-9) + Mara (7-3!) = tallest frontcourt in America. #1 D + #8 O. 2 losses all year by combined 8 pts. UMBC is A-team. Michigan 89-58."
+    "reasoning": "Michigan has the #1 defense AND a top-8 offense in KenPom. Yaxel Lendeborg (14.3/7.3/1.4 BPG, lottery pick), Morez Johnson Jr. (6-9), and Aday Mara (7-3!) form the tallest frontcourt in America. Lost twice all year by a combined 8 points. UMBC (famous for 2018 Virginia upset) has no path against this defensive machine."
   },
   {
     "round": "R64",
@@ -261,7 +261,7 @@
     "ouLean": "UNDER",
     "confidence": "Med",
     "upset": true,
-    "reasoning": "SLU started 24-1. Robbie Avila (6-10 C) shooting 40.1% 3PT on 143 attempts — rare archetype that opens lanes. Only 5 tourney games since '98 >170 pts. SLU 84-79."
+    "reasoning": "\u2605 UPSET PICK. The 170.5 total is the HIGHEST in the entire first round \u2014 but I'm taking the UNDER. Historical trend: only 5 NCAA tournament games since 1998 have exceeded 170 total points. Both teams have suffered massive late-season offensive efficiency drops. SLU started 24-1 and reached #18 AP. Robbie Avila ('Cream Abdul-Jabbar') \u2014 a 6-10 center shooting 40.1% from three on 143 attempts \u2014 is a matchup nightmare who pulls Georgia's Somto Cyril out of the paint. The A-10 tournament comeback (down 21 points at halftime vs George Washington) proves SLU's resilience. Georgia is KenPom 38th vs SLU's 46th \u2014 only 8 spots apart."
   },
   {
     "round": "R64",
@@ -273,7 +273,7 @@
     "ouLean": "OVER",
     "confidence": "High",
     "upset": true,
-    "reasoning": "Jahmir Toppin (21.8/10.8, #1 scorer for TTU) OUT with torn ACL. TTU D collapsed 31st→87th without him. Akron 29-5 record, 10-game streak, 3-peat MAC champs. Tavari Johnson (20.1 PPG, MAC scoring leader) + three senior guards all 37%+ 3PT. 7 DAYS REST = freshest team in field. Akron 79-74."
+    "reasoning": "\u2605\u2605 BEST UPSET IN THE BRACKET. JT Toppin (21.8/10.8/1.7 BPG) tore his ACL Feb 17. Since: TTU went 3-3, defense collapsed from 31st to 87th, turnover rate jumped to 333rd, blown out 75-53 by ISU in Big 12 Tournament. Christian Anderson (18.9/7.6 APG, 42% 3PT) is elite but a one-man show now. Akron is 29-5 with a 10-GAME WIN STREAK, 37.9% from three (14th nationally), 58.5% eFG (8th nationally), three senior guards (Tavari Johnson 20.1 PPG, Shammah Scott, Bowen Hardman) all shooting 37%+ from deep. CBS, Hoops HQ, BettingPros, SportsBook Review ALL pick this upset. The three-point shootout without Toppin's rim protection massively favors Akron."
   },
   {
     "round": "R64",
@@ -285,7 +285,7 @@
     "ouLean": "OVER",
     "confidence": "Low",
     "upset": false,
-    "reasoning": "⚠️ HOLLOWAY ARRESTED (felony, 2.1 lbs marijuana). Loses 16.8 PPG + best 3PT shooter (43.8%). Spread dropped 3 pts (-14.5→-11.5). Odds doubled (+10000→+18000). Philon only option now. Hofstra still just a 13-seed but Bama's margin-of-victory eroded. Alabama 68-62."
+    "reasoning": "\u26a0\ufe0f HOLLOWAY ARRESTED \u2014 removed from team (felony marijuana, 2.1 lbs). Alabama loses 16.8 PPG and their best 3PT shooter (43.8%). Spread dropped from -14.5 to -11.5. Championship odds nearly doubled (+10000\u2192+18000). Philon (21.7 PPG) is now a genuine one-man show \u2014 no other player shoots above 36% from three. Hofstra's Cruz Davis (20.2 PPG, road wins at Pitt/Syracuse) and Preston Edmead suddenly have a live path. Alabama still wins on raw pace and athleticism but this is now a sweat. OVER because Bama's pace still generates possessions."
   },
   {
     "round": "R64",
@@ -297,7 +297,7 @@
     "ouLean": "UNDER",
     "confidence": "Med",
     "upset": false,
-    "reasoning": "Ament (ankle) available but limited. Vols #1 OREB rate, top-15 D. Gillespie (18.0 PPG) + physical SEC defense. Tennessee 73-67."
+    "reasoning": "Nate Ament (high ankle sprain, Feb 28) is available but not 100% \u2014 played well vs Auburn then faded vs Vanderbilt. Tennessee is the #1 offensive rebounding team nationally with a top-15 defense. Ja'Kobi Gillespie (18.0 PPG) is the engine. SMU's Boopie Miller (19.2/6.4 APG, 41.9% 3PT) is a backcourt problem, and former Tennessee guard BJ Edwards adds a revenge angle. But Tennessee's physicality on the glass is the ultimate separator. UNDER because both defenses are strong."
   },
   {
     "round": "R64",
@@ -309,7 +309,7 @@
     "ouLean": "UNDER",
     "confidence": "High",
     "upset": false,
-    "reasoning": "Ron Odom rebuilt UVA 29-5. Onyenso (7-0, 2.97 BPG) broke Tim Duncan ACC tourney record. Team 6.7 BPG. #11 defense + elite shot-blocking. Virginia 72-57."
+    "reasoning": "Ryan Odom (coached UMBC's 2018 upset OF Virginia) rebuilt UVA with 12 new players and went 29-5. Ugonna Onyenso (7-0 Kentucky transfer) is 2nd nationally with 2.97 BPG \u2014 broke Tim Duncan's ACC Tournament record with 21 blocks in 3 games. Virginia leads D-I in blocks (6.7/game). Their 46.8% 3PA rate and #6 offensive rebound rate make them dangerous on both ends. Wright State's paint-focused offense runs directly into Onyenso. Mismatch everywhere."
   },
   {
     "round": "R64",
@@ -321,7 +321,7 @@
     "ouLean": "UNDER",
     "confidence": "Med",
     "upset": true,
-    "reasoning": "Only 7 KenPom spots apart (Santa Clara #14 but KenPom #19 vs UK #12). UK lost 5 of last 7 games. No true PG. Quaintance doubtful. SC 56.5% 2PT shooting (interior dominance). Pope 5-0 UNDER in tourney last year. SC 72-68."
+    "reasoning": "\u2605 UPSET PICK. Only 7 KenPom spots separate them (UK 28th, SC 35th). Kentucky lost 5 of 7 to close the season, lacks a true PG, and Jayden Quaintance (knee) has played only 4 games all season. Santa Clara's Sash Gavalyugov (42 pts + 17 ast across WCC tourney), Christian Hammond (15.8 PPG), and WCC FROY Allen Graves (11.6/6.5) form a deep, experienced rotation. They grab 36.7% offensive rebounds (27th nationally) and shoot 56.5% inside the arc. Mark Pope is 5-0 to the UNDER in NCAA Tournament games (under by avg 7.5 PPG). CBS says 'stunning if Kentucky advanced to the second weekend.' NBC, BettingPros pick Santa Clara."
   },
   {
     "round": "R64",
@@ -333,7 +333,7 @@
     "ouLean": "UNDER",
     "confidence": "Lock",
     "upset": false,
-    "reasoning": "Milan Momcilovic: 17.0 PPG at 50% from 3 (!) — historically elite single-season shooter. Lipsey (13.3/5.0 APG) top-5 PG. Jefferson (16.6/7.4/5.0 All-America). Top-10 D. ISU by 28+."
+    "reasoning": "Milan Momcilovic shooting 50% from three is historically elite \u2014 one of the greatest single-season shooting performances in D-I history. Tamin Lipsey is a top-5 PG nationally. Joshua Jefferson is an All-America candidate. Top-10 defense. Tennessee State is an OVC champion but the talent gap is enormous. ISU by 25+."
   },
   {
     "round": "R64",
@@ -345,7 +345,7 @@
     "ouLean": "UNDER",
     "confidence": "Lock",
     "upset": false,
-    "reasoning": "Defending champs. Walter Haugh (17.2 PPG, lottery pick, SEC POY) + Chinyelu (11.4/11.7/1.1 BPG, DPOY candidate). 5 double-figure scorers. #9 O, #6 D. Florida by 30+."
+    "reasoning": "Defending champs. Thomas Haugh (17.2 PPG, lottery pick) emerged as SEC POY candidate after being a reserve last year. Rueben Chinyelu (11.4/11.7/1.1 BPG) is DPOY candidate \u2014 elite rim protector who erases everything at the basket. Alex Condon (14.8 PPG), Xaivian Lee (11.6/4.2 APG), Boogie Fland (11.6 PPG) round out 5 double-figure scorers. Top-10 O and D. No upset path."
   },
   {
     "round": "R64",
@@ -357,7 +357,7 @@
     "ouLean": "UNDER",
     "confidence": "High",
     "upset": false,
-    "reasoning": "ONLY lower seed favored. Iowa 11 KenPom spots above Clemson (#25 vs #36). Stirtz (20.2/50%/38% 3PT) + Perkins defensive anchor. Clemson lost Welling (ACL). Lowest R64 total. Iowa 71-61."
+    "reasoning": "The ONLY lower seed favored in the entire bracket. Iowa is 11 KenPom spots above Clemson (25th vs 36th). Bennett Stirtz (20.2 PPG, 50% FG, 38% 3PT, Wooden Award candidate) transferred from Drake and became a star under Ben McCollum. Clemson just lost Carter Welling (ACL in ACC Tournament) \u2014 their best interior player. The 130.5 total is the LOWEST in the Round of 64: this is a 66-64 rock fight. Iowa's superior efficiency wins a grinding, low-possession affair. UNDER is near-automatic."
   },
   {
     "round": "R64",
@@ -369,7 +369,7 @@
     "ouLean": "UNDER",
     "confidence": "High",
     "upset": false,
-    "reasoning": "Vandy KenPom #11 as 5-seed — massively underseeded. Tanner (19.2 PPG) + Miles (healthy) backcourt edges McNeese. SEC physicality + 19-spot KenPom gap. Vandy 78-67."
+    "reasoning": "Vanderbilt is massively underseeded \u2014 KenPom #11 as a 5-seed. Tyler Tanner (19.2 PPG, 37.3% 3PT, 2.4 SPG, First-Team All-SEC, projected first-round pick) is a future millionaire. Duke Miles (15.9/4.2 APG) is back from a January knee injury that caused an 8-7 stretch. McNeese has full-court pressure DNA (10.5 SPG, 2nd nationally) but their 3PT shooting regressed to near-300th. Tanner and Miles' ball-handling eats pressure defenses alive."
   },
   {
     "round": "R64",
@@ -381,7 +381,7 @@
     "ouLean": "UNDER",
     "confidence": "High",
     "upset": false,
-    "reasoning": "Nebraska seeks FIRST-EVER tournament win. KenPom #7 D (opps 30% 3PT). Troy shoots 43%+ 3PT but KenPom gap insurmountable. 70-spot KenPom deficit. Nebraska 67-52."
+    "reasoning": "Nebraska seeks its FIRST EVER tournament win (0-8 all-time). Their defense is elite: KenPom 7th, opponents shoot 30% from three, ~20% forced turnover rate. Pryce Sandfort (17.9 PPG, 40% 3PT) leads the offense. Troy's Thomas Dowd (14.8/10.1 RPG) crashes the glass, which is Nebraska's weakness (most losses came when outrebounded). But the 70-spot KenPom gap and Nebraska's defensive floor ensure history is made. UNDER because both teams play slow."
   },
   {
     "round": "R64",
@@ -393,7 +393,7 @@
     "ouLean": "UNDER",
     "confidence": "High",
     "upset": true,
-    "reasoning": "Armando Wilson (19.8/9.4 center, best interior player) OUT with broken thumb. UNC 1 road win without him all year. VCU 16-1 since Jan 10, A-10 champ. Lewis (A-10 ROY) + Jennings (57 steals, elite D). Near-universal expert pick. VCU 71-66."
+    "reasoning": "\u2605\u2605 NEAR-CONSENSUS UPSET. Caleb Wilson OUT (thumb surgery) \u2014 he was 19.8/9.4/2.7 on 57.8% FG. UNC went from 21st to 32nd overall without him and has 1 road win without Wilson. VCU has won 16 of 17, back-to-back A-10 titles (program first), and freshman Nyk Lewis (A-10 ROY) had 17/11 in the conference final. Brandon Jennings has 57 steals. ESPN's Pulsifer, Yahoo's Russell, CBS, NBC, BettingPros \u2014 virtually everyone picks this. UNDER because Wilson's absence caps UNC's scoring ceiling and VCU slows pace with free throws (top-20 FT rate)."
   },
   {
     "round": "R64",
@@ -405,7 +405,7 @@
     "ouLean": "OVER",
     "confidence": "High",
     "upset": false,
-    "reasoning": "Illinois #1 offense in KenPom HISTORY (131.3/100 possessions). Wagler (17.9/40.2% 3PT) + Melendez (17.3/42% 3PT). Penn's Roberts likely OUT (concussion). Illinois 87-62."
+    "reasoning": "Illinois owns the #1 adjusted offensive efficiency in KenPom HISTORY (131.3 per 100 possessions). Keaton Wagler (17.9/4.5/4.4, 40.2% 3PT) went from unranked recruit to projected top-10 pick. Penn's TJ Power had a legendary 44-point Ivy final but Penn's Ethan Roberts (top scorer) is likely OUT with a concussion. Without Roberts, Penn is one-dimensional. Illinois's historic offense produces an OVER \u2014 Action Network: big favorites at low totals are 38-25-1 to the over."
   },
   {
     "round": "R64",
@@ -417,7 +417,7 @@
     "ouLean": "OVER",
     "confidence": "Med",
     "upset": true,
-    "reasoning": "A&M 87.7 PPG (#9), 6 double-figure scorers. SMC 1-4 Q1, 361st away rating. SportsLine model picks A&M. Tempo breaks SMC's half-court scheme. A&M 76-73."
+    "reasoning": "\u2605 UPSET PICK. Texas A&M's 87.7 PPG (#9 nationally) with 6 double-figure scorers vs Saint Mary's 297th-slowest tempo. A&M's full-court press and transition game (29th in tempo) is a style nightmare for Saint Mary's grind-it-out approach. A&M opponents shoot 62% at the rim (240th) but that hardly matters when A&M is bombing threes with 4 guys at 39.6%+. Saint Mary's went 1-4 in Q1 games and 361st in away-from-home rating. CBS's SportsLine model explicitly picks this upset. OVER because A&M forces pace upward."
   },
   {
     "round": "R64",
@@ -429,7 +429,7 @@
     "ouLean": "UNDER",
     "confidence": "Lock",
     "upset": false,
-    "reasoning": "Kelvin Sampson (HOF trajectory). Kingston Flemings (16.5/5.4/38% 3PT, lottery, best frosh Sampson coached). Top-5 D (62.9 PPG allowed). S16/E8 IN HOUSTON = home court worth 3+ pts. Idaho first since 1990. Houston 86-61."
+    "reasoning": "Kelvin Sampson's defensive machine: top-5 KenPom D, allows 62.9 PPG, top-3 in turnover rate. Kingston Flemings (16.5/5.4 APG, 38% 3PT, lottery pick) is the best freshman Sampson has ever coached. Emanuel Sharp and Milos Uzan are Final Four vets. Idaho is making its first tournament since 1990 at 21-14. The real story: Houston's Sweet 16 and Elite 8 are in Houston \u2014 built-in home court for the second weekend. Houston by 25."
   },
   {
     "round": "R32",
@@ -441,7 +441,7 @@
     "ouLean": "nan",
     "confidence": "High",
     "upset": false,
-    "reasoning": "Boozer 28+ PPG. OSU 53rd D can't rim protect. Rotation still fresh (2 games played). Duke cruises 79-68."
+    "reasoning": "Boozer goes for 28+. Ohio State's 53rd-ranked defense can't protect the rim against Duke's #4 offense. Duke's depth concern (Foster OUT) is irrelevant against OSU's limited ceiling."
   },
   {
     "round": "R32",
@@ -453,7 +453,7 @@
     "ouLean": "nan",
     "confidence": "Med",
     "upset": false,
-    "reasoning": "Peterson + Bidunga defensive prowess vs Ejiofor. Self coaching pedigree. KU 71-67 in defensive slugfest."
+    "reasoning": "The most intriguing R32 game in the East. Ejiofor vs Bidunga in the paint is a war. But Peterson's scoring ability in transition, combined with Self's tournament pedigree, gives KU the edge. SJU's glacial pace could keep it close. Kansas 71-67."
   },
   {
     "round": "R32",
@@ -465,7 +465,7 @@
     "ouLean": "nan",
     "confidence": "High",
     "upset": false,
-    "reasoning": "Izzo's rebounding machine + Fears' 9.2 APG overwhelms USF. MSU 75-67."
+    "reasoning": "USF's momentum from the Louisville upset faces Izzo's machine. MSU's 7th-ranked offensive rebounding and top-13 defense create the exact physicality USF struggled against in AAC play. Fears' 9.2 APG creates easy baskets. MSU advances."
   },
   {
     "round": "R32",
@@ -477,7 +477,7 @@
     "ouLean": "nan",
     "confidence": "High",
     "upset": false,
-    "reasoning": "Hurley tournament DNA prevails. Reed Jr. rim protection (2.1 BPG) erases UCF inside. UConn 74-65."
+    "reasoning": "UCF's reward for beating UCLA is Dan Hurley's tournament juggernaut. Reed Jr.'s rim protection (2.1 BPG) erases UCF's interior game. Karaban's shooting stretches UCF's defense. Hurley has been here before \u2014 multiple times."
   },
   {
     "round": "R32",
@@ -489,7 +489,7 @@
     "ouLean": "nan",
     "confidence": "Lock",
     "upset": false,
-    "reasoning": "Arizona's 7 scorers overwhelm Falslev one-man show. Bradley outdefends. Depth compounds. AZ 82-71."
+    "reasoning": "Arizona's 7 scorers overwhelm USU's one-man (Falslev) offense. Motiejus Krivas shuts down USU's interior game. Arizona's depth means they can play 10 deep while USU's 7-man rotation wears thin."
   },
   {
     "round": "R32",
@@ -501,7 +501,7 @@
     "ouLean": "nan",
     "confidence": "Med",
     "upset": true,
-    "reasoning": "⭐ UPSET R32. Boyd (20.6 PPG) + Blackwell (18.3) > Acuff when Wisconsin ball security (#3 TO rate) grinds pace. Arkansas FATIGUED: 4 games in 4 days SEC tourney + cross-country travel to Portland (1800 mi). Wisconsin fresh (only 2 conf games), peaking, best wins of year (beat Mich/Ill/MSU/Purdue). Wis 75-71."
+    "reasoning": "THE UPSET OF THE SECOND ROUND. Wisconsin has won at Michigan, at Illinois, at Purdue, and vs Michigan State \u2014 4 tournament teams, all road/neutral wins. Boyd's Final Four experience (2023 FAU) means he doesn't flinch. Acuff Jr. (22.7 PPG) is electric but Wisconsin's ball security (3rd-fewest turnovers nationally at 8.9/game) denies Arkansas transition points. Blackwell (18.3 PPG) matches Acuff shot-for-shot. Wisconsin's elite wins profile is simply more impressive than Arkansas's SEC Tournament run. Wisconsin 77-75 on a Boyd late-game bucket."
   },
   {
     "round": "R32",
@@ -513,7 +513,7 @@
     "ouLean": "nan",
     "confidence": "Med",
     "upset": true,
-    "reasoning": "⭐ CINDERELLA. Huff OUT → Gonzaga O dropped 14th→68th. Dybantsa 93 pts in 3 Big 12 tourney games continues. ESPN Borzello projects BYU S16. 177th D won't matter vs gutted Gonzaga. BYU 83-76."
+    "reasoning": "THE CINDERELLA ADVANCES. ESPN's Borzello explicitly picks this. Without Braden Huff (ruled OUT for opening weekend), Gonzaga's offense dropped from 14th to 68th in KenPom. Graham Ike (19.7 PPG inside) is dominant but one-dimensional without Huff spacing the floor. Dybantsa scored 93 POINTS in 3 Big 12 Tournament games \u2014 the highest individual scoring output in any conference tournament this season. Robert Wright III averaged 22.4 PPG over the final 8 games. BYU's defense (177th) is genuinely terrible, but in a track meet, the team with the projected #1 NBA Draft pick wins. Dybantsa goes for 38. BYU 85-80."
   },
   {
     "round": "R32",
@@ -525,7 +525,7 @@
     "ouLean": "nan",
     "confidence": "High",
     "upset": false,
-    "reasoning": "Smith + Loyer backcourt precision > Mizzou. Home court doesn't overcome 30-spot KenPom gap. Purdue 80-72."
+    "reasoning": "Missouri's Cinderella run ends against Smith + Loyer. Purdue's #2 offense is too precise \u2014 Smith's 8.7 APG creates open looks Loyer buries at 42% from three. Purdue's late-season defensive issues don't matter against a 10-seed's limited offensive ceiling."
   },
   {
     "round": "R32",
@@ -537,7 +537,7 @@
     "ouLean": "nan",
     "confidence": "Lock",
     "upset": false,
-    "reasoning": "#1 D + tallest frontcourt in America (Mara 7-3!) swallows SLU's perimeter game. Even Avila's 3PT shooting can't create space. Michigan 82-64."
+    "reasoning": "Michigan's #1 defense + tallest frontcourt in America vs SLU's mid-major offense. Avila's three-point shooting is neutralized because Michigan's perimeter defense is elite. Lendeborg, Johnson, and the 7-3 Mara swallow everything inside. Michigan by 20."
   },
   {
     "round": "R32",
@@ -549,7 +549,7 @@
     "ouLean": "nan",
     "confidence": "High",
     "upset": true,
-    "reasoning": "⭐⭐ AKRON TO SWEET 16. Holloway arrest removes 16.8 PPG + best scorer. Philon alone — Wrightsell 0-5 vs Ole Miss, Allen 7% 3PT last 4 games = zero secondary scorers. Akron 7 DAYS REST (max in field), 3 senior guards all 37%+ 3PT, Johnson hot. Akron 79-74."
+    "reasoning": "\u2605 CINDERELLA ADVANCES TO SWEET 16. Holloway's felony arrest removes 16.8 PPG and Alabama's best 3PT shooter. Philon is elite but now has zero backcourt support \u2014 Wrightsell went scoreless (0-5) in 23 min vs Ole Miss, Allen is shooting 7% from three over last 4 games. Akron's three senior guards (Johnson 20.1 PPG, Scott, Hardman \u2014 all 37%+ from deep) face a one-dimensional, distracted Bama team with only 9 scholarship players. Akron has 7 DAYS REST (freshest team in the field) vs a depleted Bama reeling from the biggest off-court crisis in its tournament history. Tavari Johnson goes for 25+. Akron 79-74."
   },
   {
     "round": "R32",
@@ -561,7 +561,7 @@
     "ouLean": "nan",
     "confidence": "Med",
     "upset": false,
-    "reasoning": "Onyenso's 2.97 BPG transforms paint. Virginia's 3PT volume (top-25 made 3PT) spaces floor. UVA 65-61."
+    "reasoning": "Onyenso's 2.97 BPG transforms UVA's paint into a no-fly zone. Tennessee's #1 offensive rebounding rate meets Onyenso's shot-blocking \u2014 an unstoppable force vs an immovable object. Virginia's 3PT volume (46.8% of shots) spaces the floor enough to offset Tennessee's physicality. Virginia 65-61 in a defensive gem."
   },
   {
     "round": "R32",
@@ -573,7 +573,7 @@
     "ouLean": "nan",
     "confidence": "High",
     "upset": false,
-    "reasoning": "Santa Clara's upset of UK meets reality. Momcilovic 50% 3PT unguardable (creates math problem). ISU top-10 D holds SC <65. ISU 74-63."
+    "reasoning": "Santa Clara's beautiful upset of Kentucky meets reality. Momcilovic's 50% from three is unguardable, Lipsey controls pace, and ISU's top-10 defense stifles Santa Clara's offense. ISU 74-63."
   },
   {
     "round": "R32",
@@ -585,7 +585,7 @@
     "ouLean": "nan",
     "confidence": "High",
     "upset": false,
-    "reasoning": "Haugh + Chinyelu frontcourt dominance. Chinyelu (11.7 RPG, 1.1 BPG) controls glass. Size matters vs Iowa. UF 80-70."
+    "reasoning": "Florida's frontcourt (Haugh + Chinyelu + Condon) dominates Iowa's smaller lineup. Chinyelu's 11.7 RPG and rim protection change the game inside. Stirtz can keep Iowa competitive but Florida's depth and championship experience prevail. Florida 80-70."
   },
   {
     "round": "R32",
@@ -597,7 +597,7 @@
     "ouLean": "nan",
     "confidence": "Med",
     "upset": false,
-    "reasoning": "Tanner (19.2) + Miles backcourt edges Nebraska. SEC physicality prevails. 73-69."
+    "reasoning": "Tanner and Miles' backcourt is the best guard duo Nebraska's elite defense has faced. Nebraska's rebounding weakness (their Achilles heel all season) gets exposed against Vandy's SEC physicality. Tanner's 2.4 SPG creates transition points. Vanderbilt 73-69."
   },
   {
     "round": "R32",
@@ -609,7 +609,7 @@
     "ouLean": "nan",
     "confidence": "High",
     "upset": false,
-    "reasoning": "VCU D is elite but Illinois #1 O in KenPom HISTORY too much firepower. Wagler goes off. Illini 82-71."
+    "reasoning": "VCU's defense is legitimate (lost once since Jan 10) but Illinois's #1 offense in KenPom HISTORY eventually overwhelms. Wagler's shot-creation is elite. VCU keeps it closer than expected but Illinois pulls away in the final 8 minutes. Illinois 82-71."
   },
   {
     "round": "R32",
@@ -621,7 +621,7 @@
     "ouLean": "nan",
     "confidence": "High",
     "upset": false,
-    "reasoning": "Sampson D suffocates A&M's offensive firepower. Houston playing near home. Flemings isolation game wins. 67-58."
+    "reasoning": "A&M's 87.7 PPG meets Sampson's #5 defense. Houston slows pace, forces turnovers, and grinds A&M into dust. Flemings scores efficiently while A&M's shooters go cold against Houston's suffocating pressure. Houston's defensive floor is too high. Houston 67-58."
   },
   {
     "round": "S16",
@@ -633,7 +633,7 @@
     "ouLean": "UNDER",
     "confidence": "High",
     "upset": false,
-    "reasoning": "Boozer vs Bidunga. Two top-10 defenses collide. Duke's talent edge + fresh rotation still at advantage. Duke 78-70."
+    "reasoning": "Boozer vs Bidunga is the marquee individual matchup of the Sweet 16. Boozer's perimeter game (41% 3PT) pulls Bidunga away from the rim, neutralizing KU's best defender. Peterson's health is the wildcard \u2014 if he's limited, Duke cruises. If healthy, it's a 4-point game Duke wins on talent. Duke 78-70."
   },
   {
     "round": "S16",
@@ -645,7 +645,7 @@
     "ouLean": "UNDER",
     "confidence": "Med",
     "upset": false,
-    "reasoning": "Hurley vs Izzo coaching masterclass. UConn backcourt shooting (Karaban 40% 3PT) creates spacing Izzo can't match in half-court. Hurley's tournament DNA proves edge. UConn 72-68."
+    "reasoning": "Game of the tournament to this point. Hurley vs Izzo is a coaching masterclass. Reed Jr. vs MSU's frontcourt is physical. The difference: UConn's backcourt shooting (Mullins, Ball, Demary Jr.) creates spacing Izzo's offense can't match. UConn 72-68 in a classic."
   },
   {
     "round": "S16",
@@ -657,7 +657,7 @@
     "ouLean": "SLIGHT OVER",
     "confidence": "Med",
     "upset": false,
-    "reasoning": "Wisconsin earned this (beat Mich, Ill, MSU, Pur on road). Boyd (Final Four vet) is legit. But Arizona 7 scorers + top-3 D a level above. Bradley defensive maestro. AZ 78-72."
+    "reasoning": "Wisconsin earned this spot by beating Arkansas \u2014 Boyd and Blackwell outdueled Acuff Jr. in a classic. Wisconsin has beaten Michigan, Illinois, MSU, and Purdue this season \u2014 all on the road. Boyd's 2023 Final Four experience is real. But Arizona's 7-man rotation and top-3 defense are a level above anyone Wisconsin has faced. Bradley contains Blackwell; Burries and Peat provide scoring Wisconsin can't match. Arizona 78-72 but Wisconsin covers."
   },
   {
     "round": "S16",
@@ -669,7 +669,7 @@
     "ouLean": "OVER",
     "confidence": "Med",
     "upset": false,
-    "reasoning": "BYU's 177th D vs Purdue's #2 O (Smith 14.9/8.7 APG, Loyer 42% 3PT). Dybantsa scores 30 and Purdue still wins by 8 — offensive firepower too much. Track meet. Purdue 84-76."
+    "reasoning": "BYU's Dybantsa scored 93 points in 3 Big 12 Tournament games and carried BYU past Gonzaga (whose offense dropped from 14th to 68th without Huff). But BYU's 177th-ranked defense faces Purdue's #2 offense \u2014 Smith + Loyer shooting 42% from three. Dybantsa can score 35 and BYU still loses by 8 because they can't get stops. Purdue 84-76 in a shootout."
   },
   {
     "round": "S16",
@@ -681,7 +681,7 @@
     "ouLean": "UNDER",
     "confidence": "Lock",
     "upset": false,
-    "reasoning": "Akron's Cinderella (beat TTU + Holloway-less Bama) ends vs #1 defense in America. Lendeborg (1.4 BPG, 6-9 lottery) + Mara (7-3!!) + Johnson Jr (6-9) = impossible length for MAC team to match. Holloway's arrest cleared Michigan's most dangerous MW opponent. EASIEST S16 for any 1-seed. Michigan 82-62."
+    "reasoning": "Akron's magical Cinderella run \u2014 beating Texas Tech (Toppin OUT) then Alabama (Holloway arrested) \u2014 ends here. Michigan's #1 defense and tallest frontcourt in America (Mara 7-3!) is an impossible matchup for a MAC team. Lendeborg, Johnson, and Mara swallow Akron's guards inside. Johnson can score 20 and Akron still loses by 15. The Holloway arrest cleared Michigan's most dangerous Midwest opponent \u2014 this path to the Elite 8 is now the easiest of any 1-seed. Michigan 82-62."
   },
   {
     "round": "S16",
@@ -693,7 +693,7 @@
     "ouLean": "UNDER",
     "confidence": "Med",
     "upset": false,
-    "reasoning": "Momcilovic 50% 3PT creates unsolvable math. Lipsey (13.3/5.0 APG) controls tempo. ISU top-10 D on Onyenso. STRONGEST UNDER in S16. ISU 70-65."
+    "reasoning": "Momcilovic's 50% from three creates an unsolvable math problem for Virginia's defense. You can't leave him open \u2014 ever. But Virginia's offensive rebounding (#6) extends possessions and neutralizes ISU's defensive stops. Lipsey's point guard play is the tiebreaker. ISU 70-65."
   },
   {
     "round": "S16",
@@ -705,7 +705,7 @@
     "ouLean": "SLIGHT OVER",
     "confidence": "Med",
     "upset": false,
-    "reasoning": "SEC rematch (Vandy won by 17 in tourney). Florida adjusts with 2 weeks prep. Chinyelu (11.7 RPG) dominates glass. Haugh goes off at home. UF 79-74."
+    "reasoning": "SEC Tournament rematch \u2014 Vandy won the first meeting by 17. But Florida adjusts. Todd Golden's preparation advantage over 2 weeks is significant. Chinyelu's 11.7 RPG dominates the glass. Haugh matches Tanner shot-for-shot. Florida's championship experience and frontcourt size win a tight one. Florida 79-74."
   },
   {
     "round": "S16",
@@ -717,7 +717,7 @@
     "ouLean": "UNDER",
     "confidence": "Med",
     "upset": false,
-    "reasoning": "Illinois #1 O in KenPom HISTORY vs Houston top-5 D. Sampson built defensive scheme specifically for this. Home court in Houston. LOWEST S16 total projected. Houston 64-59."
+    "reasoning": "The #1 offense in KenPom HISTORY meets a top-5 defense. Sampson's scheme is designed for exactly this: slow pace, force turnovers, make every possession a grind. Houston allows 62.9 PPG \u2014 they won't let Illinois score 80. Flemings handles ball pressure better than most. Houston 64-59 in the game that defines defensive basketball."
   },
   {
     "round": "E8",
@@ -729,7 +729,7 @@
     "ouLean": "UNDER",
     "confidence": "Med",
     "upset": true,
-    "reasoning": "Duke's 7-man rotation fatigues by game 5 (game 5 of tournament). Boozer 30 PPG but can't single-handedly carry fatigued team. UConn's 9-deep rotation is fresh. Hurley's championship DNA proven (3 of last 4 title games). Mullins hits dagger 3. UConn 72-71. ⭐ MAJOR UPSET."
+    "reasoning": "THE 1-SEED FALLS. ESPN's Borzello picks this explicitly. By the Elite 8, Duke will have played 5 games in 2.5 weeks with a 7-man rotation (Foster OUT, Ngongba questionable). Boozer is transcendent but fatigue compounds depth problems \u2014 he played 37+ minutes in every ACC Tournament game. UConn's depth advantage becomes decisive: Hurley rotates 9 deep with Karaban, Reed Jr., Ball, Demary Jr., and Mullins all contributing. Reed Jr.'s 2.1 BPG contests Boozer's drives. Hurley has been to 3 of the last 4 championship games. In the biggest game of the East Region, tournament DNA and roster health beat individual brilliance. UConn 72-71 on a Mullins three with 40 seconds left."
   },
   {
     "round": "E8",
@@ -741,7 +741,7 @@
     "ouLean": "SLIGHT OVER",
     "confidence": "High",
     "upset": false,
-    "reasoning": "Arizona balance (7 scorers) + top-3 D overwhelm Purdue's inconsistent D (went 6-7 in final 13 games, D dropped #20→#88 BEFORE 4 B10 tourney games). Purdue FATIGUED from 4 back-to-back Big Ten tourney games. Arizona 81-73."
+    "reasoning": "Arizona's balance and defensive versatility overwhelm Purdue's offense-first approach. Purdue's late-season defensive collapse (6-7 in final 13, defense dropped from #20 to #88) is the fatal flaw. Arizona can match Purdue offensively with 7 scorers AND defend at a top-3 level. Bradley and Burries pick apart Purdue's inconsistent defense. Arizona 81-73."
   },
   {
     "round": "E8",
@@ -753,7 +753,7 @@
     "ouLean": "UNDER",
     "confidence": "High",
     "upset": false,
-    "reasoning": "#1 D in America contains even Momcilovic. Michigan held Big Ten opponents <30% 3PT. Lendeborg/Mara own paint. Size decisive. Michigan 69-63."
+    "reasoning": "Michigan's #1 defense vs Momcilovic's 50% from three is the ultimate test. But Michigan's perimeter defense is elite \u2014 they held opponents to under 30% from three in Big Ten play. Even Momcilovic will have his worst shooting game of the season against Michigan's length. Lendeborg and Mara own the paint. Michigan's size advantage is worth 6-8 points in rebounding margin alone. Michigan 69-63."
   },
   {
     "round": "E8",
@@ -765,11 +765,11 @@
     "ouLean": "STRONG UNDER",
     "confidence": "High",
     "upset": false,
-    "reasoning": "2025 title game rematch played IN HOUSTON (home court = 3+ pts). Sampson D stifles UF frontcourt + held them to 65 last year. Flemings outplays Haugh in isolation. LOWEST E8 total. Houston 62-58."
+    "reasoning": "National championship rematch from 2025 \u2014 except this time it's in Houston. The Toyota Center crowd will be 85% Houston fans. Sampson's defense held Florida to 65 in last year's title game. Flemings didn't exist last year \u2014 his addition makes Houston's offense more dynamic. Houston's structural home-court advantage in the second weekend is worth 3+ points. Houston 62-58."
   },
   {
     "round": "F4",
-    "region": "—",
+    "region": "\u2014",
     "matchup": "UConn vs Arizona",
     "spread": "nan",
     "ouTotal": "~141",
@@ -777,11 +777,11 @@
     "ouLean": "UNDER",
     "confidence": "Med",
     "upset": false,
-    "reasoning": "Arizona depth slightly edges UConn (gassed from Duke war). Bradley outlasts Demary. Peat (13.8/5.3 RPG) X-factor. Arizona 75-70."
+    "reasoning": "Arizona's 7-man scoring attack vs Hurley's dynasty bid. UConn knocked out Duke in the Elite 8, but the emotional high and physical toll of that win leaves them slightly depleted. Arizona, having cruised through a less taxing West bracket, is fresher. Bradley's point-of-attack defense contains Demary Jr. Burries (16.0 PPG) outscores Karaban. Peat's athleticism off the bench gives Arizona a dimension UConn can't match. The safest team in the field outlasts the most experienced. Arizona 75-70."
   },
   {
     "round": "F4",
-    "region": "—",
+    "region": "\u2014",
     "matchup": "Michigan vs Houston",
     "spread": "nan",
     "ouTotal": "~130",
@@ -789,11 +789,11 @@
     "ouLean": "STRONG UNDER",
     "confidence": "Med",
     "upset": false,
-    "reasoning": "Best two defenses left (#1 & top-5 D meet). Michigan size neutralizes Sampson's defensive scheme. Lendeborg (6-9, 1.4 BPG) dominates paint. Mara (7-3) uncoverable. Michigan 68-61."
+    "reasoning": "Michigan's size is the great equalizer against Houston's elite defense. Lendeborg (6-9), Johnson (6-9), and Mara (7-3!) create the interior advantage Sampson has never had to solve. Houston's defense relies on making opponents uncomfortable in the paint \u2014 but Michigan's frontcourt IS the paint. Flemings duels with Cadeau at point guard, but Michigan's interior dominance controls the game. Houston's home-court advantage from the South Region is gone in Indianapolis. Michigan 68-61."
   },
   {
     "round": "CHAMP",
-    "region": "—",
+    "region": "\u2014",
     "matchup": "Arizona vs Michigan",
     "spread": "nan",
     "ouTotal": "~138",
@@ -801,6 +801,6 @@
     "ouLean": "UNDER",
     "confidence": "Med",
     "upset": false,
-    "reasoning": "Championship game defensive slugfest. Michigan #1 D + tallest frontcourt (Lendeborg 6-9 lottery, Mara 7-3!!). Lendeborg PROJECTED MOP: 19/11/3 blocks. Arizona depth (7 scorers) vs Michigan glass + defense. Size compounds. Michigan wins glass battle. Dusty May's masterpiece. Michigan 72-68. ⭐⭐⭐ CHAMPIONSHIP."
+    "reasoning": "The two most analytically complete teams in America meet for the title. Michigan has the #1 defense; Arizona has the #3 defense and #5 offense. The difference: Michigan's size. Mara (7-3) and Lendeborg (6-9) create a frontcourt no team in the country can match, including Arizona's talented but smaller (by comparison) unit. In a low-scoring, defensive slugfest, the team that controls the glass controls the game. Michigan's defensive rebounding (#1 nationally) ensures Arizona gets one shot per possession. Lendeborg finishes with 19 points, 11 rebounds, and 3 blocks to earn Most Outstanding Player. Dusty May cuts down the nets. Michigan 72-68."
   }
 ]

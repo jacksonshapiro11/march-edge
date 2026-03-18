@@ -109,15 +109,30 @@ export default function AnalysisPage() {
                       OUR CHAMPION
                     </span>
                   )}
-                  {team.ourPick.includes("Final Four") && (
+                  {team.ourPick.includes("Final Four") && !team.ourPick.includes("CHAMPION") && (
                     <span className="text-[10px] font-bold px-2 py-0.5 rounded bg-emerald-500/15 text-emerald-400 tracking-wide">
                       FINAL FOUR
                     </span>
                   )}
+                  {team.ourPick.includes("Elite") && (
+                    <span className="text-[10px] font-bold px-2 py-0.5 rounded bg-blue-500/15 text-blue-400 tracking-wide">
+                      ELITE 8
+                    </span>
+                  )}
+                  {team.ourPick.includes("Sweet") && (
+                    <span className="text-[10px] font-bold px-2 py-0.5 rounded bg-purple-500/15 text-purple-400 tracking-wide">
+                      SWEET 16
+                    </span>
+                  )}
                 </div>
-                <div className="text-xs text-text-dim mb-2">
+                <div className="text-xs text-text-dim mb-1">
                   {team.coach} · KenPom {team.kenpom}
                 </div>
+                {team.narrative && (
+                  <p className="text-xs text-text-muted leading-relaxed mb-2 italic">
+                    {team.narrative}
+                  </p>
+                )}
                 {/* Key Players */}
                 <div className="mb-2">
                   <div className="text-[10px] font-bold text-text-dim tracking-wider mb-1">KEY PLAYERS</div>
@@ -131,8 +146,30 @@ export default function AnalysisPage() {
                     ))}
                   </div>
                 </div>
-                <DataRow label="STRENGTHS" value={team.strengths} />
-                <DataRow label="WEAKNESSES" value={team.weaknesses} />
+                {/* Strengths */}
+                <div className="py-2 border-b border-border-subtle">
+                  <div className="text-[10px] font-bold text-text-dim tracking-wider mb-1.5">STRENGTHS</div>
+                  <ul className="space-y-1 pl-0 list-none">
+                    {(Array.isArray(team.strengths) ? team.strengths : [team.strengths]).map((s: string, si: number) => (
+                      <li key={si} className="text-sm text-emerald-400/90 flex items-start gap-1.5">
+                        <span className="text-emerald-500/60 mt-0.5 text-xs">+</span>
+                        <span>{s}</span>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+                {/* Weaknesses */}
+                <div className="py-2 border-b border-border-subtle">
+                  <div className="text-[10px] font-bold text-text-dim tracking-wider mb-1.5">WEAKNESSES</div>
+                  <ul className="space-y-1 pl-0 list-none">
+                    {(Array.isArray(team.weaknesses) ? team.weaknesses : [team.weaknesses]).map((w: string, wi: number) => (
+                      <li key={wi} className="text-sm text-red-400/90 flex items-start gap-1.5">
+                        <span className="text-red-500/60 mt-0.5 text-xs">−</span>
+                        <span>{w}</span>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
                 <DataRow label="OUR PICK" value={team.ourPick} accent />
               </div>
             ))}
