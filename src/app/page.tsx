@@ -40,9 +40,9 @@ const REGIONS = [
 
 const FINAL_FOUR = [
   { team: "Michigan", seed: "1 MW", note: "CHAMPION 🏆", highlight: true },
-  { team: "Arizona", seed: "1 W", note: "Runner-up", highlight: false },
-  { team: "UConn", seed: "2 E", note: "Duke falls in E8", highlight: false },
-  { team: "Houston", seed: "2 S", note: "Home court edge", highlight: false },
+  { team: "Houston", seed: "2 S", note: "Runner-up", highlight: false },
+  { team: "Arizona", seed: "1 W", note: "Falls in semifinal", highlight: false },
+  { team: "UConn", seed: "2 E", note: "Big East loss looms", highlight: false },
 ];
 
 const ROUND_ORDER = ["First Four", "R64", "R32", "S16", "E8"];

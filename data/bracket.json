@@ -770,29 +770,17 @@
   {
     "round": "F4",
     "region": "\u2014",
-    "matchup": "UConn vs Arizona",
+    "matchup": "UConn vs Houston",
     "spread": "nan",
-    "ouTotal": "~141",
-    "pick": "Arizona",
+    "ouTotal": "~131",
+    "pick": "Houston",
     "ouLean": "UNDER",
     "confidence": "Med",
     "upset": false,
-    "reasoning": "Arizona's 7-man scoring attack vs Hurley's dynasty bid. UConn knocked out Duke in the Elite 8, but the emotional high and physical toll of that win leaves them slightly depleted. Arizona, having cruised through a less taxing West bracket, is fresher. Bradley's point-of-attack defense contains Demary Jr. Burries (16.0 PPG) outscores Karaban. Peat's athleticism off the bench gives Arizona a dimension UConn can't match. The safest team in the field outlasts the most experienced. Arizona 75-70."
+    "reasoning": "Houston's suffocating defense meets a UConn team still reeling from St. John's 72-52 Big East tournament demolition. That loss wasn't a fluke \u2014 Ejiofor's 18 points and 7 blocks exposed UConn's interior vulnerability, the exact weakness Houston is built to exploit. Sampson's switchy defense limits Demary Jr.'s driving lanes while Houston's offensive rebounding (top 10 nationally) generates second chances UConn can't afford. Karaban battles inside but Houston's depth and physicality wear UConn down over 40 minutes. The Cougars' identity \u2014 defense, rebounding, toughness \u2014 is exactly the profile that broke UConn four days ago, and Houston does it better than St. John's. Houston 64-58."
   },
   {
     "round": "F4",
-    "region": "\u2014",
-    "matchup": "Michigan vs Houston",
-    "spread": "nan",
-    "ouTotal": "~130",
-    "pick": "Michigan",
-    "ouLean": "STRONG UNDER",
-    "confidence": "Med",
-    "upset": false,
-    "reasoning": "Michigan's size is the great equalizer against Houston's elite defense. Lendeborg (6-9), Johnson (6-9), and Mara (7-3!) create the interior advantage Sampson has never had to solve. Houston's defense relies on making opponents uncomfortable in the paint \u2014 but Michigan's frontcourt IS the paint. Flemings duels with Cadeau at point guard, but Michigan's interior dominance controls the game. Houston's home-court advantage from the South Region is gone in Indianapolis. Michigan 68-61."
-  },
-  {
-    "round": "CHAMP",
     "region": "\u2014",
     "matchup": "Arizona vs Michigan",
     "spread": "nan",
@@ -801,6 +789,18 @@
     "ouLean": "UNDER",
     "confidence": "Med",
     "upset": false,
-    "reasoning": "The two most analytically complete teams in America meet for the title. Michigan has the #1 defense; Arizona has the #3 defense and #5 offense. The difference: Michigan's size. Mara (7-3) and Lendeborg (6-9) create a frontcourt no team in the country can match, including Arizona's talented but smaller (by comparison) unit. In a low-scoring, defensive slugfest, the team that controls the glass controls the game. Michigan's defensive rebounding (#1 nationally) ensures Arizona gets one shot per possession. Lendeborg finishes with 19 points, 11 rebounds, and 3 blocks to earn Most Outstanding Player. Dusty May cuts down the nets. Michigan 72-68."
+    "reasoning": "The two most analytically complete teams in America meet in the semifinal. Arizona's 7-man scoring attack is the best offense Michigan has faced, but the Wolverines' #1 defense is purpose-built for this moment. Mara (7-3) and Lendeborg (6-9) create a frontcourt Arizona can't match in size. Bradley's point-of-attack defense is elite, but Cadeau's court vision finds gaps in any system. Michigan's defensive rebounding (#1 nationally) limits Arizona to one shot per possession, neutralizing Burries and Peat. In a game where both defenses show up, the team that controls the glass controls the outcome. Michigan 70-65."
+  },
+  {
+    "round": "CHAMP",
+    "region": "\u2014",
+    "matchup": "Houston vs Michigan",
+    "spread": "nan",
+    "ouTotal": "~130",
+    "pick": "Michigan",
+    "ouLean": "STRONG UNDER",
+    "confidence": "Med",
+    "upset": false,
+    "reasoning": "The championship comes down to the two best defenses in college basketball \u2014 and Michigan's size is the deciding factor. Houston's elite defense has carried them all tournament, but they've never faced a frontcourt like Michigan's. Mara (7-3), Lendeborg (6-9), and Johnson (6-9) create an interior advantage Sampson has no answer for. Houston tries to make it ugly, and it IS ugly \u2014 but Michigan thrives in ugly. The Wolverines' defensive rebounding (#1 nationally) ensures Houston's second-chance points dry up. Flemings duels Cadeau at the point, but Lendeborg dominates the paint with 21 points, 12 rebounds, and 4 blocks to earn Most Outstanding Player. In the lowest-scoring championship game since 2023, Dusty May cuts down the nets. Michigan 65-59."
   }
 ]
